@@ -1,0 +1,2401 @@
+order_id,order_date,customer_id,region,channel,category,product,quantity,unit_price,discount,acquisition_cost
+O002316,2024-01-01,C00254,West,Retail Store,Beauty,Travel Mirror,2,17.73,0.05,9.5
+O002259,2024-01-01,C00507,West,Online,Electronics,Webcam,4,51.5,0.0,5.6
+O001488,2024-01-01,C00086,East,Marketplace,Beauty,Face Serum,7,36.5,0.0,6.5
+O001409,2024-01-02,C00038,South,Retail Store,Sports,Resistance Band,3,29.53,0.0,12.65
+O001949,2024-01-02,C00409,West,Online,Books,Data Science Book,2,19.53,0.1,10.28
+O001996,2024-01-02,C00434,East,Online,Home,Desk Lamp,1,37.82,0.0,12.13
+O001482,2024-01-02,C00448,West,Retail Store,Books,Notebook,5,15.85,0.15,7.02
+O001739,2024-01-03,C00034,South,Online,Electronics,Webcam,6,64.42,0.0,3.43
+O001622,2024-01-03,C00474,West,Online,Beauty,Shampoo Set,3,17.52,0.0,4.66
+O001913,2024-01-03,C00197,West,Online,Beauty,Travel Mirror,1,20.34,0.0,3.76
+O000846,2024-01-04,C00039,East,Online,Electronics,USB-C Hub,4,68.53,0.05,5.37
+O000381,2024-01-04,C00436,West,Online,Books,Notebook,3,13.61,0.05,10.06
+O000901,2024-01-04,C00018,West,Online,Beauty,Shampoo Set,4,33.01,0.05,14.09
+O001294,2024-01-04,C00036,East,Online,Books,Sketch Pad,5,18.02,0.2,5.64
+O000773,2024-01-04,C00099,South,Retail Store,Beauty,Shampoo Set,2,19.65,0.0,14.82
+O001550,2024-01-04,C00002,South,Retail Store,Electronics,Bluetooth Speaker,4,79.05,0.0,14.56
+O001237,2024-01-04,C00108,East,Retail Store,Sports,Yoga Mat,3,31.16,0.0,6.01
+O000465,2024-01-05,C00284,South,Online,Books,Sketch Pad,1,25.13,0.1,14.37
+O000845,2024-01-05,C00362,East,Online,Books,Data Science Book,1,20.05,0.0,2.64
+O001190,2024-01-06,C00253,West,Retail Store,Electronics,USB-C Hub,4,104.78,0.0,13.62
+O000575,2024-01-06,C00262,North,Retail Store,Sports,Yoga Mat,1,31.41,0.0,7.82
+O000707,2024-01-06,C00044,East,Online,Home,Coffee Grinder,3,32.23,0.05,4.81
+O001279,2024-01-06,C00344,East,Online,Home,Storage Box,3,37.7,0.0,11.63
+O000104,2024-01-06,C00044,North,Retail Store,Electronics,Wireless Mouse,6,39.7,0.05,3.43
+O002202,2024-01-06,C00406,South,Online,Beauty,Travel Mirror,1,21.73,0.0,14.41
+O001807,2024-01-07,C00102,South,Online,Sports,Bike Light,2,22.62,0.0,7.88
+O001532,2024-01-07,C00441,North,Online,Home,Desk Lamp,1,44.19,0.15,13.37
+O001175,2024-01-07,C00192,South,Online,Home,Coffee Grinder,2,50.19,0.0,4.44
+O001763,2024-01-08,C00432,West,Retail Store,Electronics,Webcam,2,65.54,0.0,12.11
+O000303,2024-01-08,C00499,South,Online,Home,Storage Box,1,26.89,0.0,13.93
+O001070,2024-01-08,C00390,South,Retail Store,Books,Planner,2,19.46,0.1,12.17
+O000801,2024-01-09,C00319,West,Online,Beauty,Hand Cream,1,24.1,0.0,12.89
+O000790,2024-01-09,C00431,West,Online,Electronics,Wireless Mouse,2,57.23,0.05,11.96
+O001682,2024-01-10,C00305,West,Online,Electronics,Wireless Mouse,2,65.56,0.0,6.81
+O000839,2024-01-11,C00156,South,Retail Store,Sports,Running Bottle,4,32.75,0.05,4.05
+O000410,2024-01-11,C00331,South,Online,Home,Desk Lamp,1,47.04,0.0,5.75
+O001121,2024-01-11,C00060,East,Online,Electronics,Bluetooth Speaker,6,76.39,0.0,7.65
+O001038,2024-01-11,C00241,West,Online,Home,Air Purifier,3,46.96,0.1,4.87
+O000889,2024-01-12,C00510,South,Marketplace,Beauty,Travel Mirror,2,29.19,0.0,2.86
+O001366,2024-01-13,C00073,East,Online,Home,Storage Box,3,36.4,0.0,8.79
+O001624,2024-01-13,C00112,East,Online,Books,Notebook,2,27.44,0.05,13.21
+O001594,2024-01-14,C00035,West,Online,Books,Notebook,5,17.46,0.0,6.91
+O001652,2024-01-14,C00233,West,Online,Home,Air Purifier,3,23.27,0.0,7.33
+O000415,2024-01-14,C00055,South,Online,Beauty,Travel Mirror,5,30.45,0.2,10.46
+O000478,2024-01-14,C00332,North,Marketplace,Home,Coffee Grinder,3,19.77,0.15,9.65
+O002090,2024-01-15,C00460,South,Retail Store,Home,Air Purifier,4,63.75,0.0,13.09
+O000233,2024-01-15,C00350,West,Online,Electronics,USB-C Hub,4,84.45,0.0,7.58
+O000300,2024-01-16,C00164,West,Retail Store,Sports,Yoga Mat,5,29.37,0.0,13.91
+O002171,2024-01-16,C00375,West,Retail Store,Books,Data Science Book,4,17.92,0.0,10.34
+O000540,2024-01-16,C00171,South,Retail Store,Beauty,Shampoo Set,3,12.14,0.05,4.45
+O001529,2024-01-16,C00149,East,Retail Store,Home,Coffee Grinder,3,35.43,0.2,8.35
+O000272,2024-01-17,C00087,East,Online,Electronics,Webcam,4,35.39,0.2,6.22
+O002138,2024-01-17,C00307,East,Retail Store,Books,Sketch Pad,6,15.23,0.05,2.97
+O000170,2024-01-17,C00103,East,Retail Store,Home,Desk Lamp,3,39.89,0.0,6.31
+O001167,2024-01-17,C00461,West,Marketplace,Electronics,USB-C Hub,4,74.26,0.05,8.56
+O000369,2024-01-17,C00247,East,Online,Home,Air Purifier,4,46.4,0.1,4.43
+O001744,2024-01-17,C00211,North,Online,Electronics,USB-C Hub,4,89.15,0.15,8.16
+O002261,2024-01-18,C00373,South,Retail Store,Home,Desk Lamp,2,36.11,0.1,13.07
+O001783,2024-01-18,C00147,North,Online,Electronics,Webcam,3,66.27,0.1,7.08
+O000821,2024-01-18,C00469,East,Online,Sports,Running Bottle,3,20.37,0.0,10.51
+O001180,2024-01-19,C00086,East,Retail Store,Beauty,Shampoo Set,5,31.23,0.2,12.2
+O001399,2024-01-19,C00030,East,Online,Books,Data Science Book,5,14.34,0.0,3.74
+O000429,2024-01-19,C00087,West,Marketplace,Electronics,Bluetooth Speaker,5,61.95,0.1,15.22
+O000454,2024-01-19,C00124,North,Marketplace,Electronics,USB-C Hub,1,59.75,0.2,4.32
+O002329,2024-01-20,C00009,East,Retail Store,Beauty,Face Serum,4,15.27,0.15,13.3
+O002223,2024-01-20,C00436,North,Retail Store,Sports,Running Bottle,3,22.15,0.0,5.84
+O000830,2024-01-22,C00125,North,Marketplace,Sports,Resistance Band,2,28.09,0.1,14.88
+O001944,2024-01-22,C00028,South,Online,Electronics,Webcam,3,63.14,0.0,6.6
+O001300,2024-01-22,C00249,South,Online,Home,Coffee Grinder,2,57.73,0.0,8.67
+O001590,2024-01-22,C00197,East,Online,Home,Air Purifier,4,20.7,0.05,12.22
+O001493,2024-01-22,C00101,West,Online,Books,Sketch Pad,4,25.7,0.0,6.92
+O000138,2024-01-23,C00519,West,Online,Sports,Running Bottle,2,18.35,0.0,3.44
+O001536,2024-01-23,C00491,West,Marketplace,Home,Storage Box,4,35.05,0.0,2.95
+O001869,2024-01-23,C00307,South,Online,Beauty,Hand Cream,3,24.03,0.0,12.74
+O000787,2024-01-24,C00325,West,Marketplace,Electronics,Webcam,7,71.04,0.0,7.63
+O000385,2024-01-24,C00148,South,Marketplace,Sports,Yoga Mat,7,13.17,0.0,4.66
+O002263,2024-01-24,C00016,South,Retail Store,Electronics,USB-C Hub,4,67.21,0.15,13.95
+O000663,2024-01-26,C00385,East,Retail Store,Books,Sketch Pad,3,17.64,0.1,10.99
+O000147,2024-01-26,C00462,South,Online,Home,Desk Lamp,3,55.48,0.0,13.57
+O002322,2024-01-26,C00050,East,Retail Store,Books,Planner,2,17.06,0.0,14.07
+O001683,2024-01-26,C00386,South,Retail Store,Sports,Running Bottle,2,24.34,0.2,10.34
+O001909,2024-01-27,C00415,East,Online,Electronics,USB-C Hub,2,71.23,0.2,14.93
+O000970,2024-01-27,C00357,West,Online,Sports,Resistance Band,1,17.99,0.2,9.46
+O000844,2024-01-27,C00488,South,Marketplace,Books,Notebook,3,11.66,0.05,4.25
+O001446,2024-01-27,C00021,East,Online,Books,Planner,1,20.21,0.2,9.8
+O001266,2024-01-28,C00191,East,Online,Beauty,Hand Cream,4,18.67,0.2,10.52
+O000328,2024-01-28,C00461,South,Online,Home,Desk Lamp,2,45.17,0.1,15.04
+O000117,2024-01-28,C00237,West,Online,Sports,Resistance Band,5,24.87,0.0,5.2
+O002203,2024-01-29,C00385,East,Retail Store,Sports,Bike Light,3,26.43,0.0,12.21
+O002038,2024-01-30,C00079,West,Retail Store,Home,Air Purifier,4,41.51,0.15,13.2
+O001240,2024-01-30,C00033,East,Retail Store,Beauty,Hand Cream,2,34.24,0.05,11.87
+O000870,2024-01-30,C00048,West,Retail Store,Sports,Yoga Mat,1,26.89,0.05,9.93
+O000250,2024-01-31,C00427,West,Marketplace,Electronics,Webcam,5,50.19,0.05,8.64
+O001099,2024-01-31,C00465,North,Marketplace,Electronics,Wireless Mouse,2,60.48,0.0,3.05
+O001019,2024-01-31,C00034,East,Online,Books,Data Science Book,3,16.75,0.0,6.25
+O000902,2024-01-31,C00175,North,Online,Electronics,Webcam,5,47.86,0.05,6.75
+O001452,2024-01-31,C00452,West,Marketplace,Home,Storage Box,3,26.56,0.0,12.02
+O001871,2024-02-01,C00028,North,Marketplace,Electronics,Wireless Mouse,2,60.8,0.15,9.63
+O002339,2024-02-01,C00477,North,Online,Electronics,Bluetooth Speaker,5,67.02,0.2,11.17
+O000562,2024-02-01,C00051,South,Retail Store,Electronics,Bluetooth Speaker,3,78.36,0.0,3.28
+O000817,2024-02-01,C00258,South,Online,Electronics,USB-C Hub,1,76.75,0.0,8.82
+O000811,2024-02-02,C00180,West,Online,Electronics,Bluetooth Speaker,3,61.63,0.0,12.68
+O000397,2024-02-02,C00253,West,Online,Electronics,Bluetooth Speaker,1,78.78,0.05,9.38
+O000352,2024-02-02,C00114,East,Retail Store,Home,Air Purifier,1,41.45,0.2,7.21
+O002371,2024-02-02,C00494,East,Online,Beauty,Travel Mirror,3,27.13,0.0,11.7
+O000056,2024-02-02,C00402,West,Marketplace,Books,Planner,3,22.05,0.15,7.46
+O001110,2024-02-02,C00426,South,Retail Store,Books,Planner,6,18.13,0.0,14.92
+O001806,2024-02-03,C00128,West,Marketplace,Beauty,Hand Cream,4,23.83,0.1,13.99
+O001526,2024-02-04,C00409,East,Retail Store,Beauty,Hand Cream,2,19.35,0.1,10.43
+O001781,2024-02-04,C00448,South,Marketplace,Sports,Bike Light,2,26.07,0.1,9.05
+O001463,2024-02-04,C00112,East,Retail Store,Home,Storage Box,1,52.01,0.0,8.05
+O001286,2024-02-05,C00141,West,Online,Home,Air Purifier,2,41.11,0.0,10.71
+O001270,2024-02-05,C00432,East,Retail Store,Home,Desk Lamp,2,49.3,0.0,9.55
+O001518,2024-02-05,C00390,West,Online,Books,Data Science Book,3,18.62,0.05,6.89
+O000699,2024-02-06,C00113,East,Retail Store,Electronics,Webcam,2,84.91,0.1,15.18
+O001642,2024-02-06,C00273,South,Online,Home,Air Purifier,3,36.72,0.0,3.32
+O000574,2024-02-06,C00042,North,Online,Books,Sketch Pad,3,12.35,0.1,9.0
+O001976,2024-02-06,C00491,West,Retail Store,Electronics,Webcam,3,61.5,0.0,15.96
+O001464,2024-02-07,C00211,West,Online,Electronics,Webcam,3,57.67,0.0,12.39
+O001453,2024-02-07,C00428,North,Online,Beauty,Shampoo Set,2,28.42,0.0,11.61
+O002278,2024-02-07,C00091,West,Online,Books,Notebook,2,17.14,0.0,9.03
+O000848,2024-02-07,C00453,East,Online,Sports,Bike Light,2,27.74,0.0,13.68
+O000584,2024-02-07,C00249,South,Online,Electronics,Bluetooth Speaker,4,63.29,0.0,8.19
+O001653,2024-02-07,C00479,East,Online,Beauty,Hand Cream,3,14.28,0.0,7.05
+O000887,2024-02-08,C00196,East,Retail Store,Home,Storage Box,4,40.69,0.1,11.24
+O002314,2024-02-08,C00265,East,Marketplace,Books,Data Science Book,5,22.87,0.0,4.18
+O000898,2024-02-09,C00350,South,Online,Home,Air Purifier,3,52.78,0.0,3.61
+O001983,2024-02-09,C00478,West,Online,Home,Coffee Grinder,2,34.45,0.0,10.35
+O000546,2024-02-09,C00090,South,Online,Sports,Yoga Mat,3,26.07,0.15,14.48
+O001021,2024-02-10,C00115,South,Online,Home,Air Purifier,3,48.29,0.05,7.48
+O000542,2024-02-10,C00405,North,Marketplace,Electronics,USB-C Hub,3,71.37,0.0,14.26
+O001026,2024-02-10,C00229,North,Marketplace,Electronics,Webcam,3,72.0,0.1,5.43
+O001267,2024-02-10,C00464,West,Online,Beauty,Shampoo Set,2,30.29,0.0,4.47
+O000858,2024-02-11,C00321,West,Online,Home,Air Purifier,3,29.27,0.05,5.6
+O001801,2024-02-11,C00291,West,Retail Store,Beauty,Shampoo Set,5,21.95,0.2,15.86
+O001979,2024-02-11,C00287,South,Online,Electronics,Wireless Mouse,1,96.96,0.1,8.4
+O001136,2024-02-12,C00324,East,Retail Store,Beauty,Shampoo Set,3,22.39,0.05,12.61
+O000150,2024-02-12,C00445,West,Marketplace,Electronics,Webcam,5,33.36,0.0,4.39
+O001411,2024-02-14,C00009,West,Marketplace,Books,Notebook,1,16.49,0.15,7.92
+O001470,2024-02-14,C00336,North,Retail Store,Home,Coffee Grinder,2,33.58,0.1,6.12
+O001615,2024-02-14,C00324,West,Online,Electronics,USB-C Hub,6,44.67,0.15,3.05
+O001889,2024-02-14,C00297,North,Retail Store,Sports,Yoga Mat,6,23.06,0.1,3.46
+O002373,2024-02-14,C00364,West,Marketplace,Home,Desk Lamp,2,51.46,0.2,7.68
+O000619,2024-02-14,C00288,South,Online,Home,Storage Box,3,33.95,0.1,9.11
+O001351,2024-02-14,C00044,West,Marketplace,Sports,Bike Light,2,38.08,0.15,8.29
+O002002,2024-02-15,C00112,North,Marketplace,Books,Planner,2,16.2,0.15,6.18
+O000036,2024-02-16,C00131,North,Retail Store,Electronics,Wireless Mouse,5,59.18,0.1,3.89
+O002129,2024-02-16,C00281,South,Online,Sports,Running Bottle,2,30.45,0.1,3.15
+O002331,2024-02-17,C00509,West,Online,Electronics,Bluetooth Speaker,3,58.48,0.05,7.64
+O000279,2024-02-17,C00127,East,Marketplace,Home,Coffee Grinder,4,35.03,0.0,15.0
+O001456,2024-02-17,C00431,North,Online,Books,Planner,3,8.62,0.05,11.88
+O001035,2024-02-18,C00003,North,Marketplace,Beauty,Shampoo Set,1,23.95,0.0,4.95
+O000518,2024-02-18,C00063,West,Retail Store,Sports,Resistance Band,2,26.46,0.0,11.5
+O001769,2024-02-19,C00446,North,Online,Sports,Running Bottle,3,33.6,0.05,4.39
+O002312,2024-02-19,C00332,North,Marketplace,Beauty,Hand Cream,1,24.21,0.0,14.19
+O000045,2024-02-19,C00428,East,Online,Home,Storage Box,1,38.62,0.1,9.65
+O001362,2024-02-19,C00157,West,Retail Store,Beauty,Face Serum,1,15.93,0.0,9.52
+O000387,2024-02-19,C00405,West,Online,Home,Coffee Grinder,3,34.89,0.0,15.02
+O002232,2024-02-20,C00145,South,Retail Store,Sports,Yoga Mat,2,42.97,0.0,15.95
+O000899,2024-02-21,C00374,West,Online,Electronics,Wireless Mouse,4,71.3,0.0,11.11
+O001953,2024-02-22,C00444,North,Online,Home,Air Purifier,2,42.82,0.0,8.21
+O000659,2024-02-22,C00171,North,Retail Store,Electronics,Wireless Mouse,5,68.06,0.0,7.42
+O001022,2024-02-22,C00409,South,Marketplace,Home,Air Purifier,1,42.21,0.05,11.98
+O001834,2024-02-22,C00130,West,Online,Electronics,USB-C Hub,4,41.35,0.0,10.36
+O002025,2024-02-23,C00275,East,Marketplace,Electronics,Wireless Mouse,2,57.03,0.0,15.78
+O001215,2024-02-24,C00013,South,Online,Home,Storage Box,3,48.05,0.0,10.58
+O001253,2024-02-24,C00469,East,Retail Store,Sports,Resistance Band,4,16.91,0.05,7.99
+O001911,2024-02-24,C00353,South,Retail Store,Home,Desk Lamp,3,50.26,0.0,2.76
+O000069,2024-02-25,C00093,North,Online,Home,Air Purifier,3,51.1,0.0,4.08
+O001055,2024-02-26,C00396,North,Marketplace,Books,Sketch Pad,3,20.04,0.05,3.2
+O001027,2024-02-26,C00270,East,Marketplace,Beauty,Hand Cream,2,25.0,0.15,9.29
+O000217,2024-02-27,C00341,South,Marketplace,Sports,Bike Light,2,30.16,0.0,9.35
+O001588,2024-02-27,C00327,South,Retail Store,Sports,Resistance Band,2,26.58,0.05,5.64
+O000127,2024-02-27,C00368,South,Online,Home,Desk Lamp,1,36.03,0.05,12.13
+O001096,2024-02-28,C00315,North,Marketplace,Electronics,Bluetooth Speaker,4,67.77,0.0,7.79
+O001571,2024-02-28,C00359,South,Retail Store,Electronics,Bluetooth Speaker,4,81.37,0.1,10.59
+O001851,2024-02-29,C00276,North,Marketplace,Books,Notebook,4,23.19,0.0,9.77
+O000439,2024-02-29,C00249,East,Online,Electronics,Webcam,3,67.78,0.0,12.14
+O000280,2024-03-01,C00448,West,Online,Home,Air Purifier,3,48.58,0.05,13.22
+O001361,2024-03-01,C00121,West,Marketplace,Sports,Bike Light,1,18.59,0.1,13.69
+O000431,2024-03-02,C00137,South,Retail Store,Home,Air Purifier,4,42.11,0.0,8.18
+O000246,2024-03-02,C00330,West,Retail Store,Sports,Bike Light,4,30.26,0.0,10.37
+O000678,2024-03-02,C00485,West,Online,Home,Air Purifier,3,40.59,0.0,6.14
+O001328,2024-03-02,C00029,East,Retail Store,Books,Sketch Pad,3,19.85,0.2,3.82
+O001122,2024-03-02,C00347,North,Retail Store,Electronics,Bluetooth Speaker,2,83.16,0.1,5.69
+O001256,2024-03-03,C00492,East,Retail Store,Sports,Yoga Mat,4,33.35,0.0,8.57
+O002366,2024-03-03,C00307,West,Marketplace,Beauty,Travel Mirror,4,28.36,0.05,3.48
+O000007,2024-03-03,C00061,West,Online,Sports,Bike Light,2,26.63,0.0,3.45
+O000881,2024-03-03,C00021,West,Online,Home,Coffee Grinder,1,46.7,0.05,14.31
+O002317,2024-03-04,C00508,East,Marketplace,Sports,Running Bottle,2,28.53,0.1,5.98
+O000753,2024-03-04,C00008,East,Online,Beauty,Travel Mirror,3,18.37,0.0,8.86
+O001721,2024-03-05,C00061,East,Online,Books,Planner,3,18.11,0.0,10.79
+O000728,2024-03-05,C00264,West,Retail Store,Beauty,Shampoo Set,3,27.03,0.0,14.6
+O001543,2024-03-05,C00315,South,Online,Electronics,Webcam,5,65.39,0.05,4.92
+O000196,2024-03-05,C00444,North,Online,Electronics,Wireless Mouse,2,74.4,0.1,5.25
+O001531,2024-03-06,C00165,East,Retail Store,Electronics,Bluetooth Speaker,2,81.15,0.0,4.98
+O000172,2024-03-06,C00143,North,Marketplace,Books,Notebook,3,10.07,0.0,12.52
+O000001,2024-03-06,C00344,North,Retail Store,Sports,Resistance Band,4,23.64,0.0,14.11
+O001809,2024-03-06,C00227,South,Online,Electronics,Wireless Mouse,5,81.42,0.0,3.18
+O001931,2024-03-06,C00311,South,Online,Home,Storage Box,3,41.36,0.0,2.68
+O000695,2024-03-06,C00396,East,Retail Store,Home,Storage Box,3,41.86,0.1,6.54
+O002033,2024-03-07,C00468,East,Online,Sports,Resistance Band,1,21.06,0.0,8.05
+O000359,2024-03-07,C00232,North,Online,Sports,Yoga Mat,3,28.04,0.1,12.43
+O000826,2024-03-07,C00025,North,Online,Home,Coffee Grinder,6,29.13,0.0,9.2
+O001633,2024-03-07,C00275,West,Marketplace,Home,Coffee Grinder,4,60.49,0.0,14.61
+O000133,2024-03-07,C00076,South,Online,Sports,Running Bottle,5,29.22,0.0,5.0
+O002340,2024-03-08,C00501,West,Online,Home,Storage Box,4,54.75,0.0,10.8
+O000033,2024-03-08,C00408,West,Marketplace,Electronics,USB-C Hub,4,55.52,0.1,15.14
+O002082,2024-03-08,C00268,West,Online,Electronics,Wireless Mouse,3,87.46,0.0,5.51
+O000910,2024-03-08,C00252,North,Marketplace,Electronics,Webcam,1,67.77,0.05,8.23
+O000010,2024-03-09,C00303,East,Online,Home,Coffee Grinder,2,45.08,0.0,2.54
+O000951,2024-03-09,C00117,South,Online,Sports,Bike Light,1,8.6,0.05,10.94
+O001690,2024-03-09,C00462,West,Online,Electronics,Wireless Mouse,2,99.46,0.0,2.58
+O000581,2024-03-09,C00436,South,Online,Electronics,Bluetooth Speaker,6,73.08,0.15,11.06
+O000674,2024-03-10,C00418,South,Online,Books,Data Science Book,4,21.91,0.0,8.22
+O000977,2024-03-10,C00227,South,Online,Home,Desk Lamp,2,42.08,0.0,8.61
+O000700,2024-03-10,C00330,South,Retail Store,Electronics,USB-C Hub,5,54.16,0.0,7.44
+O000376,2024-03-10,C00035,North,Marketplace,Electronics,Wireless Mouse,1,58.67,0.05,10.85
+O000791,2024-03-10,C00186,East,Retail Store,Electronics,Wireless Mouse,5,72.7,0.0,13.97
+O000243,2024-03-10,C00505,North,Retail Store,Electronics,Bluetooth Speaker,5,42.0,0.05,10.17
+O002266,2024-03-10,C00177,East,Online,Beauty,Shampoo Set,8,28.56,0.15,5.63
+O000218,2024-03-11,C00495,South,Online,Sports,Running Bottle,1,24.88,0.0,14.52
+O001842,2024-03-11,C00153,North,Online,Books,Notebook,1,20.74,0.0,15.95
+O002306,2024-03-11,C00105,East,Retail Store,Sports,Running Bottle,3,33.18,0.15,9.77
+O000087,2024-03-12,C00212,West,Retail Store,Home,Storage Box,3,26.27,0.0,9.94
+O001788,2024-03-13,C00427,East,Online,Sports,Yoga Mat,1,38.2,0.15,12.15
+O000588,2024-03-13,C00341,East,Online,Beauty,Hand Cream,1,19.48,0.0,8.56
+O001738,2024-03-13,C00064,East,Retail Store,Electronics,Webcam,4,63.45,0.1,12.28
+O002321,2024-03-13,C00477,West,Online,Sports,Running Bottle,4,22.97,0.05,7.05
+O001880,2024-03-14,C00396,North,Online,Electronics,USB-C Hub,7,36.72,0.0,14.21
+O000891,2024-03-14,C00266,North,Retail Store,Home,Storage Box,3,25.58,0.0,11.76
+O001289,2024-03-15,C00433,East,Online,Electronics,Bluetooth Speaker,1,72.11,0.1,15.34
+O000580,2024-03-15,C00470,South,Online,Home,Air Purifier,8,51.49,0.1,10.41
+O001436,2024-03-15,C00209,East,Marketplace,Home,Coffee Grinder,2,30.15,0.0,14.22
+O001450,2024-03-16,C00201,East,Online,Beauty,Face Serum,7,25.02,0.0,13.44
+O000258,2024-03-16,C00367,North,Online,Home,Storage Box,4,31.99,0.0,15.99
+O001359,2024-03-16,C00350,North,Marketplace,Home,Storage Box,4,64.4,0.15,12.6
+O000516,2024-03-17,C00334,East,Marketplace,Beauty,Shampoo Set,2,16.97,0.05,10.67
+O002177,2024-03-17,C00154,South,Online,Electronics,USB-C Hub,3,101.39,0.05,4.99
+O001827,2024-03-17,C00115,West,Marketplace,Electronics,Webcam,3,54.47,0.05,5.05
+O001730,2024-03-17,C00471,North,Online,Beauty,Face Serum,4,24.44,0.0,7.94
+O001166,2024-03-17,C00372,East,Online,Beauty,Hand Cream,5,32.68,0.2,8.71
+O001855,2024-03-18,C00129,South,Online,Sports,Bike Light,4,19.8,0.1,14.98
+O000460,2024-03-18,C00166,North,Online,Electronics,Bluetooth Speaker,2,18.37,0.0,14.48
+O000818,2024-03-18,C00322,South,Marketplace,Electronics,Wireless Mouse,2,52.51,0.0,8.14
+O000171,2024-03-18,C00314,East,Online,Electronics,Webcam,5,98.1,0.05,13.01
+O002265,2024-03-18,C00275,South,Online,Beauty,Face Serum,6,35.73,0.0,10.74
+O000583,2024-03-19,C00304,West,Marketplace,Electronics,Webcam,2,49.0,0.1,15.04
+O001227,2024-03-19,C00470,South,Online,Electronics,USB-C Hub,2,76.65,0.05,7.28
+O000322,2024-03-19,C00180,South,Retail Store,Sports,Bike Light,2,31.0,0.0,9.84
+O001272,2024-03-20,C00134,East,Retail Store,Books,Notebook,4,19.92,0.05,7.19
+O000310,2024-03-20,C00299,North,Online,Beauty,Shampoo Set,2,23.61,0.15,6.89
+O000480,2024-03-20,C00496,North,Online,Sports,Running Bottle,4,17.64,0.0,2.65
+O001538,2024-03-21,C00040,South,Online,Sports,Yoga Mat,2,23.15,0.0,13.16
+O000808,2024-03-21,C00206,East,Online,Electronics,Wireless Mouse,1,53.27,0.1,2.58
+O001816,2024-03-21,C00476,West,Retail Store,Beauty,Face Serum,2,29.21,0.1,13.22
+O001489,2024-03-22,C00284,East,Online,Electronics,Bluetooth Speaker,3,86.55,0.05,3.34
+O001484,2024-03-22,C00273,West,Online,Sports,Yoga Mat,1,31.83,0.1,12.92
+O001867,2024-03-22,C00443,West,Retail Store,Home,Coffee Grinder,4,12.24,0.2,9.04
+O002244,2024-03-22,C00257,East,Online,Home,Storage Box,5,31.72,0.05,9.53
+O001466,2024-03-22,C00060,West,Marketplace,Beauty,Face Serum,5,19.93,0.0,2.59
+O001579,2024-03-23,C00398,South,Online,Electronics,Wireless Mouse,5,55.85,0.0,10.96
+O000873,2024-03-24,C00213,West,Marketplace,Electronics,Bluetooth Speaker,3,62.19,0.0,13.43
+O000120,2024-03-24,C00463,North,Marketplace,Books,Notebook,1,20.44,0.15,13.6
+O001321,2024-03-24,C00203,West,Retail Store,Electronics,Bluetooth Speaker,4,79.04,0.1,13.21
+O000501,2024-03-24,C00009,West,Marketplace,Books,Planner,3,17.73,0.0,4.41
+O001216,2024-03-24,C00294,North,Retail Store,Electronics,Wireless Mouse,2,92.2,0.05,5.3
+O000365,2024-03-25,C00257,South,Online,Beauty,Shampoo Set,4,29.42,0.05,15.41
+O000538,2024-03-25,C00194,South,Retail Store,Electronics,Bluetooth Speaker,3,74.78,0.15,11.48
+O001020,2024-03-25,C00305,South,Retail Store,Home,Storage Box,3,54.02,0.1,4.35
+O002215,2024-03-25,C00141,East,Online,Home,Storage Box,5,42.97,0.0,13.07
+O002214,2024-03-25,C00259,South,Retail Store,Electronics,Wireless Mouse,2,51.18,0.0,13.58
+O000726,2024-03-26,C00030,West,Online,Electronics,Bluetooth Speaker,1,65.5,0.0,13.96
+O000313,2024-03-27,C00085,West,Marketplace,Sports,Running Bottle,4,31.0,0.0,12.44
+O001946,2024-03-27,C00382,North,Online,Sports,Yoga Mat,3,26.24,0.05,8.55
+O000778,2024-03-27,C00161,East,Marketplace,Books,Sketch Pad,3,22.05,0.05,3.78
+O000198,2024-03-27,C00238,West,Retail Store,Books,Notebook,2,13.05,0.15,15.25
+O002269,2024-03-27,C00188,South,Marketplace,Home,Coffee Grinder,2,59.95,0.0,5.81
+O002364,2024-03-27,C00156,West,Retail Store,Electronics,Webcam,1,67.29,0.0,13.51
+O000497,2024-03-27,C00235,East,Marketplace,Electronics,Bluetooth Speaker,5,36.71,0.05,14.79
+O001157,2024-03-28,C00155,East,Retail Store,Home,Coffee Grinder,4,41.64,0.2,14.23
+O000724,2024-03-28,C00143,West,Online,Home,Desk Lamp,2,54.14,0.0,5.15
+O001050,2024-03-28,C00126,West,Retail Store,Home,Coffee Grinder,5,42.34,0.05,13.94
+O000946,2024-03-28,C00468,South,Online,Books,Data Science Book,4,5.0,0.0,6.17
+O001343,2024-03-28,C00247,South,Online,Home,Air Purifier,3,27.97,0.2,15.96
+O000863,2024-03-28,C00496,East,Online,Sports,Yoga Mat,3,27.54,0.0,9.34
+O001876,2024-03-29,C00262,South,Online,Books,Sketch Pad,2,16.94,0.0,3.97
+O001619,2024-03-29,C00514,North,Marketplace,Home,Coffee Grinder,1,58.49,0.1,9.26
+O000784,2024-03-30,C00075,West,Online,Electronics,USB-C Hub,1,72.9,0.0,6.88
+O000783,2024-03-30,C00090,West,Online,Books,Planner,2,13.61,0.0,8.35
+O000386,2024-03-30,C00332,North,Online,Books,Notebook,4,22.01,0.1,10.69
+O000418,2024-03-30,C00371,East,Online,Sports,Bike Light,3,20.85,0.05,6.11
+O000436,2024-03-31,C00135,West,Retail Store,Home,Air Purifier,4,39.9,0.05,5.75
+O001605,2024-03-31,C00181,East,Online,Electronics,Bluetooth Speaker,2,85.03,0.0,15.26
+O001238,2024-03-31,C00195,North,Retail Store,Sports,Bike Light,5,25.94,0.0,8.91
+O000874,2024-04-01,C00374,South,Online,Books,Data Science Book,3,18.74,0.15,10.9
+O001928,2024-04-01,C00296,East,Retail Store,Electronics,Webcam,1,54.79,0.05,9.36
+O002080,2024-04-01,C00242,West,Online,Electronics,Wireless Mouse,2,58.7,0.0,4.46
+O001610,2024-04-02,C00259,North,Online,Electronics,USB-C Hub,2,89.15,0.0,5.58
+O000157,2024-04-02,C00104,West,Online,Sports,Running Bottle,3,36.4,0.1,11.88
+O001630,2024-04-02,C00250,North,Marketplace,Beauty,Shampoo Set,5,31.33,0.05,5.54
+O000018,2024-04-03,C00354,East,Marketplace,Sports,Yoga Mat,4,28.06,0.0,13.63
+O001805,2024-04-03,C00309,East,Online,Electronics,Webcam,2,63.89,0.0,6.42
+O000759,2024-04-03,C00155,West,Online,Beauty,Travel Mirror,3,23.97,0.1,12.32
+O001005,2024-04-03,C00468,South,Retail Store,Home,Air Purifier,3,58.09,0.0,4.62
+O000221,2024-04-03,C00295,East,Online,Beauty,Hand Cream,2,24.15,0.1,7.69
+O000074,2024-04-04,C00488,East,Retail Store,Sports,Bike Light,5,23.74,0.1,12.19
+O000705,2024-04-04,C00331,South,Retail Store,Sports,Resistance Band,4,19.24,0.0,8.25
+O002104,2024-04-04,C00518,West,Marketplace,Books,Sketch Pad,3,13.03,0.0,9.67
+O002006,2024-04-04,C00505,West,Online,Home,Coffee Grinder,3,30.59,0.05,11.33
+O000945,2024-04-04,C00056,West,Retail Store,Home,Storage Box,5,46.22,0.0,10.13
+O001776,2024-04-05,C00486,East,Online,Beauty,Face Serum,2,25.59,0.15,9.79
+O000434,2024-04-05,C00065,South,Marketplace,Beauty,Shampoo Set,3,27.51,0.0,12.7
+O002085,2024-04-05,C00204,North,Online,Electronics,Wireless Mouse,2,95.42,0.0,5.25
+O000670,2024-04-06,C00328,South,Online,Beauty,Shampoo Set,1,25.78,0.05,10.37
+O001645,2024-04-06,C00446,East,Marketplace,Electronics,Bluetooth Speaker,4,63.02,0.0,8.52
+O000443,2024-04-06,C00168,South,Marketplace,Home,Air Purifier,2,36.64,0.05,15.28
+O000414,2024-04-06,C00204,West,Retail Store,Home,Storage Box,3,39.35,0.0,5.36
+O001926,2024-04-06,C00404,East,Online,Electronics,USB-C Hub,2,64.06,0.05,9.45
+O001819,2024-04-08,C00127,West,Retail Store,Home,Desk Lamp,4,55.14,0.05,7.42
+O002207,2024-04-08,C00224,South,Online,Sports,Bike Light,7,27.75,0.0,15.73
+O001895,2024-04-08,C00255,East,Online,Home,Desk Lamp,3,48.15,0.0,10.64
+O000948,2024-04-08,C00436,South,Online,Books,Notebook,4,26.63,0.0,4.13
+O001358,2024-04-08,C00350,East,Marketplace,Electronics,USB-C Hub,4,77.31,0.2,15.06
+O000604,2024-04-08,C00124,South,Online,Beauty,Travel Mirror,4,26.28,0.0,15.54
+O000823,2024-04-09,C00245,North,Online,Electronics,Webcam,3,66.21,0.0,5.74
+O002378,2024-04-10,C00499,North,Online,Electronics,Wireless Mouse,5,65.44,0.05,14.11
+O001342,2024-04-10,C00293,North,Online,Home,Coffee Grinder,1,48.44,0.0,4.73
+O002234,2024-04-10,C00175,West,Retail Store,Electronics,USB-C Hub,4,51.31,0.0,11.2
+O001836,2024-04-10,C00363,East,Marketplace,Beauty,Shampoo Set,3,18.7,0.15,12.66
+O000682,2024-04-10,C00261,North,Online,Sports,Yoga Mat,2,25.73,0.15,6.82
+O000721,2024-04-11,C00365,South,Retail Store,Home,Air Purifier,2,28.1,0.0,8.52
+O002108,2024-04-11,C00268,South,Online,Electronics,Wireless Mouse,2,54.88,0.15,13.12
+O002210,2024-04-11,C00001,South,Retail Store,Electronics,Wireless Mouse,4,58.91,0.15,4.73
+O001528,2024-04-11,C00060,East,Online,Electronics,Webcam,1,54.9,0.0,6.98
+O000769,2024-04-12,C00145,West,Retail Store,Home,Desk Lamp,5,39.9,0.15,6.42
+O000620,2024-04-12,C00352,South,Marketplace,Sports,Bike Light,2,22.33,0.0,10.1
+O000118,2024-04-12,C00008,North,Marketplace,Electronics,Webcam,1,58.08,0.0,9.32
+O000241,2024-04-12,C00118,West,Retail Store,Electronics,Wireless Mouse,2,68.04,0.1,10.94
+O001445,2024-04-12,C00313,North,Online,Home,Desk Lamp,3,50.21,0.0,12.53
+O000462,2024-04-12,C00013,East,Online,Sports,Running Bottle,1,35.55,0.0,11.16
+O000306,2024-04-12,C00215,West,Marketplace,Sports,Running Bottle,6,29.93,0.1,5.81
+O000100,2024-04-12,C00268,East,Online,Home,Coffee Grinder,4,54.89,0.0,5.81
+O000329,2024-04-13,C00488,West,Online,Electronics,Webcam,2,77.69,0.0,9.01
+O001090,2024-04-13,C00498,South,Retail Store,Home,Air Purifier,1,48.14,0.0,10.0
+O001963,2024-04-14,C00088,West,Marketplace,Electronics,Bluetooth Speaker,2,55.36,0.0,8.51
+O001187,2024-04-14,C00257,South,Online,Books,Planner,4,20.07,0.05,12.99
+O000834,2024-04-14,C00115,East,Retail Store,Home,Air Purifier,2,37.77,0.15,7.99
+O000408,2024-04-15,C00358,East,Retail Store,Electronics,Wireless Mouse,2,97.99,0.05,11.23
+O000528,2024-04-15,C00293,East,Marketplace,Books,Data Science Book,2,11.99,0.0,12.08
+O002302,2024-04-15,C00275,West,Retail Store,Sports,Yoga Mat,1,19.45,0.05,8.24
+O001612,2024-04-15,C00496,West,Online,Books,Planner,1,15.48,0.15,13.28
+O001063,2024-04-15,C00352,South,Online,Home,Coffee Grinder,4,47.47,0.0,13.11
+O000256,2024-04-15,C00027,East,Online,Electronics,Wireless Mouse,5,37.85,0.0,4.27
+O000522,2024-04-16,C00364,South,Retail Store,Electronics,USB-C Hub,4,45.69,0.05,5.26
+O000924,2024-04-16,C00451,East,Online,Electronics,Bluetooth Speaker,3,44.51,0.0,13.74
+O002330,2024-04-17,C00236,West,Online,Home,Air Purifier,2,35.63,0.0,11.05
+O001935,2024-04-17,C00376,South,Retail Store,Beauty,Face Serum,4,24.49,0.0,12.15
+O000752,2024-04-18,C00125,South,Online,Electronics,Wireless Mouse,4,81.56,0.0,9.63
+O000457,2024-04-18,C00414,South,Retail Store,Electronics,Webcam,5,55.55,0.05,4.01
+O000938,2024-04-18,C00347,East,Online,Beauty,Travel Mirror,4,26.84,0.15,2.51
+O001607,2024-04-18,C00262,West,Marketplace,Home,Storage Box,4,42.78,0.15,3.9
+O001575,2024-04-18,C00354,East,Retail Store,Beauty,Hand Cream,5,17.04,0.0,6.28
+O000975,2024-04-18,C00383,East,Online,Home,Desk Lamp,5,21.53,0.05,7.37
+O001677,2024-04-19,C00490,East,Marketplace,Electronics,USB-C Hub,5,83.64,0.05,10.51
+O001524,2024-04-19,C00485,West,Online,Home,Storage Box,2,24.88,0.05,13.51
+O002063,2024-04-19,C00066,West,Marketplace,Electronics,Wireless Mouse,1,73.53,0.15,9.68
+O001698,2024-04-19,C00315,East,Retail Store,Electronics,Bluetooth Speaker,3,64.06,0.0,15.96
+O000273,2024-04-20,C00206,North,Online,Electronics,Wireless Mouse,3,83.25,0.1,8.85
+O001481,2024-04-20,C00324,East,Online,Beauty,Travel Mirror,5,24.44,0.0,14.79
+O001104,2024-04-20,C00327,West,Retail Store,Home,Storage Box,7,60.58,0.05,6.64
+O000357,2024-04-20,C00359,East,Online,Books,Sketch Pad,2,10.57,0.1,6.16
+O002013,2024-04-21,C00303,West,Retail Store,Beauty,Travel Mirror,4,21.01,0.0,4.12
+O000182,2024-04-21,C00165,East,Online,Electronics,Wireless Mouse,5,73.26,0.1,2.88
+O001970,2024-04-21,C00043,North,Online,Sports,Resistance Band,2,24.68,0.05,12.79
+O002008,2024-04-21,C00040,North,Retail Store,Electronics,Bluetooth Speaker,3,94.59,0.0,4.11
+O000058,2024-04-22,C00099,South,Marketplace,Beauty,Hand Cream,5,23.71,0.1,9.37
+O000390,2024-04-22,C00365,East,Retail Store,Electronics,Bluetooth Speaker,3,64.21,0.1,5.9
+O002308,2024-04-22,C00192,North,Online,Beauty,Shampoo Set,2,16.72,0.0,13.97
+O000536,2024-04-22,C00465,South,Online,Beauty,Shampoo Set,2,31.18,0.05,14.65
+O000961,2024-04-22,C00502,West,Online,Home,Desk Lamp,5,49.26,0.05,14.18
+O001229,2024-04-22,C00303,South,Online,Sports,Resistance Band,4,39.37,0.1,7.98
+O001046,2024-04-22,C00457,West,Online,Electronics,Webcam,4,56.17,0.05,3.62
+O001537,2024-04-22,C00440,West,Online,Electronics,USB-C Hub,2,79.69,0.2,14.39
+O002222,2024-04-22,C00035,East,Online,Home,Coffee Grinder,2,46.9,0.0,6.68
+O000884,2024-04-23,C00200,North,Retail Store,Electronics,Webcam,3,73.27,0.0,9.91
+O001406,2024-04-23,C00156,West,Marketplace,Electronics,Webcam,2,76.56,0.0,4.09
+O002249,2024-04-23,C00002,South,Online,Home,Coffee Grinder,5,27.28,0.15,13.09
+O000533,2024-04-23,C00400,East,Online,Beauty,Shampoo Set,3,27.22,0.05,10.01
+O001655,2024-04-24,C00176,South,Retail Store,Beauty,Hand Cream,5,26.28,0.0,14.92
+O000847,2024-04-24,C00008,East,Retail Store,Home,Air Purifier,4,39.61,0.1,12.28
+O001947,2024-04-24,C00020,South,Online,Beauty,Hand Cream,5,20.79,0.05,6.37
+O000750,2024-04-25,C00407,West,Online,Books,Notebook,2,19.42,0.0,3.54
+O000937,2024-04-25,C00385,South,Retail Store,Home,Coffee Grinder,1,42.33,0.1,8.24
+O001695,2024-04-26,C00313,South,Marketplace,Books,Data Science Book,4,10.02,0.05,10.98
+O001854,2024-04-27,C00422,West,Marketplace,Beauty,Hand Cream,2,32.47,0.05,7.83
+O001908,2024-04-27,C00246,West,Retail Store,Sports,Resistance Band,1,28.26,0.0,12.9
+O000083,2024-04-27,C00191,West,Retail Store,Home,Storage Box,4,54.66,0.05,12.31
+O000178,2024-04-27,C00070,South,Online,Books,Planner,5,17.0,0.05,10.89
+O000287,2024-04-27,C00225,South,Marketplace,Books,Sketch Pad,2,16.5,0.15,4.53
+O001556,2024-04-28,C00066,North,Online,Beauty,Face Serum,3,16.1,0.0,5.62
+O001487,2024-04-28,C00372,North,Retail Store,Electronics,Wireless Mouse,2,63.91,0.0,8.18
+O002095,2024-04-28,C00442,East,Online,Home,Desk Lamp,1,33.91,0.0,7.94
+O002369,2024-04-28,C00105,South,Marketplace,Beauty,Shampoo Set,3,27.11,0.0,5.78
+O001936,2024-04-29,C00367,South,Online,Beauty,Face Serum,4,23.81,0.0,13.63
+O001076,2024-04-29,C00240,East,Online,Electronics,Webcam,5,61.94,0.0,14.84
+O001778,2024-04-29,C00496,South,Marketplace,Beauty,Shampoo Set,5,29.42,0.1,9.84
+O000350,2024-04-30,C00468,South,Online,Electronics,Webcam,3,78.33,0.0,6.4
+O000041,2024-04-30,C00352,West,Online,Books,Planner,1,17.77,0.0,10.49
+O001596,2024-04-30,C00131,South,Online,Sports,Bike Light,2,39.52,0.05,8.87
+O001850,2024-04-30,C00404,East,Online,Electronics,Bluetooth Speaker,4,60.03,0.05,5.38
+O001941,2024-04-30,C00480,South,Online,Home,Storage Box,3,56.9,0.0,10.46
+O001637,2024-04-30,C00489,South,Online,Sports,Running Bottle,4,21.56,0.1,14.97
+O000623,2024-04-30,C00022,West,Retail Store,Sports,Yoga Mat,3,38.59,0.1,11.98
+O001078,2024-05-01,C00210,East,Online,Electronics,Bluetooth Speaker,5,9.61,0.1,2.92
+O000187,2024-05-01,C00229,West,Online,Beauty,Travel Mirror,4,36.92,0.1,14.66
+O000532,2024-05-01,C00446,South,Online,Electronics,USB-C Hub,3,57.9,0.1,13.19
+O000467,2024-05-01,C00012,East,Marketplace,Beauty,Hand Cream,3,24.01,0.05,10.78
+O002200,2024-05-02,C00251,East,Online,Sports,Bike Light,1,26.38,0.2,9.9
+O002297,2024-05-02,C00148,West,Online,Beauty,Shampoo Set,7,35.82,0.0,8.06
+O000703,2024-05-02,C00295,West,Retail Store,Beauty,Shampoo Set,4,33.17,0.0,10.32
+O000168,2024-05-02,C00211,East,Online,Electronics,USB-C Hub,4,65.4,0.0,10.04
+O002328,2024-05-02,C00169,South,Online,Electronics,Bluetooth Speaker,4,62.15,0.0,3.81
+O000685,2024-05-03,C00121,East,Online,Home,Coffee Grinder,1,36.22,0.15,6.09
+O001193,2024-05-04,C00001,East,Retail Store,Home,Coffee Grinder,2,28.57,0.0,9.05
+O000262,2024-05-04,C00172,North,Online,Sports,Bike Light,2,22.7,0.0,14.38
+O000704,2024-05-05,C00373,West,Online,Electronics,Webcam,2,83.62,0.0,13.67
+O002051,2024-05-05,C00457,South,Marketplace,Books,Planner,2,16.51,0.05,7.35
+O001433,2024-05-05,C00063,North,Retail Store,Books,Data Science Book,6,19.97,0.0,15.54
+O002103,2024-05-05,C00260,East,Online,Electronics,Bluetooth Speaker,1,59.05,0.0,12.6
+O001032,2024-05-06,C00262,South,Online,Sports,Running Bottle,4,45.99,0.2,9.75
+O001616,2024-05-06,C00309,West,Marketplace,Sports,Running Bottle,2,28.78,0.2,9.75
+O000908,2024-05-06,C00299,North,Online,Books,Data Science Book,2,13.53,0.0,12.79
+O000411,2024-05-07,C00286,South,Online,Electronics,Wireless Mouse,2,43.22,0.0,13.11
+O000544,2024-05-07,C00006,West,Marketplace,Books,Notebook,1,19.74,0.1,15.31
+O002248,2024-05-08,C00318,South,Online,Beauty,Hand Cream,2,25.23,0.1,8.37
+O000259,2024-05-08,C00311,East,Retail Store,Books,Notebook,4,19.67,0.0,10.4
+O002368,2024-05-08,C00390,West,Online,Home,Storage Box,5,52.47,0.0,15.55
+O002147,2024-05-08,C00436,West,Online,Beauty,Travel Mirror,4,21.6,0.1,10.59
+O002370,2024-05-08,C00268,East,Retail Store,Home,Coffee Grinder,7,60.49,0.0,15.55
+O000761,2024-05-08,C00140,West,Retail Store,Sports,Running Bottle,6,33.09,0.0,3.62
+O000661,2024-05-09,C00124,East,Online,Sports,Resistance Band,2,28.85,0.05,5.78
+O002032,2024-05-09,C00153,West,Retail Store,Electronics,USB-C Hub,2,52.29,0.1,11.91
+O000230,2024-05-09,C00255,South,Online,Home,Coffee Grinder,1,47.25,0.1,9.34
+O001883,2024-05-09,C00233,East,Online,Sports,Yoga Mat,2,36.83,0.1,8.13
+O002275,2024-05-09,C00376,West,Online,Sports,Yoga Mat,3,25.64,0.15,12.71
+O001174,2024-05-09,C00512,North,Online,Electronics,Wireless Mouse,1,60.53,0.15,15.87
+O001405,2024-05-09,C00252,North,Marketplace,Electronics,Wireless Mouse,3,77.63,0.0,12.12
+O001702,2024-05-10,C00128,East,Online,Books,Sketch Pad,4,12.73,0.05,7.5
+O000251,2024-05-11,C00170,East,Online,Beauty,Travel Mirror,3,34.39,0.1,4.47
+O000392,2024-05-11,C00261,South,Online,Electronics,Bluetooth Speaker,3,60.49,0.05,12.62
+O002381,2024-05-11,C00074,South,Online,Beauty,Shampoo Set,4,27.75,0.1,5.81
+O001886,2024-05-11,C00457,North,Retail Store,Home,Coffee Grinder,3,31.38,0.1,2.5
+O001106,2024-05-12,C00152,East,Online,Home,Air Purifier,3,32.42,0.2,3.86
+O000349,2024-05-12,C00247,South,Online,Home,Air Purifier,4,54.2,0.0,7.18
+O000564,2024-05-12,C00090,South,Retail Store,Electronics,Webcam,1,67.28,0.15,5.21
+O000469,2024-05-12,C00312,East,Online,Electronics,USB-C Hub,1,91.44,0.0,5.87
+O001929,2024-05-13,C00280,South,Marketplace,Beauty,Face Serum,1,9.0,0.0,3.76
+O000023,2024-05-13,C00487,East,Marketplace,Books,Data Science Book,2,21.26,0.15,7.2
+O001639,2024-05-13,C00326,South,Retail Store,Home,Storage Box,3,27.6,0.0,5.48
+O000635,2024-05-13,C00416,North,Retail Store,Electronics,Webcam,6,77.33,0.0,13.01
+O002385,2024-05-14,C00452,South,Online,Books,Sketch Pad,3,22.21,0.0,15.93
+O000912,2024-05-14,C00516,South,Marketplace,Sports,Bike Light,3,30.75,0.05,4.1
+O001432,2024-05-15,C00476,West,Marketplace,Home,Storage Box,4,34.64,0.0,2.92
+O001891,2024-05-15,C00010,South,Online,Books,Planner,4,24.69,0.1,9.34
+O001798,2024-05-15,C00006,West,Retail Store,Electronics,Webcam,2,60.98,0.0,8.1
+O001663,2024-05-15,C00203,South,Online,Home,Coffee Grinder,2,31.65,0.0,9.59
+O001345,2024-05-16,C00310,South,Online,Sports,Yoga Mat,2,28.62,0.0,3.85
+O001960,2024-05-16,C00340,South,Marketplace,Home,Desk Lamp,5,39.47,0.0,6.98
+O000253,2024-05-17,C00254,North,Retail Store,Books,Sketch Pad,4,16.26,0.1,6.15
+O001326,2024-05-17,C00193,North,Retail Store,Electronics,USB-C Hub,1,41.9,0.05,7.69
+O001534,2024-05-17,C00360,South,Marketplace,Home,Air Purifier,2,38.97,0.1,12.45
+O002071,2024-05-18,C00347,South,Online,Books,Sketch Pad,6,14.41,0.0,13.92
+O001651,2024-05-18,C00403,North,Retail Store,Home,Air Purifier,5,39.39,0.2,3.95
+O000072,2024-05-18,C00377,North,Retail Store,Home,Desk Lamp,4,26.99,0.0,4.52
+O001523,2024-05-19,C00195,South,Online,Home,Coffee Grinder,2,41.34,0.0,5.02
+O001178,2024-05-20,C00504,North,Retail Store,Sports,Yoga Mat,4,37.21,0.05,6.42
+O002220,2024-05-20,C00136,East,Online,Books,Data Science Book,5,24.11,0.0,4.65
+O002392,2024-05-20,C00448,East,Retail Store,Home,Desk Lamp,2,42.51,0.05,14.73
+O000523,2024-05-20,C00183,East,Online,Beauty,Travel Mirror,5,14.09,0.0,3.45
+O001113,2024-05-20,C00148,West,Retail Store,Home,Air Purifier,2,31.57,0.05,4.64
+O000888,2024-05-21,C00357,South,Online,Home,Coffee Grinder,1,44.06,0.05,6.91
+O000543,2024-05-22,C00116,East,Online,Electronics,Webcam,1,81.43,0.05,12.61
+O001115,2024-05-22,C00183,West,Online,Home,Desk Lamp,2,65.86,0.0,5.27
+O000052,2024-05-22,C00252,West,Online,Electronics,Bluetooth Speaker,4,28.59,0.15,4.13
+O001770,2024-05-23,C00071,East,Online,Electronics,Webcam,2,70.13,0.2,11.72
+O000993,2024-05-23,C00297,East,Online,Beauty,Face Serum,5,22.03,0.0,12.68
+O000398,2024-05-23,C00348,East,Online,Electronics,USB-C Hub,1,53.86,0.15,6.03
+O001787,2024-05-24,C00029,West,Marketplace,Electronics,Bluetooth Speaker,4,107.15,0.2,7.22
+O002094,2024-05-24,C00058,North,Online,Home,Coffee Grinder,2,53.36,0.05,9.61
+O000838,2024-05-24,C00019,South,Online,Electronics,Wireless Mouse,1,48.95,0.0,9.17
+O001704,2024-05-25,C00036,South,Online,Books,Sketch Pad,2,27.34,0.0,3.3
+O000426,2024-05-26,C00184,South,Retail Store,Beauty,Hand Cream,4,21.72,0.1,8.36
+O001085,2024-05-26,C00002,South,Online,Electronics,Webcam,5,57.08,0.05,9.34
+O000102,2024-05-26,C00295,South,Online,Sports,Running Bottle,3,30.19,0.05,14.74
+O000224,2024-05-27,C00099,East,Online,Home,Coffee Grinder,2,55.03,0.1,12.15
+O000653,2024-05-27,C00505,East,Marketplace,Sports,Yoga Mat,4,35.72,0.0,8.74
+O002349,2024-05-27,C00313,East,Marketplace,Electronics,Webcam,2,62.07,0.0,6.05
+O000872,2024-05-27,C00070,North,Online,Home,Air Purifier,2,35.36,0.0,3.19
+O000664,2024-05-27,C00451,North,Online,Sports,Resistance Band,4,23.32,0.0,9.36
+O001796,2024-05-27,C00518,West,Marketplace,Home,Air Purifier,4,19.89,0.05,4.05
+O001364,2024-05-27,C00387,South,Online,Sports,Running Bottle,3,27.58,0.0,7.71
+O000009,2024-05-27,C00346,West,Online,Electronics,USB-C Hub,2,82.99,0.0,14.29
+O000339,2024-05-28,C00284,West,Online,Beauty,Shampoo Set,2,19.34,0.15,9.19
+O002116,2024-05-28,C00332,West,Online,Electronics,Wireless Mouse,6,71.25,0.05,9.24
+O001740,2024-05-29,C00028,East,Marketplace,Electronics,Wireless Mouse,2,75.41,0.15,9.49
+O001474,2024-05-31,C00128,West,Online,Home,Desk Lamp,2,63.98,0.0,10.75
+O001872,2024-05-31,C00462,South,Online,Books,Notebook,1,17.43,0.0,4.76
+O001940,2024-05-31,C00117,South,Marketplace,Home,Storage Box,4,30.56,0.1,3.87
+O001072,2024-06-01,C00140,West,Retail Store,Sports,Yoga Mat,4,36.04,0.1,13.21
+O000735,2024-06-01,C00420,East,Online,Beauty,Hand Cream,2,27.67,0.15,9.51
+O002360,2024-06-01,C00335,South,Online,Sports,Resistance Band,2,36.05,0.15,15.04
+O001989,2024-06-02,C00192,South,Online,Electronics,USB-C Hub,4,62.2,0.15,10.58
+O001745,2024-06-02,C00351,West,Retail Store,Home,Desk Lamp,3,52.13,0.0,8.13
+O002277,2024-06-02,C00073,North,Online,Beauty,Shampoo Set,3,19.68,0.2,8.38
+O001988,2024-06-03,C00302,North,Retail Store,Books,Notebook,2,13.9,0.1,7.2
+O001710,2024-06-04,C00180,West,Online,Sports,Resistance Band,1,18.2,0.0,2.68
+O000142,2024-06-05,C00497,North,Retail Store,Beauty,Shampoo Set,3,20.49,0.0,2.63
+O001395,2024-06-06,C00111,North,Online,Home,Desk Lamp,4,63.58,0.0,2.66
+O001582,2024-06-07,C00413,North,Marketplace,Electronics,Wireless Mouse,3,54.46,0.0,11.15
+O000964,2024-06-08,C00175,North,Retail Store,Home,Air Purifier,2,21.13,0.05,2.6
+O002194,2024-06-08,C00226,East,Marketplace,Electronics,USB-C Hub,4,77.35,0.0,14.01
+O001355,2024-06-09,C00420,South,Online,Home,Coffee Grinder,2,38.82,0.2,11.07
+O002358,2024-06-09,C00475,West,Retail Store,Books,Data Science Book,3,12.18,0.0,14.57
+O000903,2024-06-09,C00296,South,Retail Store,Beauty,Face Serum,1,20.69,0.0,4.35
+O002394,2024-06-10,C00346,South,Retail Store,Electronics,Wireless Mouse,3,27.97,0.15,13.34
+O001839,2024-06-11,C00031,West,Retail Store,Electronics,Webcam,3,82.31,0.0,4.11
+O001257,2024-06-11,C00032,East,Marketplace,Sports,Bike Light,3,29.72,0.0,6.8
+O002299,2024-06-11,C00268,East,Online,Home,Coffee Grinder,2,58.9,0.15,8.17
+O002241,2024-06-12,C00466,West,Marketplace,Electronics,USB-C Hub,4,61.75,0.1,14.08
+O000363,2024-06-12,C00080,North,Online,Books,Data Science Book,2,8.43,0.0,13.42
+O000976,2024-06-13,C00228,East,Retail Store,Sports,Resistance Band,2,25.67,0.05,7.73
+O002315,2024-06-14,C00076,North,Marketplace,Books,Planner,5,16.6,0.2,8.38
+O000078,2024-06-14,C00407,North,Marketplace,Electronics,Webcam,4,56.12,0.0,7.35
+O001512,2024-06-15,C00088,West,Online,Electronics,Bluetooth Speaker,2,61.41,0.0,15.17
+O000032,2024-06-15,C00443,South,Online,Sports,Resistance Band,3,21.82,0.05,3.65
+O000567,2024-06-15,C00222,South,Online,Books,Sketch Pad,4,19.46,0.0,5.37
+O000412,2024-06-16,C00034,South,Marketplace,Beauty,Face Serum,2,23.99,0.1,3.73
+O001503,2024-06-16,C00319,North,Online,Home,Coffee Grinder,3,52.6,0.0,14.95
+O001479,2024-06-17,C00186,North,Online,Beauty,Hand Cream,2,25.72,0.05,11.26
+O001545,2024-06-17,C00230,East,Online,Home,Air Purifier,3,41.68,0.15,12.01
+O000326,2024-06-17,C00229,West,Retail Store,Electronics,Wireless Mouse,4,71.9,0.05,2.82
+O001656,2024-06-18,C00426,North,Retail Store,Books,Notebook,3,11.87,0.15,2.8
+O001112,2024-06-19,C00040,South,Online,Electronics,Wireless Mouse,3,83.28,0.0,2.92
+O001877,2024-06-19,C00468,West,Online,Home,Storage Box,2,37.24,0.15,10.69
+O001291,2024-06-19,C00092,South,Online,Books,Data Science Book,2,17.1,0.0,13.36
+O000486,2024-06-19,C00196,East,Online,Electronics,Bluetooth Speaker,2,47.13,0.05,7.03
+O000626,2024-06-19,C00201,East,Retail Store,Electronics,Webcam,2,59.94,0.0,6.6
+O002175,2024-06-19,C00474,North,Retail Store,Sports,Running Bottle,3,20.95,0.0,12.47
+O001386,2024-06-20,C00177,South,Online,Home,Desk Lamp,3,49.55,0.15,11.71
+O001817,2024-06-20,C00360,South,Online,Books,Data Science Book,3,20.03,0.0,12.77
+O002293,2024-06-20,C00436,South,Retail Store,Books,Planner,3,24.5,0.0,6.6
+O000148,2024-06-20,C00398,West,Marketplace,Home,Air Purifier,4,22.16,0.0,6.8
+O001288,2024-06-20,C00004,East,Online,Beauty,Hand Cream,3,33.16,0.0,6.17
+O002209,2024-06-20,C00472,West,Retail Store,Sports,Running Bottle,2,20.64,0.0,5.33
+O000637,2024-06-21,C00308,North,Online,Electronics,USB-C Hub,2,33.61,0.0,15.1
+O001609,2024-06-21,C00339,East,Online,Electronics,Webcam,5,56.12,0.05,9.88
+O000327,2024-06-21,C00376,South,Marketplace,Home,Air Purifier,3,33.44,0.1,14.5
+O000719,2024-06-21,C00368,West,Retail Store,Sports,Yoga Mat,3,25.82,0.0,10.89
+O001308,2024-06-22,C00208,West,Online,Books,Planner,6,15.77,0.15,12.25
+O000510,2024-06-22,C00110,West,Online,Home,Storage Box,3,47.37,0.1,4.21
+O000566,2024-06-22,C00440,East,Online,Electronics,Bluetooth Speaker,3,82.14,0.0,12.47
+O000189,2024-06-23,C00489,South,Online,Books,Notebook,1,12.66,0.05,10.08
+O001265,2024-06-23,C00212,East,Retail Store,Electronics,USB-C Hub,3,78.7,0.05,3.1
+O000854,2024-06-23,C00019,West,Online,Beauty,Hand Cream,3,17.07,0.0,12.66
+O002182,2024-06-24,C00023,South,Retail Store,Books,Data Science Book,6,18.34,0.05,10.32
+O001047,2024-06-24,C00192,South,Online,Electronics,USB-C Hub,2,83.64,0.0,13.17
+O000097,2024-06-24,C00235,East,Online,Electronics,USB-C Hub,1,63.84,0.0,4.62
+O000593,2024-06-24,C00051,North,Online,Electronics,Bluetooth Speaker,2,54.26,0.1,2.58
+O000832,2024-06-25,C00425,West,Online,Sports,Resistance Band,4,23.66,0.0,12.79
+O001542,2024-06-25,C00040,East,Online,Beauty,Shampoo Set,1,28.55,0.15,15.91
+O001251,2024-06-25,C00115,South,Online,Sports,Resistance Band,4,26.29,0.0,4.09
+O000384,2024-06-25,C00231,West,Marketplace,Electronics,USB-C Hub,1,70.82,0.05,3.46
+O001402,2024-06-25,C00279,East,Online,Sports,Running Bottle,2,20.29,0.2,10.0
+O001506,2024-06-26,C00251,South,Online,Home,Storage Box,8,42.69,0.1,11.47
+O001107,2024-06-27,C00465,East,Online,Sports,Running Bottle,6,22.9,0.1,2.68
+O001709,2024-06-27,C00164,West,Retail Store,Books,Data Science Book,2,17.68,0.0,13.48
+O001811,2024-06-27,C00030,West,Online,Home,Air Purifier,3,30.51,0.05,4.8
+O001786,2024-06-27,C00281,North,Marketplace,Electronics,Webcam,4,67.37,0.0,10.42
+O001906,2024-06-27,C00423,West,Online,Beauty,Face Serum,4,25.71,0.0,6.3
+O001124,2024-06-27,C00511,South,Retail Store,Electronics,USB-C Hub,4,58.87,0.0,13.03
+O000315,2024-06-27,C00344,North,Retail Store,Books,Data Science Book,1,16.46,0.1,2.58
+O002162,2024-06-27,C00045,South,Online,Home,Coffee Grinder,3,41.37,0.1,5.57
+O002253,2024-06-27,C00355,North,Online,Electronics,Bluetooth Speaker,4,88.42,0.15,5.59
+O000831,2024-06-28,C00168,West,Marketplace,Electronics,USB-C Hub,2,39.96,0.05,11.04
+O001454,2024-06-28,C00457,North,Online,Beauty,Face Serum,3,23.88,0.0,7.03
+O000857,2024-06-28,C00209,East,Retail Store,Books,Planner,4,20.54,0.05,15.87
+O001892,2024-06-28,C00284,South,Online,Books,Data Science Book,2,12.83,0.05,4.33
+O001013,2024-06-28,C00413,West,Online,Books,Sketch Pad,3,20.97,0.2,12.28
+O000119,2024-06-28,C00486,West,Online,Beauty,Hand Cream,2,24.15,0.1,6.8
+O000989,2024-06-29,C00496,West,Online,Electronics,Wireless Mouse,5,55.98,0.15,5.54
+O002100,2024-06-29,C00250,West,Marketplace,Electronics,USB-C Hub,2,64.49,0.0,10.71
+O001515,2024-06-29,C00201,East,Online,Books,Planner,3,21.82,0.0,8.03
+O000925,2024-06-30,C00343,East,Retail Store,Home,Coffee Grinder,4,39.73,0.0,5.19
+O001563,2024-06-30,C00080,South,Online,Electronics,Webcam,3,90.21,0.0,10.29
+O000508,2024-06-30,C00384,South,Online,Home,Air Purifier,3,31.03,0.05,9.36
+O001904,2024-06-30,C00189,West,Marketplace,Beauty,Hand Cream,6,21.81,0.0,15.76
+O002237,2024-07-01,C00184,South,Marketplace,Home,Desk Lamp,3,38.51,0.05,13.09
+O000568,2024-07-01,C00364,South,Retail Store,Electronics,USB-C Hub,6,50.77,0.0,5.51
+O000617,2024-07-01,C00326,North,Online,Beauty,Hand Cream,2,27.72,0.0,10.89
+O000483,2024-07-02,C00154,West,Online,Beauty,Travel Mirror,5,18.57,0.0,5.11
+O001413,2024-07-02,C00303,South,Retail Store,Home,Air Purifier,3,46.88,0.1,10.24
+O001818,2024-07-03,C00303,East,Retail Store,Electronics,Webcam,4,101.23,0.05,4.32
+O002399,2024-07-03,C00085,North,Online,Books,Planner,3,23.52,0.0,3.31
+O001852,2024-07-04,C00124,West,Online,Electronics,Bluetooth Speaker,6,90.54,0.0,13.13
+O001660,2024-07-04,C00315,South,Online,Home,Desk Lamp,1,33.14,0.0,6.51
+O000696,2024-07-04,C00185,East,Online,Electronics,Wireless Mouse,5,59.85,0.05,4.39
+O001942,2024-07-04,C00496,North,Online,Electronics,USB-C Hub,5,71.38,0.0,12.91
+O001562,2024-07-04,C00058,East,Online,Books,Planner,1,23.52,0.1,9.59
+O001425,2024-07-05,C00509,North,Marketplace,Sports,Yoga Mat,2,26.16,0.0,14.97
+O001307,2024-07-05,C00124,West,Online,Books,Data Science Book,3,18.81,0.0,5.31
+O000919,2024-07-05,C00192,East,Marketplace,Electronics,USB-C Hub,3,92.46,0.15,14.9
+O002126,2024-07-05,C00514,North,Online,Beauty,Shampoo Set,2,19.45,0.15,10.64
+O000346,2024-07-06,C00067,East,Online,Home,Storage Box,3,40.21,0.05,11.98
+O002079,2024-07-07,C00357,West,Retail Store,Home,Coffee Grinder,3,51.28,0.05,11.92
+O000933,2024-07-07,C00470,East,Retail Store,Books,Planner,4,21.47,0.05,6.18
+O002346,2024-07-07,C00363,North,Online,Home,Desk Lamp,3,44.07,0.0,9.8
+O002188,2024-07-07,C00190,South,Retail Store,Books,Sketch Pad,2,22.89,0.0,14.03
+O001804,2024-07-08,C00279,East,Online,Beauty,Shampoo Set,3,20.64,0.0,5.9
+O001179,2024-07-08,C00517,West,Marketplace,Electronics,Webcam,2,84.49,0.15,6.85
+O001502,2024-07-09,C00033,North,Online,Sports,Yoga Mat,2,25.33,0.0,7.43
+O000211,2024-07-09,C00216,East,Marketplace,Beauty,Face Serum,5,17.39,0.0,14.18
+O000380,2024-07-10,C00220,East,Online,Books,Planner,1,21.61,0.1,10.86
+O001459,2024-07-11,C00254,East,Online,Electronics,Wireless Mouse,3,92.21,0.0,10.96
+O000209,2024-07-11,C00174,North,Retail Store,Books,Planner,3,20.52,0.05,6.78
+O001297,2024-07-11,C00184,North,Online,Sports,Bike Light,7,24.12,0.05,7.24
+O001701,2024-07-12,C00127,West,Online,Home,Desk Lamp,2,49.64,0.05,15.13
+O001882,2024-07-12,C00196,North,Retail Store,Electronics,Wireless Mouse,2,57.67,0.0,12.03
+O001621,2024-07-12,C00339,East,Retail Store,Home,Air Purifier,3,39.5,0.0,4.93
+O000618,2024-07-13,C00081,West,Online,Home,Storage Box,4,46.17,0.05,11.6
+O000206,2024-07-13,C00220,West,Online,Home,Storage Box,3,58.72,0.0,8.68
+O001261,2024-07-13,C00212,East,Marketplace,Books,Planner,2,20.98,0.0,4.08
+O001673,2024-07-14,C00185,East,Marketplace,Electronics,Webcam,2,90.29,0.0,8.92
+O000292,2024-07-14,C00081,East,Marketplace,Beauty,Hand Cream,2,7.57,0.1,15.68
+O002301,2024-07-14,C00257,South,Online,Home,Coffee Grinder,4,37.31,0.0,14.0
+O001429,2024-07-14,C00427,East,Online,Home,Air Purifier,4,39.13,0.15,4.31
+O001011,2024-07-15,C00014,East,Retail Store,Books,Planner,4,16.79,0.0,10.55
+O000509,2024-07-15,C00012,East,Online,Books,Data Science Book,3,18.48,0.05,13.87
+O001123,2024-07-15,C00338,East,Online,Home,Storage Box,3,38.74,0.1,11.57
+O002333,2024-07-15,C00085,North,Online,Home,Storage Box,2,43.59,0.1,7.07
+O000890,2024-07-16,C00062,East,Online,Home,Air Purifier,3,38.39,0.0,6.24
+O000744,2024-07-16,C00295,West,Online,Electronics,Wireless Mouse,2,54.82,0.15,7.98
+O002238,2024-07-16,C00259,South,Retail Store,Home,Storage Box,4,28.31,0.05,4.59
+O000779,2024-07-17,C00395,West,Marketplace,Beauty,Shampoo Set,2,27.35,0.0,3.46
+O000216,2024-07-18,C00295,West,Retail Store,Beauty,Hand Cream,4,31.53,0.0,14.77
+O001640,2024-07-18,C00309,South,Online,Electronics,Bluetooth Speaker,5,60.9,0.15,11.83
+O001322,2024-07-19,C00171,South,Marketplace,Sports,Bike Light,3,32.25,0.2,3.88
+O000505,2024-07-19,C00241,West,Retail Store,Home,Coffee Grinder,7,48.47,0.05,4.9
+O001491,2024-07-19,C00417,East,Online,Books,Data Science Book,1,16.59,0.15,3.78
+O000281,2024-07-20,C00106,South,Online,Home,Storage Box,4,44.67,0.15,12.45
+O002106,2024-07-20,C00051,North,Retail Store,Electronics,Wireless Mouse,2,54.5,0.1,11.0
+O000039,2024-07-21,C00344,West,Retail Store,Electronics,USB-C Hub,4,20.38,0.1,11.39
+O000143,2024-07-21,C00309,South,Marketplace,Home,Coffee Grinder,2,49.96,0.0,5.62
+O000111,2024-07-21,C00304,East,Marketplace,Home,Coffee Grinder,4,49.7,0.05,14.3
+O001794,2024-07-22,C00490,East,Retail Store,Sports,Running Bottle,3,21.89,0.0,10.73
+O001192,2024-07-22,C00009,North,Online,Beauty,Hand Cream,3,24.13,0.0,14.18
+O002045,2024-07-22,C00377,North,Marketplace,Electronics,Webcam,3,83.04,0.15,6.06
+O000950,2024-07-22,C00470,East,Online,Electronics,Wireless Mouse,1,89.69,0.1,9.72
+O000413,2024-07-23,C00423,East,Marketplace,Beauty,Shampoo Set,1,27.06,0.0,13.54
+O001551,2024-07-24,C00131,North,Retail Store,Electronics,Wireless Mouse,3,63.38,0.0,4.42
+O000152,2024-07-24,C00309,East,Marketplace,Beauty,Travel Mirror,4,19.13,0.0,13.48
+O000399,2024-07-24,C00440,North,Online,Beauty,Face Serum,3,18.1,0.1,14.94
+O002111,2024-07-24,C00113,South,Marketplace,Books,Sketch Pad,1,19.6,0.05,6.64
+O001999,2024-07-24,C00285,South,Retail Store,Electronics,Wireless Mouse,3,74.42,0.0,8.83
+O002311,2024-07-24,C00394,West,Retail Store,Books,Notebook,1,16.75,0.05,10.96
+O001028,2024-07-24,C00447,East,Online,Electronics,Bluetooth Speaker,3,52.05,0.0,9.39
+O000314,2024-07-24,C00263,North,Retail Store,Beauty,Shampoo Set,4,30.46,0.0,15.41
+O002109,2024-07-24,C00430,North,Online,Sports,Resistance Band,4,33.21,0.05,2.54
+O002000,2024-07-24,C00382,East,Online,Books,Data Science Book,1,11.17,0.0,9.07
+O000573,2024-07-25,C00215,South,Online,Sports,Resistance Band,3,33.5,0.0,10.45
+O001917,2024-07-25,C00442,West,Online,Electronics,USB-C Hub,2,48.62,0.0,5.05
+O001410,2024-07-26,C00474,East,Online,Home,Desk Lamp,1,28.46,0.05,6.77
+O002110,2024-07-26,C00266,North,Marketplace,Electronics,USB-C Hub,3,58.9,0.0,13.55
+O001382,2024-07-26,C00355,North,Online,Beauty,Face Serum,5,26.99,0.0,4.04
+O000814,2024-07-26,C00282,South,Marketplace,Home,Air Purifier,1,45.7,0.05,12.38
+O000299,2024-07-27,C00309,North,Online,Home,Storage Box,4,48.16,0.05,2.56
+O001209,2024-07-27,C00141,East,Online,Home,Desk Lamp,5,50.7,0.05,10.72
+O000534,2024-07-27,C00221,East,Retail Store,Electronics,Bluetooth Speaker,3,53.4,0.15,13.65
+O001993,2024-07-28,C00435,West,Retail Store,Sports,Bike Light,2,41.95,0.0,13.92
+O000450,2024-07-28,C00165,South,Retail Store,Beauty,Hand Cream,2,24.07,0.2,13.04
+O002193,2024-07-28,C00410,West,Retail Store,Books,Data Science Book,4,12.54,0.0,3.01
+O002219,2024-07-28,C00512,North,Online,Electronics,Wireless Mouse,3,47.66,0.0,9.33
+O000660,2024-07-29,C00097,West,Online,Electronics,Webcam,3,68.26,0.0,14.47
+O001230,2024-07-29,C00184,East,Marketplace,Beauty,Hand Cream,4,25.22,0.05,10.01
+O000855,2024-07-29,C00115,North,Online,Home,Storage Box,5,32.61,0.05,3.7
+O000481,2024-07-29,C00468,East,Online,Beauty,Shampoo Set,2,33.7,0.05,10.83
+O000096,2024-07-29,C00455,West,Online,Home,Air Purifier,2,28.29,0.1,6.61
+O001483,2024-07-30,C00024,North,Retail Store,Electronics,Wireless Mouse,4,91.23,0.15,5.53
+O000495,2024-07-30,C00033,South,Online,Beauty,Hand Cream,4,36.69,0.0,3.99
+O002229,2024-07-30,C00066,East,Online,Books,Data Science Book,2,20.84,0.2,14.82
+O002041,2024-07-30,C00294,East,Retail Store,Books,Data Science Book,2,15.37,0.1,3.2
+O002398,2024-07-30,C00205,North,Online,Books,Sketch Pad,4,19.51,0.1,9.2
+O002186,2024-07-30,C00224,East,Online,Beauty,Hand Cream,3,24.88,0.0,6.41
+O000841,2024-07-30,C00335,East,Retail Store,Home,Coffee Grinder,1,33.54,0.05,7.78
+O001561,2024-07-31,C00301,East,Online,Sports,Bike Light,5,24.61,0.1,7.32
+O002197,2024-07-31,C00258,South,Retail Store,Electronics,Wireless Mouse,4,65.02,0.0,4.64
+O000342,2024-07-31,C00380,South,Retail Store,Electronics,Webcam,2,48.05,0.1,14.32
+O001114,2024-08-01,C00439,East,Marketplace,Electronics,Webcam,2,71.37,0.05,12.84
+O000154,2024-08-02,C00451,North,Marketplace,Home,Air Purifier,3,34.29,0.1,14.22
+O001451,2024-08-02,C00089,South,Retail Store,Books,Sketch Pad,3,22.01,0.0,6.87
+O000271,2024-08-03,C00129,South,Marketplace,Books,Planner,2,17.65,0.1,10.63
+O001646,2024-08-03,C00141,North,Retail Store,Sports,Resistance Band,2,24.95,0.0,15.29
+O001820,2024-08-03,C00368,South,Online,Electronics,USB-C Hub,1,88.55,0.05,11.69
+O002255,2024-08-03,C00303,North,Retail Store,Books,Data Science Book,4,14.73,0.2,12.14
+O000796,2024-08-03,C00433,North,Online,Beauty,Shampoo Set,2,27.81,0.0,5.39
+O000419,2024-08-04,C00128,South,Online,Books,Data Science Book,4,14.05,0.0,10.18
+O001907,2024-08-04,C00345,East,Retail Store,Home,Air Purifier,4,35.21,0.05,10.04
+O001862,2024-08-04,C00321,North,Online,Home,Coffee Grinder,3,53.07,0.0,7.12
+O001338,2024-08-04,C00019,South,Marketplace,Home,Coffee Grinder,2,40.27,0.1,10.75
+O001581,2024-08-04,C00507,East,Online,Electronics,Bluetooth Speaker,2,59.77,0.05,13.52
+O000638,2024-08-05,C00149,North,Retail Store,Home,Storage Box,5,44.66,0.0,15.87
+O001239,2024-08-05,C00233,East,Online,Home,Air Purifier,3,39.45,0.15,6.62
+O002273,2024-08-05,C00346,East,Retail Store,Sports,Bike Light,2,26.56,0.1,10.65
+O001400,2024-08-06,C00036,North,Online,Books,Planner,5,8.09,0.0,11.16
+O001316,2024-08-06,C00431,East,Retail Store,Beauty,Shampoo Set,3,33.68,0.0,2.72
+O000971,2024-08-06,C00266,East,Online,Home,Coffee Grinder,2,50.16,0.0,15.0
+O000353,2024-08-06,C00447,South,Retail Store,Home,Air Purifier,5,52.65,0.1,6.93
+O000263,2024-08-07,C00255,South,Online,Electronics,Wireless Mouse,4,62.38,0.0,15.27
+O000442,2024-08-07,C00500,North,Retail Store,Electronics,Webcam,3,63.65,0.0,12.82
+O001403,2024-08-07,C00518,North,Retail Store,Home,Air Purifier,4,30.73,0.05,7.39
+O001601,2024-08-08,C00205,East,Online,Books,Planner,2,20.8,0.0,7.46
+O000190,2024-08-08,C00156,South,Online,Electronics,Webcam,2,67.93,0.1,11.65
+O000928,2024-08-08,C00093,South,Online,Home,Storage Box,2,46.93,0.05,15.06
+O001367,2024-08-08,C00415,West,Online,Electronics,Webcam,5,78.5,0.0,13.05
+O000307,2024-08-08,C00478,West,Online,Beauty,Face Serum,2,21.03,0.05,6.39
+O000802,2024-08-08,C00032,South,Online,Home,Storage Box,3,56.88,0.0,8.3
+O001823,2024-08-08,C00154,East,Online,Home,Coffee Grinder,4,43.71,0.1,15.04
+O001476,2024-08-08,C00320,East,Online,Sports,Yoga Mat,4,25.52,0.0,11.67
+O002052,2024-08-09,C00106,East,Online,Sports,Resistance Band,2,18.41,0.05,4.63
+O002021,2024-08-09,C00193,East,Online,Electronics,Wireless Mouse,2,43.47,0.05,11.54
+O000136,2024-08-10,C00308,South,Online,Books,Notebook,4,17.34,0.0,12.56
+O002089,2024-08-10,C00151,South,Online,Electronics,USB-C Hub,4,73.42,0.0,15.9
+O001155,2024-08-10,C00495,East,Retail Store,Home,Storage Box,1,51.73,0.1,9.85
+O001838,2024-08-10,C00430,South,Retail Store,Electronics,Webcam,4,68.56,0.0,11.71
+O000952,2024-08-10,C00394,North,Online,Electronics,USB-C Hub,3,80.24,0.0,9.4
+O001105,2024-08-11,C00100,West,Online,Home,Air Purifier,1,47.63,0.0,6.67
+O000226,2024-08-11,C00080,South,Retail Store,Home,Coffee Grinder,3,31.9,0.0,3.91
+O002187,2024-08-11,C00191,East,Online,Sports,Bike Light,2,17.9,0.05,5.71
+O001391,2024-08-11,C00008,East,Marketplace,Beauty,Shampoo Set,3,28.77,0.05,10.1
+O001186,2024-08-12,C00392,North,Online,Beauty,Hand Cream,7,31.95,0.1,7.63
+O001779,2024-08-12,C00369,West,Online,Beauty,Travel Mirror,5,31.73,0.1,3.23
+O002127,2024-08-12,C00107,South,Marketplace,Home,Desk Lamp,4,50.17,0.0,6.62
+O002355,2024-08-13,C00221,West,Online,Home,Air Purifier,1,47.84,0.05,12.34
+O000239,2024-08-13,C00093,East,Marketplace,Books,Planner,6,16.48,0.05,14.94
+O002309,2024-08-13,C00329,North,Marketplace,Beauty,Travel Mirror,6,20.83,0.1,13.62
+O000400,2024-08-14,C00003,South,Online,Electronics,USB-C Hub,3,54.62,0.05,13.07
+O000526,2024-08-14,C00400,North,Retail Store,Electronics,Bluetooth Speaker,3,48.74,0.05,11.65
+O000333,2024-08-14,C00246,North,Retail Store,Sports,Bike Light,1,30.46,0.15,4.96
+O001060,2024-08-15,C00083,South,Online,Home,Coffee Grinder,3,53.89,0.0,12.25
+O001821,2024-08-16,C00492,East,Online,Home,Coffee Grinder,5,71.4,0.05,2.79
+O000749,2024-08-16,C00091,East,Online,Electronics,Bluetooth Speaker,3,40.5,0.05,14.92
+O000088,2024-08-16,C00371,South,Online,Home,Desk Lamp,2,58.81,0.0,9.91
+O001462,2024-08-16,C00154,West,Online,Home,Desk Lamp,2,41.55,0.15,12.69
+O001034,2024-08-17,C00012,North,Online,Books,Planner,2,16.91,0.05,2.61
+O000748,2024-08-17,C00302,North,Retail Store,Books,Notebook,5,28.29,0.0,7.41
+O001014,2024-08-17,C00311,North,Online,Home,Storage Box,4,65.11,0.0,15.23
+O000447,2024-08-17,C00388,North,Marketplace,Home,Storage Box,3,44.77,0.0,10.94
+O000799,2024-08-18,C00493,West,Marketplace,Beauty,Face Serum,4,28.02,0.1,15.32
+O000309,2024-08-18,C00388,East,Retail Store,Electronics,Bluetooth Speaker,4,39.64,0.0,5.83
+O000368,2024-08-18,C00461,West,Marketplace,Electronics,Wireless Mouse,2,81.57,0.05,9.86
+O000968,2024-08-19,C00269,East,Retail Store,Home,Air Purifier,3,42.46,0.1,12.31
+O002167,2024-08-19,C00373,South,Online,Beauty,Shampoo Set,3,5.62,0.15,3.84
+O001604,2024-08-19,C00075,East,Online,Sports,Resistance Band,3,19.04,0.1,11.89
+O000338,2024-08-19,C00487,East,Online,Beauty,Hand Cream,1,29.3,0.0,13.79
+O000988,2024-08-19,C00027,North,Retail Store,Sports,Yoga Mat,4,31.66,0.0,4.68
+O001177,2024-08-19,C00411,East,Retail Store,Books,Notebook,3,23.12,0.2,5.71
+O002272,2024-08-20,C00472,South,Marketplace,Home,Storage Box,2,49.42,0.05,10.98
+O001586,2024-08-20,C00427,West,Retail Store,Beauty,Hand Cream,2,30.79,0.0,9.39
+O000554,2024-08-20,C00006,South,Retail Store,Beauty,Face Serum,2,22.57,0.0,12.23
+O000525,2024-08-20,C00286,East,Online,Home,Coffee Grinder,1,26.57,0.05,13.5
+O001576,2024-08-20,C00174,East,Marketplace,Home,Desk Lamp,2,42.13,0.05,11.16
+O002016,2024-08-21,C00388,South,Retail Store,Beauty,Face Serum,3,21.21,0.05,9.06
+O001435,2024-08-21,C00032,South,Online,Sports,Bike Light,3,18.8,0.0,3.64
+O001439,2024-08-21,C00378,North,Retail Store,Beauty,Travel Mirror,1,35.99,0.15,6.63
+O001756,2024-08-21,C00153,South,Online,Home,Desk Lamp,3,53.48,0.0,11.99
+O001527,2024-08-21,C00086,East,Online,Beauty,Travel Mirror,2,30.16,0.0,7.86
+O000321,2024-08-22,C00160,South,Online,Home,Desk Lamp,4,34.69,0.0,3.14
+O000167,2024-08-22,C00168,East,Online,Electronics,Bluetooth Speaker,1,53.01,0.0,12.48
+O002271,2024-08-22,C00062,East,Online,Home,Air Purifier,4,51.99,0.0,14.36
+O000595,2024-08-22,C00104,East,Retail Store,Books,Notebook,4,18.55,0.1,15.71
+O000403,2024-08-22,C00322,East,Online,Beauty,Shampoo Set,3,28.26,0.05,8.65
+O002130,2024-08-22,C00281,East,Retail Store,Electronics,Bluetooth Speaker,3,57.49,0.0,7.28
+O002152,2024-08-23,C00409,South,Marketplace,Electronics,Wireless Mouse,2,46.5,0.0,3.97
+O001950,2024-08-23,C00161,East,Online,Electronics,Webcam,2,59.18,0.0,6.33
+O001504,2024-08-23,C00221,North,Online,Beauty,Face Serum,4,15.29,0.05,6.03
+O002292,2024-08-23,C00277,South,Marketplace,Electronics,Wireless Mouse,3,60.31,0.1,6.7
+O001404,2024-08-23,C00376,East,Retail Store,Beauty,Hand Cream,2,15.76,0.0,13.21
+O000607,2024-08-24,C00217,West,Online,Electronics,Wireless Mouse,3,80.07,0.0,13.59
+O002283,2024-08-24,C00422,North,Marketplace,Beauty,Face Serum,2,32.75,0.1,3.0
+O001388,2024-08-25,C00355,South,Online,Electronics,Bluetooth Speaker,4,49.35,0.05,7.22
+O001249,2024-08-25,C00243,North,Retail Store,Sports,Bike Light,3,31.7,0.0,11.35
+O002083,2024-08-25,C00154,East,Online,Electronics,Wireless Mouse,2,59.25,0.05,10.52
+O000066,2024-08-26,C00139,North,Retail Store,Beauty,Hand Cream,3,16.62,0.0,3.27
+O002307,2024-08-26,C00188,East,Retail Store,Home,Desk Lamp,2,35.04,0.05,9.86
+O002092,2024-08-26,C00411,West,Online,Beauty,Travel Mirror,4,22.42,0.0,10.1
+O002151,2024-08-27,C00402,North,Online,Electronics,Bluetooth Speaker,5,79.96,0.0,12.16
+O002347,2024-08-27,C00126,West,Retail Store,Home,Desk Lamp,4,39.25,0.05,4.27
+O000632,2024-08-27,C00046,South,Online,Books,Data Science Book,5,17.2,0.0,8.68
+O001915,2024-08-28,C00051,South,Marketplace,Home,Storage Box,4,39.53,0.0,10.43
+O000646,2024-08-28,C00480,South,Online,Sports,Running Bottle,3,22.3,0.0,14.45
+O001095,2024-08-28,C00435,West,Online,Home,Desk Lamp,2,43.23,0.15,5.53
+O002069,2024-08-29,C00110,North,Retail Store,Books,Planner,3,21.13,0.0,13.87
+O000077,2024-08-29,C00181,West,Retail Store,Electronics,USB-C Hub,2,48.96,0.1,7.54
+O000254,2024-08-29,C00002,North,Online,Books,Sketch Pad,3,14.99,0.1,9.91
+O001514,2024-08-29,C00004,North,Retail Store,Electronics,Webcam,3,62.74,0.05,11.76
+O001145,2024-08-30,C00405,South,Online,Beauty,Shampoo Set,4,29.79,0.0,8.83
+O001777,2024-08-30,C00131,West,Marketplace,Sports,Bike Light,5,25.37,0.05,3.56
+O000294,2024-08-30,C00019,North,Online,Beauty,Shampoo Set,5,20.28,0.0,7.2
+O001494,2024-08-31,C00378,East,Online,Books,Sketch Pad,1,19.1,0.0,6.69
+O000738,2024-08-31,C00449,North,Online,Sports,Running Bottle,3,19.52,0.0,13.71
+O001511,2024-08-31,C00140,East,Online,Books,Notebook,4,12.03,0.05,15.69
+O001069,2024-08-31,C00172,South,Marketplace,Beauty,Face Serum,3,26.33,0.0,15.57
+O001905,2024-08-31,C00134,South,Marketplace,Sports,Yoga Mat,5,33.91,0.0,15.23
+O000169,2024-09-01,C00466,East,Retail Store,Electronics,Wireless Mouse,4,59.78,0.0,2.55
+O001030,2024-09-01,C00189,North,Online,Sports,Bike Light,3,6.08,0.05,6.0
+O002160,2024-09-01,C00355,North,Online,Sports,Bike Light,5,22.47,0.1,9.47
+O000487,2024-09-01,C00427,South,Online,Sports,Yoga Mat,2,35.11,0.2,4.78
+O000371,2024-09-02,C00152,East,Retail Store,Home,Storage Box,2,53.5,0.0,13.05
+O002204,2024-09-02,C00285,East,Retail Store,Books,Data Science Book,1,18.73,0.0,14.79
+O002367,2024-09-03,C00033,East,Online,Books,Notebook,4,19.23,0.15,3.89
+O001176,2024-09-04,C00290,West,Online,Electronics,Wireless Mouse,9,64.65,0.05,7.67
+O001142,2024-09-04,C00234,North,Online,Electronics,Webcam,4,61.68,0.05,2.88
+O000627,2024-09-04,C00357,South,Marketplace,Sports,Running Bottle,4,37.46,0.15,6.17
+O000199,2024-09-04,C00296,South,Online,Sports,Yoga Mat,2,24.21,0.0,8.29
+O002323,2024-09-04,C00485,West,Online,Electronics,Webcam,2,52.63,0.05,14.19
+O001771,2024-09-04,C00216,East,Online,Home,Storage Box,3,38.62,0.0,3.95
+O001160,2024-09-05,C00336,East,Marketplace,Electronics,Webcam,3,60.46,0.0,9.65
+O001782,2024-09-05,C00200,South,Online,Electronics,Bluetooth Speaker,3,77.28,0.0,9.25
+O001900,2024-09-05,C00110,North,Retail Store,Electronics,USB-C Hub,2,57.74,0.0,8.67
+O001330,2024-09-06,C00216,South,Online,Sports,Resistance Band,2,32.93,0.2,15.16
+O001974,2024-09-06,C00417,South,Online,Books,Planner,3,24.19,0.15,15.23
+O001711,2024-09-07,C00477,East,Online,Beauty,Face Serum,2,26.31,0.1,13.86
+O002030,2024-09-07,C00324,North,Online,Home,Air Purifier,3,37.75,0.0,6.29
+O002074,2024-09-07,C00233,East,Online,Beauty,Shampoo Set,6,26.93,0.15,12.23
+O000197,2024-09-07,C00170,South,Online,Sports,Running Bottle,3,31.66,0.0,2.64
+O002327,2024-09-07,C00337,South,Online,Electronics,Webcam,2,59.57,0.0,9.14
+O000991,2024-09-07,C00060,North,Online,Electronics,Wireless Mouse,1,65.46,0.0,8.17
+O001372,2024-09-07,C00468,East,Retail Store,Sports,Yoga Mat,4,41.93,0.0,8.13
+O001978,2024-09-07,C00507,South,Retail Store,Home,Storage Box,1,22.99,0.15,2.55
+O001793,2024-09-08,C00054,West,Online,Home,Coffee Grinder,2,23.74,0.0,3.39
+O001357,2024-09-08,C00506,North,Retail Store,Electronics,Webcam,4,51.88,0.0,14.73
+O001647,2024-09-08,C00320,East,Online,Electronics,Wireless Mouse,4,81.5,0.05,8.44
+O001383,2024-09-10,C00032,West,Marketplace,Electronics,USB-C Hub,1,91.7,0.0,11.1
+O000268,2024-09-10,C00508,West,Marketplace,Electronics,Bluetooth Speaker,1,78.72,0.1,3.12
+O001236,2024-09-10,C00196,East,Online,Books,Notebook,2,18.62,0.15,15.66
+O001592,2024-09-10,C00042,North,Retail Store,Electronics,USB-C Hub,5,115.41,0.05,3.14
+O001407,2024-09-10,C00088,East,Online,Sports,Running Bottle,3,40.68,0.05,11.49
+O001312,2024-09-11,C00439,North,Marketplace,Home,Desk Lamp,2,38.7,0.1,10.91
+O001757,2024-09-11,C00340,East,Marketplace,Electronics,Bluetooth Speaker,2,77.73,0.0,13.11
+O000139,2024-09-11,C00239,West,Marketplace,Books,Notebook,4,15.88,0.05,12.11
+O000979,2024-09-13,C00393,North,Retail Store,Electronics,Bluetooth Speaker,4,71.16,0.1,8.43
+O001363,2024-09-13,C00178,South,Retail Store,Beauty,Travel Mirror,1,28.66,0.05,6.17
+O002282,2024-09-15,C00081,East,Online,Beauty,Face Serum,3,26.73,0.15,13.03
+O000044,2024-09-16,C00226,North,Retail Store,Electronics,USB-C Hub,2,83.35,0.05,3.17
+O001831,2024-09-16,C00070,East,Online,Beauty,Face Serum,4,26.48,0.0,12.64
+O000521,2024-09-18,C00028,West,Retail Store,Electronics,Wireless Mouse,2,49.79,0.0,15.19
+O001685,2024-09-19,C00314,South,Online,Sports,Yoga Mat,6,39.98,0.1,4.9
+O001927,2024-09-19,C00243,East,Retail Store,Sports,Bike Light,2,32.37,0.0,13.76
+O001699,2024-09-19,C00080,West,Online,Sports,Resistance Band,4,25.27,0.0,4.93
+O000765,2024-09-20,C00395,South,Marketplace,Beauty,Face Serum,2,14.39,0.1,2.62
+O000998,2024-09-20,C00275,West,Marketplace,Sports,Resistance Band,2,33.95,0.1,4.21
+O002053,2024-09-21,C00426,North,Online,Electronics,USB-C Hub,3,74.68,0.0,7.41
+O001925,2024-09-21,C00036,East,Retail Store,Electronics,Wireless Mouse,4,62.63,0.05,11.42
+O001572,2024-09-21,C00030,South,Online,Beauty,Travel Mirror,3,20.57,0.1,9.94
+O000194,2024-09-21,C00288,East,Retail Store,Electronics,USB-C Hub,3,57.78,0.0,5.12
+O002191,2024-09-22,C00177,North,Online,Electronics,USB-C Hub,10,61.73,0.0,6.22
+O002145,2024-09-22,C00123,West,Online,Sports,Bike Light,3,14.15,0.0,12.02
+O000301,2024-09-22,C00101,North,Online,Beauty,Travel Mirror,5,13.73,0.0,13.33
+O001773,2024-09-22,C00198,East,Online,Electronics,USB-C Hub,2,64.65,0.0,7.9
+O000053,2024-09-23,C00422,South,Online,Electronics,Webcam,3,58.69,0.0,14.29
+O001052,2024-09-23,C00010,South,Retail Store,Beauty,Face Serum,4,24.25,0.0,14.2
+O000746,2024-09-23,C00203,West,Marketplace,Books,Planner,1,18.45,0.0,9.68
+O002201,2024-09-24,C00295,East,Online,Electronics,USB-C Hub,5,77.92,0.15,7.89
+O001138,2024-09-24,C00250,South,Online,Home,Storage Box,3,45.59,0.1,11.87
+O001360,2024-09-24,C00417,North,Retail Store,Electronics,Bluetooth Speaker,1,63.99,0.1,6.64
+O000201,2024-09-24,C00432,West,Online,Home,Storage Box,2,35.4,0.0,6.22
+O002056,2024-09-24,C00411,South,Online,Beauty,Shampoo Set,5,30.05,0.05,11.11
+O000630,2024-09-24,C00328,West,Online,Home,Air Purifier,1,31.15,0.0,15.48
+O000393,2024-09-25,C00240,North,Marketplace,Books,Planner,4,23.57,0.0,12.43
+O000063,2024-09-25,C00067,East,Online,Home,Coffee Grinder,1,40.03,0.0,13.25
+O002356,2024-09-25,C00348,North,Online,Beauty,Face Serum,2,19.08,0.0,4.91
+O000628,2024-09-25,C00503,West,Online,Home,Air Purifier,4,49.49,0.0,11.86
+O002279,2024-09-26,C00120,East,Online,Books,Data Science Book,5,7.4,0.0,7.75
+O001271,2024-09-26,C00094,South,Marketplace,Home,Storage Box,2,23.01,0.0,2.96
+O000068,2024-09-27,C00421,North,Online,Books,Data Science Book,4,10.13,0.1,11.95
+O001151,2024-09-27,C00247,East,Retail Store,Electronics,Wireless Mouse,1,68.29,0.2,15.0
+O001864,2024-09-28,C00020,South,Online,Books,Data Science Book,5,17.82,0.0,4.62
+O001967,2024-09-28,C00363,East,Retail Store,Electronics,Bluetooth Speaker,3,49.31,0.05,7.58
+O000909,2024-09-28,C00061,West,Online,Home,Storage Box,5,42.69,0.0,14.81
+O000332,2024-09-28,C00237,West,Online,Electronics,Webcam,4,92.21,0.05,6.77
+O000022,2024-09-28,C00106,East,Online,Electronics,Bluetooth Speaker,3,69.36,0.0,13.04
+O001044,2024-09-29,C00318,West,Marketplace,Electronics,Webcam,3,68.17,0.05,9.2
+O001268,2024-09-29,C00355,East,Online,Sports,Bike Light,5,50.46,0.1,7.59
+O001937,2024-09-29,C00295,South,Online,Beauty,Hand Cream,3,30.63,0.05,15.82
+O000498,2024-09-30,C00333,South,Online,Beauty,Face Serum,4,20.0,0.1,7.11
+O000576,2024-09-30,C00182,South,Marketplace,Sports,Bike Light,2,19.31,0.05,6.09
+O000374,2024-09-30,C00215,East,Online,Beauty,Travel Mirror,3,23.89,0.15,6.49
+O001857,2024-10-01,C00478,East,Retail Store,Sports,Bike Light,3,26.36,0.1,11.64
+O000913,2024-10-02,C00235,East,Marketplace,Electronics,Wireless Mouse,3,72.49,0.0,12.8
+O000770,2024-10-02,C00017,North,Online,Sports,Running Bottle,4,21.91,0.0,5.13
+O001748,2024-10-02,C00066,East,Online,Beauty,Face Serum,2,22.43,0.05,8.5
+O001772,2024-10-02,C00443,South,Online,Sports,Running Bottle,2,30.32,0.0,4.03
+O000379,2024-10-04,C00406,South,Online,Books,Planner,3,13.28,0.05,12.54
+O001945,2024-10-04,C00285,South,Retail Store,Beauty,Travel Mirror,2,27.06,0.05,12.22
+O001718,2024-10-04,C00096,West,Online,Books,Notebook,3,21.25,0.05,14.77
+O000634,2024-10-04,C00364,East,Online,Electronics,Bluetooth Speaker,2,82.43,0.05,3.57
+O000188,2024-10-05,C00519,South,Online,Home,Storage Box,5,43.0,0.05,4.85
+O001285,2024-10-06,C00504,North,Retail Store,Beauty,Face Serum,2,19.21,0.1,6.72
+O001017,2024-10-07,C00249,West,Online,Electronics,Bluetooth Speaker,4,55.06,0.05,5.63
+O001593,2024-10-07,C00369,East,Retail Store,Beauty,Hand Cream,2,23.26,0.0,6.28
+O000758,2024-10-07,C00495,North,Online,Electronics,USB-C Hub,1,72.86,0.15,6.44
+O001159,2024-10-07,C00280,North,Online,Books,Planner,3,15.38,0.1,9.13
+O001881,2024-10-08,C00043,East,Retail Store,Electronics,Webcam,3,72.5,0.0,4.15
+O000614,2024-10-08,C00036,North,Online,Electronics,Webcam,3,88.75,0.15,8.92
+O001468,2024-10-08,C00432,South,Online,Electronics,USB-C Hub,4,85.92,0.0,10.61
+O001761,2024-10-08,C00046,East,Retail Store,Beauty,Shampoo Set,2,31.44,0.15,5.74
+O001385,2024-10-09,C00047,North,Online,Electronics,Wireless Mouse,2,75.46,0.05,8.58
+O000094,2024-10-10,C00088,West,Online,Home,Air Purifier,3,49.51,0.1,9.44
+O001066,2024-10-10,C00092,East,Online,Electronics,USB-C Hub,4,40.61,0.05,12.94
+O001629,2024-10-10,C00333,North,Online,Beauty,Hand Cream,2,27.4,0.05,12.01
+O000809,2024-10-12,C00362,South,Retail Store,Electronics,USB-C Hub,4,60.86,0.15,10.99
+O002216,2024-10-12,C00315,North,Online,Electronics,USB-C Hub,3,45.44,0.1,10.98
+O001094,2024-10-13,C00188,South,Online,Home,Desk Lamp,4,45.33,0.15,3.86
+O001173,2024-10-13,C00065,West,Marketplace,Home,Storage Box,3,33.16,0.0,3.54
+O001352,2024-10-13,C00217,North,Marketplace,Home,Desk Lamp,4,46.09,0.1,7.14
+O001283,2024-10-14,C00396,South,Retail Store,Electronics,Webcam,3,96.0,0.0,4.38
+O002384,2024-10-14,C00270,South,Online,Beauty,Face Serum,1,26.63,0.0,3.6
+O000552,2024-10-14,C00326,West,Online,Electronics,USB-C Hub,4,98.23,0.0,13.28
+O001921,2024-10-14,C00058,East,Online,Electronics,Bluetooth Speaker,3,75.43,0.05,4.95
+O002012,2024-10-14,C00508,East,Online,Beauty,Shampoo Set,2,27.74,0.05,5.27
+O002291,2024-10-15,C00163,South,Retail Store,Sports,Yoga Mat,4,19.82,0.05,6.6
+O002059,2024-10-15,C00098,South,Online,Sports,Yoga Mat,5,18.42,0.0,11.56
+O001478,2024-10-15,C00236,East,Online,Beauty,Hand Cream,2,29.93,0.1,9.39
+O001754,2024-10-15,C00351,South,Online,Books,Planner,1,18.93,0.1,8.75
+O001774,2024-10-15,C00255,East,Retail Store,Books,Sketch Pad,1,15.01,0.1,2.57
+O001694,2024-10-15,C00447,North,Retail Store,Sports,Running Bottle,3,29.0,0.15,14.93
+O002342,2024-10-15,C00164,South,Retail Store,Sports,Resistance Band,7,33.37,0.1,5.4
+O001666,2024-10-16,C00048,West,Marketplace,Electronics,Webcam,1,61.18,0.0,6.56
+O000440,2024-10-17,C00475,North,Online,Beauty,Travel Mirror,4,15.46,0.0,5.05
+O002003,2024-10-17,C00272,South,Retail Store,Books,Data Science Book,3,16.79,0.0,3.18
+O001320,2024-10-17,C00395,East,Online,Electronics,USB-C Hub,3,64.13,0.05,11.77
+O002374,2024-10-18,C00037,North,Online,Home,Air Purifier,3,23.04,0.0,12.99
+O001168,2024-10-18,C00330,East,Online,Home,Air Purifier,2,41.61,0.0,12.17
+O000957,2024-10-19,C00083,East,Marketplace,Electronics,Wireless Mouse,4,70.91,0.0,4.1
+O002134,2024-10-19,C00431,West,Online,Electronics,Webcam,4,65.72,0.05,12.8
+O001956,2024-10-19,C00387,South,Online,Home,Desk Lamp,5,44.09,0.05,11.8
+O002140,2024-10-19,C00302,East,Online,Sports,Running Bottle,2,20.96,0.0,5.7
+O002225,2024-10-20,C00365,West,Retail Store,Electronics,USB-C Hub,4,48.33,0.1,10.34
+O001302,2024-10-20,C00026,South,Retail Store,Beauty,Shampoo Set,1,28.23,0.0,8.45
+O001847,2024-10-21,C00442,South,Online,Home,Coffee Grinder,3,55.35,0.15,7.78
+O002163,2024-10-21,C00399,North,Online,Sports,Bike Light,4,25.71,0.1,9.42
+O002073,2024-10-21,C00375,South,Online,Sports,Bike Light,2,27.55,0.2,13.07
+O002060,2024-10-21,C00003,North,Online,Electronics,USB-C Hub,4,88.94,0.05,13.2
+O000027,2024-10-21,C00448,South,Retail Store,Home,Desk Lamp,3,33.53,0.0,6.42
+O000942,2024-10-22,C00358,South,Online,Home,Air Purifier,2,24.29,0.0,9.8
+O000585,2024-10-22,C00043,North,Retail Store,Electronics,USB-C Hub,2,40.51,0.15,8.26
+O001866,2024-10-22,C00155,East,Retail Store,Home,Storage Box,4,59.72,0.05,5.03
+O000687,2024-10-24,C00398,South,Retail Store,Electronics,USB-C Hub,7,65.09,0.0,9.15
+O001131,2024-10-24,C00455,West,Online,Sports,Yoga Mat,5,32.01,0.1,2.7
+O000164,2024-10-24,C00152,West,Retail Store,Electronics,Wireless Mouse,2,79.11,0.05,6.8
+O001688,2024-10-25,C00412,East,Retail Store,Books,Sketch Pad,1,25.25,0.0,4.62
+O002076,2024-10-25,C00231,East,Marketplace,Beauty,Hand Cream,2,16.75,0.0,6.68
+O000962,2024-10-25,C00369,North,Marketplace,Electronics,USB-C Hub,1,93.43,0.1,13.58
+O001340,2024-10-25,C00092,North,Online,Sports,Bike Light,3,16.04,0.0,14.84
+O001875,2024-10-25,C00045,East,Marketplace,Books,Data Science Book,2,20.83,0.1,3.63
+O000144,2024-10-25,C00450,East,Online,Sports,Resistance Band,2,23.45,0.0,10.68
+O000373,2024-10-26,C00499,North,Online,Sports,Yoga Mat,5,28.22,0.0,15.5
+O001762,2024-10-26,C00287,North,Online,Books,Data Science Book,3,17.59,0.0,13.35
+O000163,2024-10-26,C00401,South,Marketplace,Sports,Yoga Mat,3,27.7,0.0,10.88
+O002192,2024-10-26,C00516,South,Marketplace,Beauty,Hand Cream,3,23.18,0.1,4.34
+O001835,2024-10-26,C00491,West,Online,Books,Sketch Pad,5,12.84,0.1,10.6
+O001495,2024-10-26,C00374,East,Retail Store,Books,Data Science Book,6,14.54,0.2,8.31
+O000907,2024-10-27,C00152,South,Online,Beauty,Shampoo Set,5,22.88,0.05,14.18
+O001252,2024-10-27,C00356,West,Online,Beauty,Travel Mirror,6,23.88,0.1,6.87
+O002357,2024-10-27,C00222,South,Online,Home,Coffee Grinder,5,53.53,0.05,10.18
+O000065,2024-10-27,C00223,East,Online,Sports,Resistance Band,2,33.27,0.05,8.27
+O000496,2024-10-28,C00331,South,Retail Store,Sports,Resistance Band,4,37.75,0.0,10.02
+O000960,2024-10-28,C00168,South,Online,Electronics,USB-C Hub,2,34.75,0.1,8.42
+O001719,2024-10-28,C00285,North,Online,Electronics,Bluetooth Speaker,4,82.61,0.0,12.21
+O001888,2024-10-29,C00409,South,Retail Store,Home,Air Purifier,3,28.95,0.0,8.92
+O002017,2024-10-29,C00357,West,Online,Home,Storage Box,2,38.59,0.0,3.83
+O001584,2024-10-29,C00207,North,Marketplace,Home,Coffee Grinder,5,29.96,0.1,11.54
+O001043,2024-10-30,C00007,South,Retail Store,Home,Storage Box,5,43.59,0.05,11.06
+O001635,2024-10-30,C00429,South,Online,Beauty,Travel Mirror,2,23.63,0.15,14.54
+O001309,2024-10-30,C00143,West,Online,Sports,Yoga Mat,1,13.13,0.1,7.54
+O001191,2024-10-30,C00005,South,Marketplace,Sports,Bike Light,2,29.24,0.15,2.86
+O001485,2024-10-30,C00424,West,Retail Store,Home,Storage Box,2,49.03,0.0,5.62
+O000248,2024-10-30,C00372,South,Marketplace,Sports,Running Bottle,3,35.4,0.0,6.23
+O000624,2024-10-31,C00249,South,Marketplace,Sports,Running Bottle,2,40.63,0.05,3.03
+O000572,2024-10-31,C00137,East,Online,Beauty,Face Serum,4,32.87,0.0,11.47
+O001480,2024-10-31,C00517,East,Online,Home,Coffee Grinder,3,35.32,0.05,3.66
+O001225,2024-10-31,C00460,North,Retail Store,Books,Notebook,3,18.24,0.0,13.53
+O002290,2024-10-31,C00324,East,Marketplace,Home,Desk Lamp,1,56.96,0.0,8.68
+O000425,2024-10-31,C00082,South,Online,Home,Coffee Grinder,3,51.35,0.0,10.89
+O000929,2024-11-01,C00018,South,Online,Electronics,Wireless Mouse,2,79.97,0.0,10.46
+O000972,2024-11-01,C00269,South,Retail Store,Electronics,Webcam,3,74.77,0.0,6.05
+O001079,2024-11-01,C00454,East,Online,Books,Notebook,2,28.85,0.0,3.02
+O000165,2024-11-01,C00023,East,Online,Home,Coffee Grinder,5,51.47,0.0,4.1
+O000275,2024-11-01,C00167,South,Online,Sports,Running Bottle,4,28.56,0.0,12.61
+O000464,2024-11-02,C00382,South,Marketplace,Electronics,Bluetooth Speaker,2,66.83,0.0,13.44
+O001678,2024-11-02,C00264,West,Online,Home,Air Purifier,2,33.17,0.1,8.17
+O000732,2024-11-02,C00505,East,Online,Sports,Yoga Mat,6,34.49,0.1,7.91
+O002070,2024-11-02,C00202,North,Retail Store,Electronics,Bluetooth Speaker,3,62.66,0.05,9.0
+O001185,2024-11-03,C00121,West,Retail Store,Electronics,Webcam,4,60.33,0.0,15.21
+O001374,2024-11-03,C00061,East,Marketplace,Beauty,Travel Mirror,2,27.87,0.0,12.81
+O002250,2024-11-05,C00318,West,Marketplace,Beauty,Face Serum,3,28.88,0.0,3.23
+O000777,2024-11-05,C00455,West,Online,Home,Desk Lamp,1,48.55,0.05,3.87
+O002341,2024-11-05,C00387,East,Online,Books,Notebook,2,15.3,0.0,5.45
+O002224,2024-11-05,C00491,East,Marketplace,Home,Desk Lamp,2,49.98,0.05,8.45
+O001333,2024-11-06,C00221,West,Online,Beauty,Shampoo Set,6,18.79,0.15,11.07
+O001841,2024-11-06,C00205,West,Retail Store,Home,Storage Box,2,53.25,0.0,6.02
+O001059,2024-11-06,C00062,North,Retail Store,Electronics,Bluetooth Speaker,1,77.44,0.0,12.52
+O002276,2024-11-06,C00361,East,Online,Home,Desk Lamp,4,48.52,0.0,11.72
+O000500,2024-11-07,C00194,North,Online,Beauty,Shampoo Set,2,23.52,0.0,15.26
+O000954,2024-11-08,C00086,South,Marketplace,Beauty,Hand Cream,3,9.9,0.1,6.05
+O001437,2024-11-08,C00426,East,Retail Store,Home,Desk Lamp,6,36.93,0.0,6.94
+O001687,2024-11-08,C00467,North,Retail Store,Electronics,Bluetooth Speaker,3,49.69,0.0,6.5
+O000547,2024-11-09,C00188,South,Online,Beauty,Travel Mirror,3,26.2,0.15,4.7
+O001153,2024-11-10,C00325,North,Retail Store,Electronics,USB-C Hub,4,62.16,0.0,6.04
+O000795,2024-11-11,C00217,North,Online,Home,Coffee Grinder,2,32.74,0.15,15.5
+O000473,2024-11-11,C00332,South,Marketplace,Beauty,Hand Cream,2,27.97,0.0,8.85
+O000238,2024-11-11,C00459,West,Online,Sports,Bike Light,6,34.81,0.0,13.7
+O001496,2024-11-11,C00028,East,Marketplace,Electronics,Webcam,3,65.56,0.1,5.64
+O001741,2024-11-11,C00191,East,Retail Store,Books,Notebook,5,5.97,0.05,3.22
+O000994,2024-11-11,C00447,South,Marketplace,Electronics,Bluetooth Speaker,3,56.74,0.0,11.01
+O000005,2024-11-12,C00337,South,Retail Store,Electronics,Wireless Mouse,4,44.15,0.05,14.11
+O000621,2024-11-12,C00324,West,Online,Books,Notebook,7,22.45,0.0,5.51
+O001444,2024-11-12,C00490,North,Online,Books,Planner,4,11.47,0.0,12.06
+O001924,2024-11-13,C00448,East,Online,Home,Desk Lamp,3,27.88,0.0,8.77
+O002007,2024-11-13,C00040,West,Online,Electronics,USB-C Hub,5,89.27,0.0,3.37
+O000407,2024-11-13,C00413,West,Marketplace,Books,Planner,4,11.54,0.0,7.11
+O000633,2024-11-13,C00045,West,Online,Home,Air Purifier,3,41.72,0.1,7.92
+O001100,2024-11-13,C00075,West,Marketplace,Beauty,Shampoo Set,2,14.78,0.1,3.39
+O000435,2024-11-13,C00331,South,Online,Books,Notebook,1,21.61,0.1,5.01
+O000155,2024-11-13,C00055,West,Online,Books,Sketch Pad,3,8.93,0.05,15.92
+O000091,2024-11-14,C00296,North,Retail Store,Home,Storage Box,1,38.42,0.05,3.94
+O000354,2024-11-14,C00378,East,Online,Home,Storage Box,3,26.55,0.1,2.73
+O002318,2024-11-14,C00405,South,Retail Store,Electronics,Wireless Mouse,5,72.65,0.0,11.67
+O000082,2024-11-15,C00029,West,Marketplace,Home,Air Purifier,6,58.87,0.0,2.9
+O000140,2024-11-15,C00090,South,Retail Store,Home,Storage Box,2,34.94,0.0,9.5
+O001039,2024-11-15,C00235,East,Online,Home,Storage Box,5,43.6,0.0,6.59
+O001418,2024-11-16,C00503,East,Online,Books,Sketch Pad,5,17.8,0.0,12.76
+O000756,2024-11-16,C00381,South,Online,Books,Notebook,2,17.66,0.0,5.55
+O001992,2024-11-16,C00490,West,Online,Electronics,Webcam,5,38.25,0.1,8.43
+O000298,2024-11-16,C00455,West,Retail Store,Sports,Running Bottle,1,23.01,0.15,14.68
+O000004,2024-11-16,C00457,North,Retail Store,Beauty,Face Serum,3,19.75,0.05,11.28
+O002078,2024-11-17,C00264,South,Retail Store,Sports,Yoga Mat,3,38.83,0.15,5.62
+O002135,2024-11-17,C00404,East,Retail Store,Home,Coffee Grinder,3,36.33,0.0,10.18
+O001220,2024-11-17,C00357,South,Online,Books,Notebook,1,16.52,0.0,15.61
+O000121,2024-11-17,C00176,West,Marketplace,Home,Desk Lamp,3,41.85,0.05,3.62
+O000285,2024-11-18,C00156,North,Online,Sports,Yoga Mat,2,25.13,0.15,15.06
+O000800,2024-11-19,C00274,South,Marketplace,Sports,Yoga Mat,4,24.27,0.0,4.51
+O002157,2024-11-19,C00427,South,Online,Sports,Resistance Band,3,37.68,0.1,5.22
+O000935,2024-11-19,C00266,West,Retail Store,Sports,Resistance Band,3,27.25,0.0,5.6
+O001729,2024-11-20,C00290,West,Online,Home,Storage Box,4,60.46,0.0,10.44
+O000030,2024-11-20,C00218,South,Online,Electronics,Bluetooth Speaker,3,55.89,0.0,12.01
+O002146,2024-11-20,C00256,West,Online,Beauty,Face Serum,5,8.65,0.05,12.99
+O001293,2024-11-20,C00514,East,Online,Electronics,USB-C Hub,3,86.2,0.0,3.83
+O001263,2024-11-20,C00290,East,Retail Store,Electronics,Bluetooth Speaker,1,84.9,0.1,10.64
+O000689,2024-11-21,C00054,North,Retail Store,Books,Sketch Pad,3,21.38,0.0,7.78
+O000047,2024-11-21,C00282,East,Marketplace,Sports,Yoga Mat,5,30.27,0.15,11.88
+O000267,2024-11-22,C00264,West,Retail Store,Home,Storage Box,4,41.73,0.05,12.93
+O000923,2024-11-22,C00370,West,Marketplace,Electronics,Bluetooth Speaker,2,63.57,0.15,14.51
+O001643,2024-11-22,C00111,East,Retail Store,Home,Storage Box,2,44.94,0.05,12.8
+O000219,2024-11-22,C00252,North,Online,Books,Sketch Pad,3,8.63,0.1,12.23
+O000186,2024-11-22,C00020,East,Retail Store,Electronics,Wireless Mouse,1,59.6,0.0,2.58
+O000869,2024-11-22,C00039,West,Online,Electronics,Webcam,4,76.68,0.1,14.86
+O001092,2024-11-23,C00056,North,Online,Beauty,Shampoo Set,6,30.66,0.1,13.71
+O001184,2024-11-23,C00175,South,Online,Electronics,Bluetooth Speaker,7,38.2,0.0,6.97
+O002040,2024-11-24,C00499,East,Retail Store,Home,Storage Box,4,53.78,0.2,13.79
+O001890,2024-11-24,C00234,South,Retail Store,Books,Data Science Book,2,23.63,0.2,7.14
+O001473,2024-11-24,C00118,North,Retail Store,Home,Air Purifier,8,60.52,0.1,12.79
+O001319,2024-11-24,C00046,East,Marketplace,Sports,Bike Light,2,29.58,0.0,6.1
+O001373,2024-11-24,C00135,South,Online,Beauty,Travel Mirror,5,23.42,0.0,8.47
+O000883,2024-11-24,C00445,South,Online,Beauty,Hand Cream,2,19.36,0.0,15.74
+O000214,2024-11-24,C00036,West,Retail Store,Books,Data Science Book,5,17.59,0.0,5.18
+O002382,2024-11-24,C00323,East,Retail Store,Beauty,Shampoo Set,6,22.48,0.0,8.91
+O001331,2024-11-24,C00009,West,Marketplace,Sports,Resistance Band,2,33.34,0.05,9.51
+O001057,2024-11-24,C00163,West,Online,Books,Planner,6,9.98,0.0,9.18
+O002217,2024-11-25,C00459,West,Retail Store,Sports,Running Bottle,3,20.77,0.1,8.38
+O000020,2024-11-25,C00314,West,Online,Electronics,Wireless Mouse,1,57.04,0.1,3.08
+O000031,2024-11-25,C00178,North,Online,Electronics,Bluetooth Speaker,4,83.03,0.15,7.65
+O001919,2024-11-26,C00127,South,Retail Store,Electronics,USB-C Hub,3,79.35,0.05,10.84
+O002243,2024-11-26,C00001,East,Retail Store,Electronics,Wireless Mouse,4,64.51,0.1,11.29
+O002047,2024-11-27,C00446,North,Retail Store,Home,Coffee Grinder,2,61.23,0.0,11.8
+O001368,2024-11-27,C00390,South,Retail Store,Electronics,Wireless Mouse,1,62.43,0.15,9.05
+O000506,2024-11-27,C00017,South,Online,Books,Data Science Book,2,17.99,0.1,4.03
+O000833,2024-11-27,C00341,North,Marketplace,Home,Storage Box,2,37.72,0.15,8.07
+O002391,2024-11-28,C00332,West,Online,Beauty,Face Serum,2,21.8,0.05,4.39
+O001803,2024-11-28,C00039,South,Online,Electronics,Bluetooth Speaker,5,75.76,0.1,12.01
+O000792,2024-11-28,C00246,North,Online,Beauty,Face Serum,3,21.68,0.15,7.58
+O002337,2024-11-28,C00507,South,Retail Store,Electronics,Bluetooth Speaker,3,51.88,0.0,14.11
+O001853,2024-11-28,C00439,West,Online,Sports,Yoga Mat,2,17.85,0.0,14.53
+O001566,2024-11-28,C00032,West,Online,Books,Notebook,1,15.77,0.0,11.48
+O002205,2024-11-28,C00092,East,Retail Store,Books,Sketch Pad,2,17.43,0.05,14.15
+O001458,2024-11-28,C00405,East,Marketplace,Sports,Bike Light,3,38.13,0.1,13.82
+O002180,2024-11-29,C00308,East,Marketplace,Books,Planner,4,12.17,0.0,7.97
+O000871,2024-11-29,C00069,West,Retail Store,Books,Notebook,6,20.52,0.0,6.68
+O000537,2024-11-29,C00221,South,Online,Books,Notebook,5,21.98,0.0,15.99
+O001743,2024-11-29,C00131,East,Online,Beauty,Travel Mirror,2,23.71,0.0,11.76
+O000222,2024-11-29,C00112,South,Online,Home,Coffee Grinder,2,43.92,0.0,15.57
+O002004,2024-11-30,C00136,South,Online,Sports,Bike Light,3,15.95,0.0,8.1
+O001555,2024-11-30,C00079,West,Online,Books,Planner,5,17.23,0.0,13.73
+O000205,2024-11-30,C00427,East,Online,Electronics,USB-C Hub,2,68.67,0.0,9.52
+O000916,2024-12-01,C00495,East,Online,Books,Sketch Pad,4,14.78,0.0,3.3
+O000905,2024-12-01,C00509,North,Online,Sports,Yoga Mat,4,24.05,0.05,15.84
+O000114,2024-12-01,C00108,North,Retail Store,Electronics,Wireless Mouse,5,50.69,0.0,13.19
+O000798,2024-12-01,C00350,East,Retail Store,Home,Air Purifier,7,31.65,0.05,15.25
+O000335,2024-12-02,C00326,East,Marketplace,Electronics,Wireless Mouse,2,49.82,0.0,4.92
+O000647,2024-12-02,C00269,North,Retail Store,Home,Air Purifier,6,47.53,0.05,8.63
+O001213,2024-12-02,C00149,West,Retail Store,Home,Desk Lamp,3,42.27,0.15,6.24
+O001520,2024-12-02,C00231,South,Retail Store,Sports,Resistance Band,3,22.18,0.0,10.42
+O002020,2024-12-03,C00254,South,Retail Store,Home,Coffee Grinder,3,60.22,0.0,6.51
+O002274,2024-12-03,C00150,South,Online,Home,Storage Box,5,41.57,0.2,15.34
+O000939,2024-12-03,C00236,East,Online,Beauty,Travel Mirror,1,39.21,0.1,9.83
+O000176,2024-12-03,C00312,East,Retail Store,Electronics,Webcam,3,54.54,0.05,11.31
+O002189,2024-12-03,C00036,East,Retail Store,Home,Air Purifier,5,40.9,0.05,11.81
+O000485,2024-12-04,C00400,West,Online,Electronics,Bluetooth Speaker,2,34.3,0.1,7.95
+O000073,2024-12-04,C00078,East,Online,Home,Storage Box,3,60.74,0.0,11.83
+O000231,2024-12-04,C00263,South,Online,Books,Sketch Pad,3,19.61,0.0,3.3
+O000612,2024-12-04,C00355,South,Retail Store,Home,Storage Box,2,67.49,0.0,12.24
+O001954,2024-12-05,C00429,South,Marketplace,Electronics,Webcam,2,62.06,0.1,4.67
+O002354,2024-12-05,C00276,North,Online,Sports,Running Bottle,1,19.51,0.0,3.23
+O002077,2024-12-05,C00190,South,Online,Home,Desk Lamp,3,60.22,0.05,14.64
+O001248,2024-12-05,C00174,North,Online,Home,Desk Lamp,4,43.81,0.0,6.14
+O000710,2024-12-06,C00204,North,Online,Books,Notebook,1,11.6,0.0,13.7
+O001075,2024-12-07,C00314,South,Retail Store,Books,Notebook,4,14.18,0.05,15.05
+O000277,2024-12-07,C00318,North,Retail Store,Home,Coffee Grinder,3,48.39,0.0,8.19
+O000054,2024-12-07,C00418,North,Marketplace,Sports,Bike Light,1,27.97,0.0,3.59
+O000474,2024-12-07,C00328,North,Marketplace,Electronics,Bluetooth Speaker,2,50.77,0.05,4.9
+O001499,2024-12-07,C00037,West,Retail Store,Home,Air Purifier,3,42.38,0.05,4.96
+O001768,2024-12-07,C00380,West,Retail Store,Home,Desk Lamp,2,57.36,0.1,4.21
+O001968,2024-12-08,C00169,North,Retail Store,Electronics,Webcam,2,38.01,0.0,11.94
+O001697,2024-12-08,C00413,West,Marketplace,Books,Data Science Book,1,19.46,0.0,6.26
+O001802,2024-12-08,C00064,South,Retail Store,Sports,Yoga Mat,2,40.07,0.0,10.38
+O000070,2024-12-09,C00291,East,Retail Store,Home,Storage Box,2,44.63,0.05,5.61
+O000367,2024-12-09,C00475,South,Online,Electronics,USB-C Hub,6,64.95,0.05,10.94
+O001712,2024-12-09,C00029,South,Online,Electronics,USB-C Hub,2,64.84,0.0,10.29
+O001431,2024-12-09,C00356,West,Online,Electronics,USB-C Hub,2,67.37,0.0,11.05
+O001102,2024-12-09,C00074,South,Online,Beauty,Face Serum,6,20.89,0.15,3.88
+O000124,2024-12-10,C00017,East,Marketplace,Beauty,Travel Mirror,4,16.03,0.05,6.72
+O000109,2024-12-10,C00114,West,Online,Electronics,Webcam,3,36.96,0.05,14.59
+O002026,2024-12-11,C00101,South,Marketplace,Beauty,Hand Cream,6,21.94,0.0,2.72
+O002395,2024-12-11,C00098,East,Marketplace,Electronics,USB-C Hub,3,74.58,0.1,6.54
+O001789,2024-12-11,C00178,East,Retail Store,Electronics,Wireless Mouse,3,76.56,0.05,10.32
+O000290,2024-12-12,C00126,East,Online,Home,Desk Lamp,4,27.16,0.0,11.76
+O000944,2024-12-12,C00115,East,Online,Beauty,Hand Cream,1,31.37,0.0,15.01
+O000974,2024-12-12,C00334,South,Online,Electronics,Bluetooth Speaker,7,62.2,0.0,15.43
+O001541,2024-12-13,C00047,South,Marketplace,Electronics,Wireless Mouse,3,65.33,0.0,10.36
+O000519,2024-12-13,C00135,East,Online,Sports,Running Bottle,3,29.77,0.0,14.9
+O000076,2024-12-13,C00445,North,Retail Store,Home,Desk Lamp,1,50.97,0.0,5.99
+O000709,2024-12-13,C00090,South,Retail Store,Beauty,Face Serum,2,33.63,0.0,4.84
+O000973,2024-12-14,C00295,South,Retail Store,Sports,Running Bottle,2,24.16,0.1,12.15
+O002239,2024-12-14,C00111,South,Online,Electronics,USB-C Hub,4,87.81,0.1,13.22
+O001420,2024-12-14,C00296,North,Retail Store,Books,Planner,6,14.81,0.2,15.55
+O000622,2024-12-15,C00065,North,Online,Home,Storage Box,3,54.51,0.0,7.39
+O000785,2024-12-15,C00120,East,Online,Sports,Resistance Band,3,33.65,0.05,9.76
+O001202,2024-12-15,C00062,North,Retail Store,Beauty,Face Serum,5,23.64,0.05,5.14
+O001795,2024-12-15,C00312,West,Retail Store,Sports,Yoga Mat,5,27.67,0.05,13.17
+O001508,2024-12-16,C00479,West,Online,Electronics,Wireless Mouse,3,61.26,0.05,3.14
+O001101,2024-12-16,C00376,East,Online,Books,Sketch Pad,3,12.67,0.0,13.82
+O000768,2024-12-16,C00158,East,Retail Store,Beauty,Face Serum,3,24.97,0.0,10.58
+O001799,2024-12-16,C00109,South,Online,Books,Notebook,2,17.03,0.1,12.46
+O002178,2024-12-17,C00081,North,Retail Store,Books,Sketch Pad,4,20.15,0.0,2.61
+O000644,2024-12-17,C00490,East,Marketplace,Books,Sketch Pad,4,25.33,0.2,12.27
+O001808,2024-12-17,C00315,West,Marketplace,Electronics,USB-C Hub,2,52.5,0.1,13.6
+O001146,2024-12-18,C00118,West,Online,Electronics,Webcam,2,106.09,0.0,8.77
+O000276,2024-12-18,C00425,South,Online,Sports,Resistance Band,2,13.12,0.1,9.2
+O001517,2024-12-18,C00320,East,Marketplace,Sports,Resistance Band,3,22.76,0.1,9.96
+O001932,2024-12-18,C00216,East,Online,Books,Planner,3,18.29,0.0,13.73
+O000282,2024-12-21,C00193,West,Retail Store,Electronics,Wireless Mouse,5,57.07,0.05,9.08
+O000729,2024-12-22,C00342,East,Retail Store,Electronics,Webcam,3,77.63,0.15,5.64
+O001031,2024-12-22,C00378,West,Online,Home,Air Purifier,3,46.02,0.15,15.72
+O000651,2024-12-23,C00240,South,Online,Electronics,USB-C Hub,2,69.94,0.0,9.8
+O001492,2024-12-23,C00328,West,Online,Home,Coffee Grinder,3,29.38,0.0,2.57
+O001244,2024-12-23,C00078,South,Online,Sports,Yoga Mat,1,21.3,0.05,12.55
+O000444,2024-12-23,C00158,North,Online,Electronics,Bluetooth Speaker,3,89.08,0.15,4.91
+O000284,2024-12-24,C00359,West,Marketplace,Electronics,Wireless Mouse,3,67.04,0.1,9.07
+O002156,2024-12-24,C00015,South,Online,Home,Desk Lamp,3,36.54,0.05,7.77
+O001918,2024-12-24,C00474,West,Retail Store,Beauty,Face Serum,1,31.6,0.1,9.16
+O001116,2024-12-24,C00020,West,Online,Home,Desk Lamp,4,44.16,0.2,5.62
+O001477,2024-12-24,C00516,East,Online,Home,Coffee Grinder,2,31.14,0.15,10.26
+O000718,2024-12-25,C00373,West,Online,Beauty,Face Serum,4,31.13,0.0,10.32
+O002298,2024-12-25,C00421,South,Retail Store,Beauty,Travel Mirror,3,14.5,0.0,11.99
+O000563,2024-12-26,C00485,South,Marketplace,Electronics,Bluetooth Speaker,1,82.14,0.0,7.27
+O000235,2024-12-26,C00195,North,Retail Store,Electronics,USB-C Hub,2,36.9,0.1,5.47
+O001120,2024-12-26,C00507,North,Retail Store,Books,Notebook,4,11.73,0.0,4.71
+O001018,2024-12-27,C00331,South,Retail Store,Books,Sketch Pad,5,9.69,0.0,3.26
+O001519,2024-12-27,C00243,West,Retail Store,Electronics,Bluetooth Speaker,2,89.22,0.05,2.63
+O001549,2024-12-27,C00066,East,Online,Home,Coffee Grinder,1,42.11,0.05,7.0
+O000252,2024-12-27,C00053,East,Online,Sports,Bike Light,1,31.75,0.0,2.52
+O000203,2024-12-27,C00108,South,Online,Books,Notebook,6,19.99,0.1,6.07
+O000185,2024-12-28,C00184,West,Retail Store,Books,Planner,4,13.95,0.0,15.67
+O001814,2024-12-28,C00156,North,Online,Beauty,Shampoo Set,4,12.16,0.0,7.14
+O001353,2024-12-28,C00385,North,Marketplace,Sports,Resistance Band,4,25.89,0.1,4.35
+O002011,2024-12-29,C00005,East,Online,Home,Storage Box,2,29.06,0.05,13.75
+O001356,2024-12-29,C00474,East,Online,Beauty,Travel Mirror,2,27.26,0.1,13.88
+O000055,2024-12-29,C00177,East,Online,Electronics,Wireless Mouse,2,52.31,0.0,10.99
+O000183,2024-12-29,C00300,South,Retail Store,Sports,Yoga Mat,3,21.91,0.0,3.27
+O000405,2024-12-30,C00444,East,Online,Electronics,Wireless Mouse,4,49.14,0.1,3.98
+O001162,2024-12-30,C00022,North,Online,Electronics,Bluetooth Speaker,4,72.8,0.2,12.47
+O000453,2024-12-30,C00217,South,Online,Electronics,USB-C Hub,5,56.23,0.0,7.74
+O000021,2024-12-31,C00469,North,Online,Electronics,USB-C Hub,4,35.55,0.0,15.51
+O002254,2025-01-01,C00278,North,Online,Electronics,Webcam,2,57.89,0.1,3.01
+O001053,2025-01-01,C00138,North,Online,Home,Desk Lamp,1,38.47,0.0,12.19
+O000406,2025-01-01,C00100,East,Online,Electronics,USB-C Hub,2,53.07,0.0,10.17
+O000180,2025-01-01,C00126,North,Retail Store,Home,Air Purifier,3,48.25,0.05,7.52
+O001737,2025-01-02,C00166,South,Online,Home,Coffee Grinder,3,61.85,0.0,5.15
+O000667,2025-01-02,C00141,West,Online,Books,Planner,3,20.27,0.05,4.33
+O001379,2025-01-02,C00445,North,Retail Store,Electronics,Webcam,3,56.54,0.0,15.12
+O001091,2025-01-02,C00516,North,Marketplace,Books,Data Science Book,5,17.76,0.05,9.77
+O002350,2025-01-03,C00516,South,Online,Books,Notebook,4,25.56,0.15,5.93
+O000876,2025-01-03,C00510,East,Retail Store,Sports,Bike Light,3,31.46,0.1,14.35
+O001767,2025-01-03,C00300,East,Online,Home,Storage Box,3,37.24,0.0,13.02
+O001008,2025-01-03,C00517,East,Retail Store,Home,Air Purifier,3,32.59,0.0,11.3
+O000556,2025-01-03,C00084,South,Retail Store,Sports,Bike Light,6,30.35,0.0,13.94
+O000159,2025-01-04,C00205,East,Online,Beauty,Travel Mirror,4,25.12,0.05,9.16
+O000115,2025-01-04,C00230,East,Retail Store,Electronics,Webcam,5,70.69,0.15,9.35
+O000629,2025-01-04,C00462,West,Retail Store,Books,Planner,4,13.58,0.0,5.4
+O001152,2025-01-04,C00169,East,Online,Books,Planner,3,14.35,0.15,6.38
+O002251,2025-01-05,C00235,West,Online,Beauty,Travel Mirror,4,24.69,0.0,13.48
+O001217,2025-01-05,C00513,East,Retail Store,Electronics,Bluetooth Speaker,4,72.05,0.15,3.07
+O001618,2025-01-05,C00109,East,Retail Store,Sports,Bike Light,1,24.08,0.2,14.54
+O000420,2025-01-05,C00424,South,Online,Electronics,Webcam,6,91.1,0.15,2.61
+O001241,2025-01-06,C00449,East,Marketplace,Books,Data Science Book,2,30.2,0.1,13.41
+O001051,2025-01-06,C00179,West,Online,Sports,Resistance Band,2,37.6,0.05,13.96
+O000445,2025-01-06,C00509,North,Retail Store,Electronics,Wireless Mouse,2,72.8,0.0,6.61
+O001490,2025-01-06,C00053,South,Online,Sports,Resistance Band,3,15.07,0.1,3.06
+O000940,2025-01-06,C00003,West,Marketplace,Beauty,Face Serum,2,25.14,0.0,10.98
+O002313,2025-01-07,C00434,East,Online,Books,Data Science Book,2,21.13,0.0,13.34
+O000897,2025-01-07,C00292,South,Marketplace,Electronics,USB-C Hub,2,51.26,0.05,4.41
+O002066,2025-01-07,C00306,South,Online,Electronics,USB-C Hub,4,75.74,0.0,3.94
+O001442,2025-01-09,C00429,South,Retail Store,Beauty,Travel Mirror,1,22.41,0.15,5.72
+O001000,2025-01-09,C00440,East,Online,Sports,Bike Light,6,41.27,0.0,9.76
+O000608,2025-01-10,C00312,East,Retail Store,Home,Storage Box,2,60.59,0.05,7.95
+O000017,2025-01-10,C00432,West,Online,Home,Storage Box,3,53.33,0.05,6.32
+O000344,2025-01-11,C00022,South,Online,Electronics,Webcam,4,22.36,0.1,5.73
+O001207,2025-01-11,C00440,East,Online,Sports,Yoga Mat,6,34.28,0.1,12.57
+O001680,2025-01-11,C00081,North,Marketplace,Electronics,USB-C Hub,1,95.0,0.0,6.19
+O000803,2025-01-11,C00314,East,Online,Books,Data Science Book,3,21.63,0.05,9.14
+O001583,2025-01-11,C00304,West,Retail Store,Sports,Yoga Mat,2,28.36,0.2,15.15
+O001296,2025-01-11,C00383,East,Marketplace,Sports,Yoga Mat,2,24.05,0.05,14.92
+O002264,2025-01-12,C00493,East,Online,Home,Coffee Grinder,3,54.6,0.05,15.5
+O001460,2025-01-12,C00413,East,Online,Electronics,Webcam,2,70.77,0.15,5.57
+O001720,2025-01-12,C00504,East,Online,Beauty,Travel Mirror,1,18.26,0.05,3.8
+O000549,2025-01-12,C00306,North,Online,Home,Storage Box,2,51.11,0.1,9.42
+O001165,2025-01-12,C00178,South,Retail Store,Sports,Bike Light,3,34.74,0.0,10.68
+O001916,2025-01-13,C00360,North,Online,Sports,Resistance Band,5,26.99,0.05,11.15
+O000717,2025-01-13,C00307,North,Retail Store,Sports,Resistance Band,1,15.66,0.0,13.76
+O000366,2025-01-14,C00085,West,Retail Store,Home,Coffee Grinder,2,30.98,0.0,5.62
+O001015,2025-01-14,C00267,West,Marketplace,Books,Notebook,2,19.12,0.0,11.68
+O002133,2025-01-14,C00275,West,Marketplace,Electronics,Bluetooth Speaker,2,69.02,0.0,12.15
+O000296,2025-01-15,C00349,North,Online,Sports,Bike Light,5,31.93,0.0,2.88
+O000449,2025-01-15,C00233,East,Online,Books,Planner,2,13.79,0.15,5.11
+O000701,2025-01-15,C00156,North,Online,Sports,Yoga Mat,3,23.32,0.2,3.05
+O001849,2025-01-15,C00151,East,Online,Books,Data Science Book,2,16.69,0.0,11.71
+O001686,2025-01-15,C00199,West,Online,Electronics,Webcam,3,48.68,0.0,3.25
+O001010,2025-01-15,C00022,North,Online,Electronics,Webcam,1,59.28,0.2,8.55
+O001800,2025-01-16,C00505,West,Marketplace,Electronics,Webcam,2,54.25,0.1,14.64
+O000893,2025-01-16,C00062,South,Retail Store,Sports,Resistance Band,3,35.87,0.05,2.53
+O000712,2025-01-17,C00441,South,Marketplace,Electronics,Bluetooth Speaker,5,51.54,0.0,13.06
+O000679,2025-01-17,C00152,North,Online,Sports,Bike Light,6,24.49,0.15,10.33
+O000578,2025-01-17,C00207,North,Retail Store,Home,Coffee Grinder,2,44.51,0.15,6.79
+O001665,2025-01-18,C00469,East,Online,Home,Coffee Grinder,2,45.72,0.15,12.47
+O001074,2025-01-18,C00375,South,Online,Beauty,Hand Cream,1,25.43,0.0,12.64
+O001311,2025-01-18,C00361,South,Marketplace,Home,Storage Box,2,44.55,0.05,3.88
+O001859,2025-01-18,C00104,West,Online,Electronics,Webcam,5,39.68,0.0,8.24
+O001195,2025-01-19,C00181,South,Online,Sports,Yoga Mat,2,24.49,0.0,14.74
+O000997,2025-01-19,C00067,South,Online,Electronics,USB-C Hub,4,68.76,0.15,8.01
+O000011,2025-01-19,C00358,North,Online,Beauty,Travel Mirror,2,25.59,0.05,8.4
+O002029,2025-01-19,C00440,East,Online,Sports,Bike Light,3,36.33,0.15,4.37
+O001957,2025-01-21,C00486,North,Online,Electronics,Webcam,5,77.16,0.0,2.5
+O001501,2025-01-22,C00457,East,Online,Beauty,Hand Cream,2,12.35,0.0,4.5
+O001920,2025-01-22,C00397,South,Online,Electronics,Bluetooth Speaker,3,60.03,0.15,6.55
+O001299,2025-01-22,C00408,South,Online,Beauty,Hand Cream,2,19.5,0.15,8.95
+O000488,2025-01-22,C00416,South,Retail Store,Sports,Resistance Band,1,43.62,0.0,15.97
+O001392,2025-01-22,C00303,North,Online,Books,Data Science Book,3,19.31,0.0,4.54
+O000995,2025-01-22,C00252,North,Retail Store,Sports,Yoga Mat,1,16.48,0.0,7.14
+O002048,2025-01-23,C00084,South,Online,Beauty,Travel Mirror,3,13.64,0.05,14.36
+O001164,2025-01-23,C00035,North,Marketplace,Books,Notebook,2,21.3,0.15,12.77
+O001958,2025-01-23,C00496,West,Marketplace,Electronics,USB-C Hub,3,76.4,0.1,9.75
+O001147,2025-01-23,C00226,West,Online,Books,Data Science Book,2,16.24,0.15,4.91
+O001991,2025-01-23,C00008,East,Online,Electronics,Wireless Mouse,4,45.76,0.05,6.5
+O001902,2025-01-23,C00440,West,Retail Store,Electronics,Wireless Mouse,1,71.75,0.1,10.84
+O000507,2025-01-23,C00512,North,Retail Store,Electronics,Webcam,2,66.79,0.0,3.44
+O000351,2025-01-24,C00515,East,Retail Store,Electronics,USB-C Hub,1,85.35,0.05,10.17
+O001553,2025-01-24,C00169,West,Marketplace,Beauty,Shampoo Set,4,23.06,0.0,11.52
+O000747,2025-01-24,C00209,West,Online,Electronics,Bluetooth Speaker,2,81.35,0.15,12.62
+O000656,2025-01-24,C00303,West,Online,Books,Sketch Pad,3,22.02,0.1,5.91
+O001669,2025-01-24,C00341,South,Online,Books,Planner,5,19.72,0.0,5.35
+O001901,2025-01-25,C00082,South,Online,Books,Notebook,1,18.73,0.1,11.35
+O002310,2025-01-25,C00489,South,Marketplace,Electronics,Webcam,4,70.47,0.0,4.91
+O001335,2025-01-25,C00175,North,Online,Books,Data Science Book,2,22.62,0.0,9.84
+O001725,2025-01-25,C00471,East,Retail Store,Electronics,USB-C Hub,4,57.93,0.05,13.85
+O001341,2025-01-25,C00309,South,Retail Store,Sports,Resistance Band,2,26.97,0.05,5.42
+O000606,2025-01-26,C00282,North,Online,Beauty,Hand Cream,4,19.41,0.0,2.74
+O000648,2025-01-26,C00089,South,Retail Store,Sports,Bike Light,5,31.91,0.15,11.07
+O001636,2025-01-26,C00218,South,Retail Store,Sports,Yoga Mat,4,24.27,0.1,14.95
+O001922,2025-01-27,C00405,West,Retail Store,Home,Coffee Grinder,4,44.34,0.1,5.51
+O000561,2025-01-27,C00226,East,Online,Home,Air Purifier,6,50.28,0.0,6.11
+O000931,2025-01-27,C00383,South,Online,Electronics,Wireless Mouse,3,53.9,0.1,10.04
+O002351,2025-01-28,C00448,North,Online,Books,Sketch Pad,7,18.35,0.0,15.3
+O002336,2025-01-28,C00440,East,Retail Store,Beauty,Hand Cream,5,26.93,0.05,2.99
+O001140,2025-01-29,C00352,North,Marketplace,Electronics,USB-C Hub,3,43.4,0.15,11.16
+O002139,2025-01-29,C00097,North,Retail Store,Home,Storage Box,6,40.65,0.05,11.67
+O000539,2025-01-29,C00381,South,Online,Sports,Resistance Band,4,34.48,0.05,5.14
+O000877,2025-01-29,C00093,West,Marketplace,Books,Planner,3,15.39,0.05,14.92
+O001259,2025-01-30,C00075,West,Marketplace,Electronics,USB-C Hub,2,35.11,0.1,2.77
+O001380,2025-01-30,C00249,West,Retail Store,Books,Planner,2,14.08,0.0,10.17
+O000927,2025-01-30,C00020,North,Online,Home,Air Purifier,2,44.41,0.0,13.94
+O000289,2025-01-31,C00031,West,Retail Store,Books,Notebook,5,17.2,0.15,12.5
+O000305,2025-01-31,C00011,West,Online,Beauty,Travel Mirror,3,26.34,0.0,9.13
+O001848,2025-01-31,C00264,West,Online,Sports,Bike Light,3,11.58,0.05,13.69
+O002118,2025-01-31,C00024,South,Online,Electronics,Bluetooth Speaker,5,89.7,0.05,14.78
+O000917,2025-01-31,C00272,South,Retail Store,Electronics,Wireless Mouse,3,69.69,0.05,3.4
+O002154,2025-02-02,C00187,South,Retail Store,Home,Desk Lamp,5,42.15,0.05,5.96
+O002343,2025-02-02,C00238,East,Online,Books,Data Science Book,7,18.19,0.0,2.89
+O000807,2025-02-02,C00163,South,Marketplace,Home,Air Purifier,2,31.65,0.0,12.94
+O000295,2025-02-02,C00352,East,Retail Store,Home,Coffee Grinder,1,43.56,0.0,10.13
+O000789,2025-02-02,C00501,West,Retail Store,Books,Notebook,3,16.66,0.0,13.34
+O002137,2025-02-02,C00492,North,Online,Sports,Running Bottle,4,28.94,0.15,15.39
+O000029,2025-02-02,C00492,South,Online,Books,Sketch Pad,1,19.92,0.05,6.96
+O000983,2025-02-03,C00297,East,Retail Store,Beauty,Hand Cream,6,30.01,0.05,14.55
+O000057,2025-02-03,C00075,West,Retail Store,Beauty,Travel Mirror,3,28.88,0.15,15.94
+O000229,2025-02-03,C00005,South,Marketplace,Beauty,Travel Mirror,4,19.35,0.0,13.89
+O002119,2025-02-03,C00348,East,Retail Store,Electronics,USB-C Hub,4,57.25,0.15,14.9
+O000331,2025-02-03,C00467,West,Online,Home,Air Purifier,4,27.18,0.05,10.34
+O000879,2025-02-04,C00224,South,Marketplace,Home,Desk Lamp,3,59.06,0.2,10.62
+O001577,2025-02-04,C00440,East,Online,Sports,Bike Light,3,20.2,0.0,15.48
+O000992,2025-02-05,C00107,South,Online,Sports,Running Bottle,6,25.87,0.2,7.51
+O001323,2025-02-05,C00206,East,Marketplace,Home,Storage Box,4,10.65,0.0,14.88
+O001497,2025-02-06,C00047,East,Retail Store,Beauty,Hand Cream,2,8.36,0.05,3.35
+O002252,2025-02-07,C00355,North,Marketplace,Sports,Running Bottle,3,29.33,0.0,13.44
+O001997,2025-02-07,C00435,West,Retail Store,Sports,Bike Light,3,31.84,0.15,4.96
+O001664,2025-02-08,C00420,North,Marketplace,Electronics,Webcam,4,84.31,0.0,2.74
+O000762,2025-02-08,C00075,East,Marketplace,Home,Desk Lamp,3,41.44,0.0,12.1
+O001840,2025-02-08,C00471,East,Retail Store,Sports,Yoga Mat,2,33.27,0.15,14.2
+O002335,2025-02-08,C00473,East,Online,Beauty,Face Serum,1,32.87,0.05,10.5
+O000655,2025-02-08,C00091,West,Marketplace,Beauty,Hand Cream,1,28.77,0.15,15.27
+O001625,2025-02-08,C00447,West,Online,Books,Planner,1,10.07,0.0,13.63
+O000132,2025-02-08,C00244,North,Online,Home,Air Purifier,2,41.58,0.15,13.22
+O001222,2025-02-08,C00357,North,Online,Electronics,Bluetooth Speaker,4,67.2,0.15,2.59
+O001365,2025-02-09,C00183,South,Online,Sports,Yoga Mat,4,34.14,0.05,6.57
+O000034,2025-02-09,C00124,East,Retail Store,Beauty,Shampoo Set,1,33.82,0.0,4.71
+O000330,2025-02-09,C00250,South,Online,Electronics,Wireless Mouse,3,44.35,0.0,2.78
+O000755,2025-02-09,C00140,West,Online,Books,Planner,6,15.35,0.15,5.59
+O000456,2025-02-09,C00298,East,Online,Home,Air Purifier,2,46.84,0.0,7.9
+O000308,2025-02-09,C00147,East,Online,Home,Coffee Grinder,5,50.69,0.0,10.77
+O001938,2025-02-09,C00375,East,Retail Store,Electronics,Bluetooth Speaker,5,55.41,0.0,11.32
+O001084,2025-02-10,C00173,South,Retail Store,Beauty,Hand Cream,3,24.8,0.05,6.57
+O000113,2025-02-10,C00092,West,Online,Sports,Resistance Band,6,35.99,0.15,12.97
+O001258,2025-02-10,C00125,South,Online,Electronics,Bluetooth Speaker,5,74.93,0.15,2.55
+O002031,2025-02-10,C00461,East,Retail Store,Home,Storage Box,5,43.93,0.15,6.05
+O001129,2025-02-10,C00372,East,Online,Sports,Yoga Mat,3,41.25,0.0,3.2
+O001565,2025-02-11,C00010,West,Online,Electronics,USB-C Hub,3,51.14,0.15,9.77
+O000158,2025-02-11,C00385,South,Retail Store,Home,Air Purifier,6,46.24,0.05,8.8
+O001003,2025-02-12,C00021,East,Online,Books,Planner,4,13.53,0.15,7.68
+O000134,2025-02-12,C00056,East,Retail Store,Books,Notebook,4,7.39,0.05,14.42
+O001975,2025-02-12,C00016,East,Online,Beauty,Shampoo Set,2,21.58,0.0,15.1
+O001387,2025-02-13,C00394,South,Online,Home,Coffee Grinder,2,29.89,0.1,13.25
+O002062,2025-02-14,C00203,South,Marketplace,Beauty,Shampoo Set,6,32.88,0.1,9.23
+O001412,2025-02-14,C00449,West,Online,Beauty,Face Serum,2,20.89,0.15,15.46
+O001434,2025-02-14,C00392,South,Online,Sports,Bike Light,3,38.16,0.15,14.77
+O000079,2025-02-16,C00070,South,Online,Books,Planner,4,18.81,0.1,10.69
+O000706,2025-02-16,C00330,South,Retail Store,Home,Coffee Grinder,2,39.23,0.05,12.47
+O001029,2025-02-17,C00364,North,Online,Electronics,USB-C Hub,4,79.09,0.0,6.57
+O000131,2025-02-17,C00123,South,Marketplace,Beauty,Shampoo Set,4,23.9,0.0,15.2
+O000980,2025-02-17,C00338,East,Online,Books,Notebook,3,19.1,0.0,9.06
+O000126,2025-02-17,C00030,West,Retail Store,Books,Sketch Pad,5,15.28,0.15,6.04
+O001672,2025-02-18,C00131,North,Online,Home,Storage Box,3,35.91,0.0,14.25
+O001189,2025-02-18,C00198,North,Online,Beauty,Travel Mirror,5,25.06,0.15,8.57
+O000437,2025-02-18,C00339,West,Marketplace,Home,Desk Lamp,4,34.57,0.05,4.47
+O000116,2025-02-19,C00122,South,Online,Beauty,Shampoo Set,4,29.08,0.0,15.28
+O001544,2025-02-20,C00175,West,Marketplace,Beauty,Face Serum,2,22.21,0.15,3.48
+O002303,2025-02-20,C00034,North,Online,Electronics,Wireless Mouse,4,47.32,0.05,11.35
+O001728,2025-02-20,C00168,North,Online,Sports,Bike Light,2,23.46,0.0,9.92
+O000288,2025-02-21,C00232,West,Online,Home,Storage Box,2,45.57,0.1,3.13
+O000570,2025-02-21,C00154,South,Retail Store,Beauty,Travel Mirror,4,32.56,0.0,8.75
+O001759,2025-02-21,C00015,East,Retail Store,Electronics,USB-C Hub,3,74.89,0.1,10.01
+O002199,2025-02-21,C00305,South,Online,Beauty,Travel Mirror,7,13.76,0.1,6.05
+O000708,2025-02-22,C00443,East,Online,Electronics,Bluetooth Speaker,3,60.65,0.15,15.99
+O000978,2025-02-22,C00404,North,Retail Store,Beauty,Face Serum,3,25.01,0.0,13.42
+O001631,2025-02-22,C00296,West,Retail Store,Electronics,Webcam,5,66.27,0.0,9.12
+O000922,2025-02-22,C00017,South,Online,Electronics,Webcam,4,71.15,0.0,9.82
+O001455,2025-02-22,C00349,South,Marketplace,Home,Desk Lamp,6,30.88,0.0,4.68
+O001897,2025-02-23,C00453,South,Online,Electronics,Wireless Mouse,2,38.95,0.05,8.07
+O002247,2025-02-24,C00121,West,Online,Beauty,Travel Mirror,1,19.46,0.15,11.24
+O001344,2025-02-24,C00200,South,Online,Electronics,USB-C Hub,1,73.1,0.05,5.38
+O000129,2025-02-24,C00321,West,Online,Electronics,USB-C Hub,4,66.09,0.1,7.94
+O001765,2025-02-24,C00291,South,Marketplace,Electronics,Webcam,6,91.36,0.0,15.01
+O001627,2025-02-26,C00376,West,Online,Home,Desk Lamp,2,55.28,0.0,3.79
+O000535,2025-02-26,C00201,South,Marketplace,Books,Notebook,3,14.48,0.0,4.92
+O000930,2025-02-26,C00506,North,Retail Store,Electronics,Wireless Mouse,2,53.75,0.05,4.87
+O000228,2025-02-27,C00426,North,Online,Electronics,Webcam,2,63.46,0.05,9.88
+O000597,2025-02-27,C00098,West,Retail Store,Sports,Bike Light,5,24.92,0.15,9.1
+O000266,2025-02-28,C00379,East,Marketplace,Beauty,Hand Cream,2,26.13,0.2,4.06
+O000424,2025-02-28,C00435,East,Retail Store,Electronics,Wireless Mouse,1,51.73,0.05,9.24
+O000677,2025-02-28,C00447,South,Online,Electronics,USB-C Hub,3,58.02,0.1,13.32
+O001760,2025-02-28,C00406,East,Online,Books,Sketch Pad,3,18.75,0.15,15.47
+O002123,2025-03-01,C00341,South,Retail Store,Beauty,Travel Mirror,3,28.03,0.0,5.64
+O002037,2025-03-02,C00103,North,Marketplace,Books,Planner,4,9.4,0.0,5.86
+O001161,2025-03-02,C00335,South,Online,Beauty,Face Serum,1,23.93,0.1,6.65
+O000242,2025-03-02,C00127,East,Marketplace,Electronics,Bluetooth Speaker,2,43.63,0.0,4.51
+O001415,2025-03-03,C00498,East,Marketplace,Electronics,Wireless Mouse,2,81.1,0.1,15.82
+O001791,2025-03-03,C00294,West,Online,Beauty,Face Serum,1,24.98,0.05,11.76
+O001628,2025-03-03,C00139,North,Online,Electronics,Wireless Mouse,5,41.49,0.05,11.98
+O001858,2025-03-03,C00415,South,Retail Store,Electronics,Wireless Mouse,3,59.83,0.0,13.06
+O002190,2025-03-04,C00283,East,Marketplace,Electronics,USB-C Hub,1,83.83,0.15,8.94
+O001118,2025-03-04,C00467,North,Online,Beauty,Shampoo Set,4,26.46,0.1,14.31
+O000985,2025-03-05,C00093,South,Retail Store,Sports,Resistance Band,2,30.22,0.0,15.47
+O001156,2025-03-05,C00513,South,Online,Beauty,Travel Mirror,4,19.38,0.0,5.27
+O000260,2025-03-05,C00486,South,Retail Store,Home,Coffee Grinder,2,36.52,0.0,9.62
+O002345,2025-03-05,C00265,East,Retail Store,Home,Storage Box,1,55.55,0.0,7.04
+O000966,2025-03-06,C00093,West,Online,Electronics,Bluetooth Speaker,4,51.25,0.05,7.85
+O002235,2025-03-06,C00219,West,Marketplace,Electronics,USB-C Hub,4,61.15,0.0,12.3
+O001423,2025-03-06,C00328,West,Online,Electronics,Webcam,3,70.0,0.0,7.87
+O002065,2025-03-06,C00021,North,Marketplace,Home,Storage Box,3,38.78,0.0,6.32
+O001833,2025-03-06,C00287,West,Marketplace,Electronics,Bluetooth Speaker,4,33.68,0.05,14.29
+O000786,2025-03-06,C00283,East,Online,Books,Notebook,2,24.65,0.0,2.54
+O000698,2025-03-07,C00442,East,Retail Store,Electronics,Webcam,3,81.13,0.15,9.42
+O001396,2025-03-07,C00367,South,Online,Books,Planner,6,13.98,0.0,14.86
+O001546,2025-03-07,C00390,East,Retail Store,Beauty,Hand Cream,4,29.36,0.0,6.47
+O000270,2025-03-07,C00245,South,Online,Electronics,Wireless Mouse,3,51.52,0.0,2.78
+O000981,2025-03-07,C00240,East,Online,Beauty,Shampoo Set,2,22.41,0.1,5.5
+O001318,2025-03-07,C00065,South,Retail Store,Electronics,Webcam,2,42.53,0.0,9.25
+O000548,2025-03-08,C00038,West,Online,Sports,Yoga Mat,4,25.82,0.2,4.97
+O000915,2025-03-08,C00055,South,Marketplace,Electronics,USB-C Hub,3,61.94,0.05,8.67
+O000688,2025-03-09,C00518,East,Retail Store,Electronics,Bluetooth Speaker,4,93.96,0.05,5.48
+O001608,2025-03-10,C00367,South,Online,Beauty,Shampoo Set,4,18.85,0.1,8.29
+O001644,2025-03-10,C00084,North,Online,Electronics,Wireless Mouse,3,106.67,0.05,2.89
+O000520,2025-03-10,C00132,West,Marketplace,Beauty,Face Serum,3,21.13,0.1,5.8
+O000468,2025-03-11,C00114,South,Online,Electronics,USB-C Hub,2,43.81,0.0,7.52
+O001350,2025-03-11,C00343,East,Marketplace,Home,Desk Lamp,1,59.0,0.0,3.42
+O001654,2025-03-11,C00472,South,Online,Home,Desk Lamp,2,22.73,0.05,13.93
+O000665,2025-03-12,C00383,West,Retail Store,Sports,Yoga Mat,1,19.69,0.05,15.1
+O000455,2025-03-12,C00475,North,Online,Books,Notebook,3,19.86,0.1,7.4
+O001505,2025-03-12,C00435,East,Retail Store,Beauty,Hand Cream,6,25.38,0.0,4.77
+O001188,2025-03-13,C00388,East,Online,Electronics,Webcam,2,97.79,0.05,8.73
+O000531,2025-03-13,C00014,East,Online,Books,Planner,4,15.53,0.0,15.43
+O000720,2025-03-14,C00390,West,Online,Books,Data Science Book,3,21.29,0.1,5.69
+O002024,2025-03-14,C00171,West,Marketplace,Beauty,Shampoo Set,1,23.99,0.05,5.33
+O000394,2025-03-14,C00400,North,Online,Home,Storage Box,3,42.41,0.05,12.29
+O001580,2025-03-15,C00414,North,Retail Store,Electronics,Bluetooth Speaker,3,72.75,0.15,4.62
+O001048,2025-03-15,C00444,North,Retail Store,Sports,Running Bottle,4,18.65,0.0,6.27
+O001764,2025-03-15,C00239,West,Online,Sports,Resistance Band,4,40.05,0.15,4.39
+O000967,2025-03-15,C00495,East,Retail Store,Books,Notebook,3,10.83,0.0,12.38
+O000137,2025-03-16,C00046,East,Retail Store,Electronics,Webcam,7,74.44,0.15,9.48
+O000494,2025-03-16,C00119,West,Retail Store,Beauty,Hand Cream,2,22.87,0.0,9.04
+O001568,2025-03-17,C00279,North,Online,Beauty,Shampoo Set,3,25.45,0.0,9.26
+O000625,2025-03-17,C00373,West,Online,Beauty,Travel Mirror,2,24.81,0.0,11.96
+O001873,2025-03-17,C00354,South,Online,Beauty,Face Serum,1,20.05,0.05,8.53
+O001525,2025-03-17,C00022,East,Online,Electronics,Webcam,3,87.92,0.05,2.71
+O000490,2025-03-18,C00063,North,Retail Store,Home,Coffee Grinder,5,41.03,0.1,3.44
+O002213,2025-03-18,C00471,South,Marketplace,Sports,Bike Light,1,27.35,0.0,3.69
+O000850,2025-03-18,C00432,West,Retail Store,Home,Coffee Grinder,2,48.41,0.0,9.73
+O000193,2025-03-19,C00479,West,Online,Electronics,USB-C Hub,4,48.08,0.2,10.97
+O002183,2025-03-19,C00367,South,Retail Store,Books,Planner,5,16.7,0.0,8.68
+O001758,2025-03-20,C00460,North,Marketplace,Electronics,Webcam,1,88.07,0.1,9.19
+O001952,2025-03-20,C00474,East,Retail Store,Sports,Yoga Mat,3,18.65,0.2,10.22
+O001181,2025-03-20,C00205,West,Marketplace,Beauty,Face Serum,4,17.78,0.05,4.89
+O002124,2025-03-21,C00172,West,Online,Beauty,Travel Mirror,4,21.29,0.2,2.89
+O001305,2025-03-22,C00110,South,Online,Electronics,Wireless Mouse,3,62.38,0.0,3.88
+O000956,2025-03-22,C00188,North,Online,Books,Planner,6,23.18,0.0,2.76
+O002144,2025-03-22,C00489,North,Retail Store,Electronics,USB-C Hub,6,84.05,0.0,13.84
+O001662,2025-03-22,C00415,West,Retail Store,Sports,Running Bottle,4,22.37,0.15,5.53
+O000269,2025-03-23,C00095,West,Marketplace,Beauty,Travel Mirror,2,30.78,0.1,14.69
+O000896,2025-03-23,C00339,South,Retail Store,Home,Air Purifier,3,37.02,0.05,6.33
+O000767,2025-03-23,C00388,East,Marketplace,Beauty,Face Serum,2,31.78,0.1,14.83
+O002027,2025-03-24,C00446,North,Marketplace,Beauty,Hand Cream,2,28.81,0.1,4.22
+O001829,2025-03-24,C00333,West,Online,Sports,Resistance Band,6,23.44,0.0,15.07
+O001135,2025-03-24,C00335,West,Retail Store,Home,Coffee Grinder,4,44.86,0.15,13.05
+O000953,2025-03-25,C00257,West,Online,Beauty,Shampoo Set,3,23.95,0.05,15.04
+O000323,2025-03-25,C00193,West,Online,Books,Data Science Book,6,19.06,0.1,10.09
+O000672,2025-03-25,C00158,North,Marketplace,Home,Air Purifier,3,33.32,0.0,9.93
+O000987,2025-03-26,C00230,East,Online,Beauty,Shampoo Set,4,20.12,0.0,15.45
+O000900,2025-03-26,C00030,South,Retail Store,Electronics,Bluetooth Speaker,7,72.97,0.0,10.53
+O000702,2025-03-26,C00373,East,Online,Electronics,USB-C Hub,3,71.16,0.0,12.78
+O001846,2025-03-26,C00316,East,Online,Books,Sketch Pad,5,19.69,0.15,10.24
+O000601,2025-03-26,C00207,West,Retail Store,Sports,Running Bottle,5,21.04,0.0,12.24
+O001885,2025-03-27,C00072,North,Retail Store,Beauty,Shampoo Set,5,31.02,0.0,2.82
+O002393,2025-03-27,C00163,West,Retail Store,Beauty,Travel Mirror,2,31.09,0.0,8.58
+O001554,2025-03-28,C00405,North,Retail Store,Electronics,Bluetooth Speaker,4,61.14,0.1,13.07
+O002226,2025-03-28,C00324,West,Online,Sports,Resistance Band,6,28.27,0.1,7.46
+O001661,2025-03-28,C00303,West,Online,Home,Coffee Grinder,5,48.53,0.05,6.01
+O001540,2025-03-29,C00403,East,Online,Sports,Running Bottle,4,25.79,0.05,13.42
+O001200,2025-03-29,C00151,North,Marketplace,Sports,Yoga Mat,4,25.46,0.0,7.1
+O001397,2025-03-29,C00316,West,Retail Store,Electronics,Webcam,1,98.34,0.15,6.93
+O001290,2025-03-30,C00295,East,Retail Store,Sports,Resistance Band,2,29.23,0.05,6.65
+O000343,2025-03-30,C00315,South,Online,Home,Air Purifier,4,37.52,0.0,3.24
+O000675,2025-03-30,C00221,North,Online,Books,Data Science Book,5,9.29,0.15,11.3
+O001638,2025-03-30,C00462,South,Retail Store,Electronics,Wireless Mouse,3,80.88,0.0,2.57
+O000825,2025-03-31,C00085,South,Retail Store,Home,Desk Lamp,1,36.61,0.0,15.03
+O001982,2025-03-31,C00297,West,Retail Store,Electronics,Wireless Mouse,8,63.42,0.0,7.54
+O001211,2025-03-31,C00373,West,Marketplace,Beauty,Travel Mirror,2,35.99,0.0,8.11
+O000996,2025-04-02,C00422,North,Retail Store,Beauty,Hand Cream,2,26.3,0.1,7.87
+O002359,2025-04-02,C00472,South,Marketplace,Sports,Bike Light,7,28.89,0.1,7.63
+O002179,2025-04-02,C00457,East,Marketplace,Home,Coffee Grinder,5,41.89,0.05,2.81
+O002128,2025-04-02,C00431,West,Marketplace,Beauty,Face Serum,4,21.66,0.05,10.32
+O000240,2025-04-03,C00213,North,Online,Books,Data Science Book,2,21.73,0.0,11.01
+O001755,2025-04-03,C00472,East,Online,Sports,Bike Light,4,34.3,0.0,11.16
+O000599,2025-04-03,C00069,South,Retail Store,Sports,Resistance Band,3,17.32,0.0,7.25
+O001753,2025-04-04,C00336,East,Marketplace,Electronics,USB-C Hub,2,70.54,0.1,6.5
+O000245,2025-04-04,C00491,North,Retail Store,Electronics,Bluetooth Speaker,5,84.43,0.05,5.59
+O001171,2025-04-04,C00020,South,Online,Home,Coffee Grinder,1,48.81,0.0,4.71
+O000880,2025-04-05,C00051,West,Online,Electronics,Webcam,2,105.45,0.0,15.68
+O000192,2025-04-05,C00150,West,Online,Beauty,Shampoo Set,3,16.81,0.0,9.64
+O000085,2025-04-05,C00448,North,Online,Books,Notebook,1,13.55,0.05,13.82
+O001172,2025-04-06,C00120,South,Retail Store,Home,Coffee Grinder,2,26.73,0.15,11.68
+O000040,2025-04-06,C00081,South,Online,Electronics,Webcam,3,50.27,0.05,5.06
+O000658,2025-04-07,C00508,East,Marketplace,Home,Desk Lamp,2,53.88,0.0,13.01
+O002231,2025-04-07,C00069,South,Online,Sports,Yoga Mat,3,32.8,0.0,5.43
+O002158,2025-04-07,C00158,South,Online,Home,Desk Lamp,3,40.91,0.0,2.56
+O002010,2025-04-07,C00061,East,Marketplace,Electronics,Bluetooth Speaker,4,72.13,0.0,9.67
+O001111,2025-04-07,C00373,South,Online,Books,Notebook,2,16.01,0.0,3.33
+O000475,2025-04-08,C00102,East,Retail Store,Beauty,Travel Mirror,5,20.12,0.0,10.44
+O002185,2025-04-08,C00057,South,Online,Electronics,USB-C Hub,5,55.48,0.05,12.67
+O000743,2025-04-08,C00230,East,Retail Store,Home,Storage Box,4,49.51,0.0,3.51
+O000130,2025-04-08,C00004,North,Online,Electronics,Wireless Mouse,1,58.72,0.0,9.87
+O001370,2025-04-08,C00458,North,Marketplace,Books,Sketch Pad,2,16.2,0.1,3.68
+O000958,2025-04-08,C00368,East,Online,Electronics,Wireless Mouse,2,74.5,0.05,5.01
+O000458,2025-04-08,C00343,East,Marketplace,Beauty,Travel Mirror,4,26.81,0.1,3.31
+O001196,2025-04-08,C00027,East,Online,Books,Sketch Pad,5,15.09,0.05,7.09
+O000341,2025-04-09,C00348,East,Retail Store,Beauty,Hand Cream,1,21.6,0.0,4.47
+O001467,2025-04-09,C00380,East,Retail Store,Books,Sketch Pad,4,8.73,0.0,10.65
+O001417,2025-04-09,C00077,West,Marketplace,Electronics,Webcam,3,81.23,0.0,7.87
+O001585,2025-04-09,C00188,South,Online,Electronics,USB-C Hub,3,71.97,0.0,2.73
+O000782,2025-04-10,C00151,East,Marketplace,Home,Coffee Grinder,2,40.53,0.0,9.01
+O000099,2025-04-10,C00282,West,Online,Beauty,Shampoo Set,4,21.91,0.05,10.19
+O000920,2025-04-10,C00111,South,Online,Electronics,Webcam,3,86.81,0.0,7.89
+O000673,2025-04-10,C00233,South,Online,Books,Data Science Book,5,17.98,0.15,14.76
+O001985,2025-04-10,C00211,South,Retail Store,Electronics,Webcam,2,58.2,0.0,12.37
+O001235,2025-04-10,C00026,West,Marketplace,Beauty,Shampoo Set,3,24.35,0.0,7.21
+O001337,2025-04-11,C00222,South,Online,Beauty,Hand Cream,2,30.39,0.0,14.09
+O001128,2025-04-11,C00024,East,Retail Store,Electronics,USB-C Hub,4,48.57,0.05,13.23
+O001994,2025-04-12,C00133,West,Online,Beauty,Shampoo Set,3,20.15,0.1,9.9
+O000616,2025-04-12,C00366,East,Marketplace,Sports,Bike Light,2,27.71,0.1,9.4
+O001068,2025-04-13,C00262,South,Online,Sports,Resistance Band,4,27.09,0.0,2.71
+O000600,2025-04-14,C00096,East,Retail Store,Sports,Yoga Mat,6,30.68,0.0,13.23
+O000569,2025-04-14,C00036,West,Retail Store,Electronics,USB-C Hub,5,63.42,0.0,7.1
+O000026,2025-04-15,C00173,East,Retail Store,Books,Planner,5,16.43,0.05,15.83
+O001715,2025-04-16,C00461,North,Marketplace,Home,Storage Box,3,54.26,0.05,14.69
+O002184,2025-04-16,C00018,North,Marketplace,Sports,Yoga Mat,1,31.37,0.0,8.7
+O001717,2025-04-17,C00489,East,Retail Store,Electronics,USB-C Hub,1,48.29,0.05,10.22
+O000984,2025-04-18,C00226,North,Marketplace,Electronics,Webcam,4,63.45,0.0,10.6
+O002072,2025-04-18,C00168,West,Online,Sports,Yoga Mat,1,32.2,0.0,9.36
+O002015,2025-04-18,C00294,East,Retail Store,Electronics,Webcam,2,60.3,0.0,11.1
+O000934,2025-04-19,C00117,East,Online,Books,Data Science Book,1,16.24,0.05,15.64
+O002361,2025-04-19,C00238,East,Retail Store,Beauty,Hand Cream,4,11.09,0.0,12.06
+O001130,2025-04-19,C00002,East,Online,Home,Storage Box,2,46.9,0.15,7.37
+O001221,2025-04-19,C00329,East,Retail Store,Electronics,Webcam,2,62.37,0.0,7.23
+O000244,2025-04-20,C00369,West,Online,Electronics,Bluetooth Speaker,6,83.24,0.15,7.56
+O001089,2025-04-20,C00322,East,Marketplace,Electronics,Bluetooth Speaker,4,84.56,0.2,7.39
+O001887,2025-04-20,C00327,East,Marketplace,Electronics,Bluetooth Speaker,3,58.96,0.2,13.53
+O001205,2025-04-20,C00138,West,Online,Beauty,Travel Mirror,2,26.21,0.1,5.28
+O000824,2025-04-20,C00175,North,Marketplace,Electronics,Wireless Mouse,3,49.64,0.05,15.03
+O001255,2025-04-20,C00452,North,Retail Store,Sports,Bike Light,3,20.15,0.05,10.16
+O000986,2025-04-21,C00279,North,Online,Electronics,Webcam,4,61.97,0.1,11.77
+O000771,2025-04-21,C00107,North,Online,Home,Desk Lamp,3,60.46,0.0,11.75
+O001812,2025-04-21,C00124,West,Online,Books,Data Science Book,2,17.81,0.0,9.62
+O000502,2025-04-21,C00144,West,Online,Books,Data Science Book,1,31.48,0.05,8.91
+O002324,2025-04-21,C00352,South,Retail Store,Home,Storage Box,4,49.42,0.0,13.47
+O000652,2025-04-22,C00431,East,Retail Store,Books,Planner,4,25.59,0.0,7.94
+O002258,2025-04-22,C00040,West,Marketplace,Books,Planner,3,17.59,0.0,2.62
+O002380,2025-04-22,C00168,North,Online,Electronics,Bluetooth Speaker,3,53.81,0.1,9.26
+O001398,2025-04-22,C00210,West,Retail Store,Home,Storage Box,2,26.78,0.0,11.89
+O001438,2025-04-22,C00513,East,Online,Electronics,Webcam,3,57.9,0.1,3.41
+O001723,2025-04-22,C00378,West,Retail Store,Electronics,Bluetooth Speaker,4,62.06,0.2,6.21
+O000123,2025-04-23,C00278,South,Online,Electronics,Webcam,1,57.49,0.0,12.94
+O001224,2025-04-23,C00006,East,Retail Store,Electronics,USB-C Hub,4,61.1,0.1,10.6
+O000003,2025-04-23,C00287,North,Online,Beauty,Shampoo Set,4,20.11,0.2,6.29
+O000842,2025-04-24,C00022,East,Online,Beauty,Face Serum,2,29.09,0.15,12.86
+O002086,2025-04-24,C00029,East,Online,Sports,Running Bottle,2,27.67,0.0,9.13
+O002396,2025-04-24,C00282,South,Online,Books,Data Science Book,6,16.5,0.0,6.66
+O002195,2025-04-25,C00398,South,Online,Beauty,Face Serum,5,18.74,0.0,10.51
+O000730,2025-04-25,C00455,North,Online,Home,Air Purifier,5,55.52,0.1,8.44
+O001277,2025-04-25,C00118,North,Marketplace,Electronics,USB-C Hub,5,41.46,0.05,2.78
+O001981,2025-04-25,C00303,West,Marketplace,Books,Sketch Pad,3,5.82,0.15,3.48
+O001693,2025-04-25,C00147,East,Retail Store,Sports,Resistance Band,6,23.38,0.1,9.12
+O001597,2025-04-26,C00276,South,Retail Store,Sports,Running Bottle,1,34.82,0.0,9.08
+O002023,2025-04-26,C00159,South,Online,Beauty,Shampoo Set,3,17.9,0.0,6.75
+O000316,2025-04-27,C00351,East,Online,Electronics,USB-C Hub,5,77.69,0.1,5.8
+O002050,2025-04-27,C00239,West,Online,Home,Desk Lamp,4,40.94,0.15,14.01
+O001959,2025-04-27,C00011,East,Online,Books,Planner,7,20.49,0.0,10.29
+O000255,2025-04-27,C00025,North,Online,Home,Storage Box,4,44.7,0.0,9.72
+O002022,2025-04-27,C00437,South,Online,Beauty,Travel Mirror,3,33.69,0.0,6.48
+O000372,2025-04-28,C00111,West,Retail Store,Sports,Bike Light,5,22.89,0.0,5.37
+O000156,2025-04-28,C00058,West,Retail Store,Electronics,Bluetooth Speaker,3,48.46,0.0,5.23
+O000446,2025-04-29,C00237,South,Marketplace,Home,Storage Box,3,56.42,0.0,7.2
+O000237,2025-04-29,C00325,South,Online,Electronics,Webcam,7,69.57,0.15,2.86
+O002088,2025-04-29,C00193,West,Marketplace,Home,Desk Lamp,5,27.32,0.05,11.69
+O002242,2025-04-29,C00455,East,Online,Electronics,USB-C Hub,6,81.99,0.0,12.49
+O000162,2025-04-30,C00032,East,Online,Home,Storage Box,3,30.04,0.0,11.63
+O000479,2025-04-30,C00408,East,Online,Books,Data Science Book,3,17.76,0.0,13.94
+O001648,2025-04-30,C00451,North,Retail Store,Electronics,Wireless Mouse,2,68.89,0.0,14.81
+O000822,2025-05-01,C00499,North,Online,Electronics,USB-C Hub,3,52.93,0.1,7.22
+O000108,2025-05-01,C00032,North,Retail Store,Sports,Yoga Mat,2,32.05,0.1,14.17
+O000819,2025-05-01,C00510,West,Online,Sports,Yoga Mat,2,24.55,0.05,9.28
+O000311,2025-05-01,C00104,South,Retail Store,Electronics,USB-C Hub,3,55.84,0.0,15.07
+O002084,2025-05-02,C00015,East,Online,Electronics,Wireless Mouse,3,54.72,0.1,10.12
+O001049,2025-05-03,C00124,South,Online,Home,Air Purifier,5,19.35,0.05,13.39
+O002102,2025-05-03,C00363,South,Online,Home,Coffee Grinder,2,58.13,0.05,7.54
+O000122,2025-05-03,C00418,North,Online,Home,Desk Lamp,6,52.23,0.0,8.35
+O000080,2025-05-04,C00151,West,Online,Sports,Resistance Band,2,48.0,0.0,12.54
+O000859,2025-05-04,C00229,East,Online,Electronics,Bluetooth Speaker,1,67.15,0.15,11.55
+O001613,2025-05-04,C00233,West,Marketplace,Beauty,Hand Cream,6,17.13,0.1,9.16
+O001132,2025-05-04,C00011,South,Retail Store,Home,Desk Lamp,3,51.28,0.0,12.2
+O000736,2025-05-05,C00255,East,Online,Electronics,Wireless Mouse,2,80.58,0.1,4.37
+O001306,2025-05-05,C00248,East,Retail Store,Electronics,Wireless Mouse,4,57.18,0.0,3.22
+O000641,2025-05-05,C00233,North,Online,Electronics,USB-C Hub,3,54.36,0.15,8.79
+O000283,2025-05-05,C00407,North,Retail Store,Sports,Running Bottle,3,23.45,0.0,14.65
+O001427,2025-05-05,C00208,South,Retail Store,Sports,Bike Light,4,37.14,0.05,9.87
+O002280,2025-05-06,C00055,South,Marketplace,Sports,Resistance Band,4,40.06,0.1,15.28
+O000312,2025-05-06,C00472,West,Marketplace,Electronics,USB-C Hub,2,53.99,0.0,12.35
+O001813,2025-05-07,C00293,South,Retail Store,Beauty,Travel Mirror,2,24.71,0.0,3.59
+O001424,2025-05-08,C00332,North,Online,Books,Sketch Pad,4,18.79,0.15,3.71
+O001329,2025-05-08,C00020,South,Online,Beauty,Travel Mirror,3,14.16,0.1,15.15
+O002112,2025-05-08,C00292,South,Retail Store,Books,Sketch Pad,3,14.74,0.0,15.45
+O001274,2025-05-08,C00389,East,Online,Sports,Running Bottle,5,28.91,0.05,5.53
+O001071,2025-05-08,C00217,North,Online,Sports,Running Bottle,5,35.82,0.0,13.47
+O000049,2025-05-10,C00185,East,Online,Books,Data Science Book,1,17.3,0.0,13.72
+O001668,2025-05-10,C00117,East,Online,Sports,Running Bottle,2,28.06,0.0,9.62
+O000257,2025-05-10,C00041,East,Marketplace,Electronics,Bluetooth Speaker,7,76.37,0.1,10.78
+O002034,2025-05-10,C00449,North,Marketplace,Electronics,Wireless Mouse,4,46.37,0.05,13.85
+O000416,2025-05-10,C00319,West,Online,Electronics,Bluetooth Speaker,6,102.57,0.15,7.19
+O001298,2025-05-10,C00330,South,Retail Store,Electronics,Wireless Mouse,6,42.22,0.05,13.79
+O000711,2025-05-11,C00266,South,Online,Electronics,Wireless Mouse,1,38.69,0.0,5.37
+O001327,2025-05-11,C00208,West,Online,Books,Planner,4,17.15,0.2,11.51
+O002285,2025-05-12,C00061,West,Online,Beauty,Shampoo Set,1,32.67,0.0,8.14
+O000827,2025-05-12,C00511,West,Online,Beauty,Hand Cream,2,25.03,0.05,15.49
+O000550,2025-05-12,C00266,South,Marketplace,Home,Coffee Grinder,3,25.34,0.0,6.99
+O001703,2025-05-13,C00076,South,Online,Electronics,Bluetooth Speaker,5,73.32,0.15,5.33
+O001696,2025-05-13,C00463,East,Marketplace,Electronics,USB-C Hub,3,76.13,0.2,15.92
+O001973,2025-05-13,C00263,South,Online,Beauty,Face Serum,3,26.54,0.15,9.18
+O000098,2025-05-13,C00310,South,Online,Electronics,Wireless Mouse,1,65.51,0.05,14.21
+O000191,2025-05-14,C00277,South,Online,Books,Sketch Pad,3,11.92,0.1,7.35
+O000060,2025-05-14,C00368,South,Online,Books,Notebook,2,17.5,0.15,14.89
+O001510,2025-05-14,C00164,West,Online,Sports,Bike Light,6,33.98,0.0,12.16
+O002267,2025-05-14,C00348,South,Online,Sports,Resistance Band,4,37.68,0.05,3.75
+O000813,2025-05-15,C00397,North,Marketplace,Electronics,Wireless Mouse,3,77.74,0.0,12.68
+O001780,2025-05-15,C00016,South,Online,Books,Planner,2,22.36,0.0,3.45
+O002256,2025-05-16,C00014,North,Online,Beauty,Shampoo Set,1,20.71,0.1,5.2
+O002136,2025-05-16,C00072,South,Retail Store,Home,Air Purifier,1,41.42,0.1,14.46
+O000788,2025-05-16,C00391,West,Online,Beauty,Shampoo Set,1,29.55,0.1,8.97
+O000615,2025-05-16,C00469,North,Retail Store,Beauty,Shampoo Set,2,19.56,0.0,15.68
+O000075,2025-05-16,C00458,North,Retail Store,Electronics,Wireless Mouse,4,67.73,0.0,7.27
+O000636,2025-05-16,C00101,North,Online,Electronics,Bluetooth Speaker,4,86.61,0.05,4.7
+O001547,2025-05-17,C00283,North,Online,Electronics,Wireless Mouse,3,54.23,0.0,10.71
+O001062,2025-05-17,C00360,North,Retail Store,Books,Planner,4,20.94,0.0,7.91
+O001149,2025-05-18,C00408,East,Retail Store,Electronics,Bluetooth Speaker,4,46.97,0.0,12.01
+O000587,2025-05-18,C00198,West,Retail Store,Home,Storage Box,3,49.78,0.0,10.67
+O001183,2025-05-19,C00414,West,Online,Electronics,USB-C Hub,6,55.13,0.0,3.87
+O000941,2025-05-20,C00488,North,Marketplace,Books,Sketch Pad,4,20.98,0.0,14.24
+O001614,2025-05-21,C00371,North,Marketplace,Electronics,Webcam,3,34.58,0.1,8.58
+O000666,2025-05-22,C00338,West,Online,Books,Planner,1,24.45,0.15,8.21
+O000422,2025-05-22,C00172,West,Retail Store,Sports,Resistance Band,3,27.05,0.0,13.66
+O000008,2025-05-24,C00038,North,Retail Store,Home,Desk Lamp,4,35.77,0.0,9.3
+O002075,2025-05-24,C00408,East,Online,Beauty,Face Serum,4,21.28,0.2,6.09
+O000184,2025-05-24,C00234,South,Online,Books,Planner,2,18.39,0.1,15.08
+O000875,2025-05-24,C00512,West,Retail Store,Home,Coffee Grinder,1,44.59,0.0,6.05
+O000175,2025-05-24,C00179,South,Marketplace,Books,Data Science Book,3,11.4,0.15,8.4
+O001472,2025-05-25,C00318,South,Retail Store,Home,Desk Lamp,4,39.85,0.15,9.08
+O000866,2025-05-25,C00517,South,Marketplace,Books,Planner,3,22.44,0.15,14.67
+O000086,2025-05-26,C00018,South,Marketplace,Books,Sketch Pad,1,22.77,0.1,3.52
+O002211,2025-05-26,C00519,South,Retail Store,Sports,Bike Light,3,18.33,0.0,10.98
+O001733,2025-05-26,C00245,South,Online,Sports,Resistance Band,4,16.82,0.1,14.34
+O000932,2025-05-26,C00497,East,Online,Beauty,Travel Mirror,4,32.71,0.0,11.49
+O002375,2025-05-26,C00446,South,Online,Home,Storage Box,3,69.42,0.0,8.38
+O000204,2025-05-26,C00251,South,Marketplace,Home,Desk Lamp,3,38.34,0.0,7.81
+O002181,2025-05-26,C00511,North,Marketplace,Home,Desk Lamp,2,58.24,0.0,9.81
+O001303,2025-05-26,C00481,South,Marketplace,Books,Data Science Book,2,6.85,0.05,12.56
+O002120,2025-05-27,C00385,South,Retail Store,Home,Desk Lamp,2,53.03,0.0,11.91
+O000043,2025-05-27,C00347,South,Retail Store,Home,Desk Lamp,1,44.59,0.05,14.3
+O001348,2025-05-27,C00500,East,Online,Electronics,Webcam,4,29.21,0.05,3.32
+O002141,2025-05-27,C00320,East,Retail Store,Home,Storage Box,4,66.63,0.0,8.01
+O000982,2025-05-28,C00299,South,Retail Store,Books,Notebook,2,19.29,0.1,15.84
+O001595,2025-05-28,C00039,East,Online,Beauty,Shampoo Set,1,28.46,0.0,11.52
+O001194,2025-05-28,C00091,North,Online,Electronics,Wireless Mouse,2,83.05,0.05,7.24
+O000223,2025-05-29,C00339,West,Retail Store,Home,Desk Lamp,2,64.12,0.0,2.76
+O000110,2025-05-30,C00301,North,Marketplace,Books,Data Science Book,3,5.0,0.0,3.62
+O001064,2025-05-30,C00146,North,Online,Electronics,Bluetooth Speaker,4,79.11,0.2,12.51
+O002155,2025-05-30,C00256,South,Marketplace,Home,Air Purifier,3,45.65,0.0,10.16
+O001041,2025-05-31,C00133,East,Online,Home,Storage Box,2,42.18,0.0,8.99
+O001539,2025-05-31,C00202,West,Online,Beauty,Hand Cream,2,32.91,0.1,13.25
+O001600,2025-06-01,C00482,North,Marketplace,Beauty,Travel Mirror,2,39.43,0.2,11.58
+O001045,2025-06-02,C00487,East,Marketplace,Home,Storage Box,3,24.04,0.1,15.43
+O000541,2025-06-02,C00210,South,Retail Store,Electronics,Wireless Mouse,5,87.0,0.1,15.45
+O000906,2025-06-02,C00430,South,Online,Beauty,Hand Cream,1,28.7,0.0,7.37
+O000892,2025-06-02,C00175,South,Retail Store,Books,Data Science Book,1,20.8,0.1,14.15
+O001317,2025-06-02,C00407,East,Retail Store,Electronics,Bluetooth Speaker,2,68.3,0.05,2.71
+O002245,2025-06-03,C00413,East,Online,Books,Planner,3,11.93,0.0,7.84
+O001894,2025-06-03,C00107,South,Retail Store,Books,Sketch Pad,4,17.66,0.1,9.64
+O001077,2025-06-04,C00171,South,Online,Sports,Bike Light,2,30.25,0.0,7.62
+O001522,2025-06-04,C00104,South,Online,Beauty,Face Serum,3,22.84,0.05,13.46
+O001276,2025-06-05,C00117,East,Online,Electronics,Webcam,2,77.68,0.0,8.24
+O001197,2025-06-05,C00084,North,Retail Store,Electronics,Bluetooth Speaker,2,85.82,0.1,15.7
+O000430,2025-06-06,C00317,South,Online,Home,Air Purifier,2,39.53,0.0,14.34
+O002295,2025-06-06,C00147,West,Online,Electronics,Bluetooth Speaker,2,74.11,0.05,8.76
+O002055,2025-06-06,C00484,South,Online,Electronics,Webcam,1,94.01,0.0,4.28
+O002353,2025-06-06,C00311,South,Online,Home,Air Purifier,3,37.17,0.05,13.45
+O000774,2025-06-08,C00167,West,Retail Store,Home,Desk Lamp,4,47.99,0.0,14.73
+O002131,2025-06-08,C00011,South,Marketplace,Books,Notebook,3,18.22,0.1,12.6
+O000015,2025-06-08,C00032,South,Retail Store,Electronics,Wireless Mouse,2,76.64,0.15,3.38
+O001675,2025-06-08,C00055,South,Online,Electronics,USB-C Hub,2,78.12,0.15,5.7
+O000212,2025-06-08,C00292,West,Retail Store,Books,Notebook,4,14.25,0.05,15.02
+O001332,2025-06-08,C00393,South,Marketplace,Sports,Resistance Band,3,28.33,0.05,9.38
+O000177,2025-06-08,C00307,South,Retail Store,Sports,Resistance Band,2,24.3,0.0,4.19
+O000236,2025-06-09,C00143,North,Retail Store,Books,Sketch Pad,2,17.77,0.0,13.84
+O001750,2025-06-09,C00115,North,Online,Books,Data Science Book,3,18.89,0.0,14.62
+O001208,2025-06-10,C00509,South,Online,Home,Storage Box,5,39.53,0.0,12.48
+O002019,2025-06-10,C00079,West,Online,Home,Desk Lamp,4,33.75,0.05,11.65
+O002064,2025-06-10,C00516,North,Retail Store,Home,Air Purifier,3,45.46,0.1,13.07
+O000395,2025-06-10,C00207,South,Online,Beauty,Shampoo Set,5,26.49,0.0,13.02
+O001903,2025-06-10,C00136,West,Marketplace,Books,Data Science Book,1,17.36,0.0,2.65
+O000727,2025-06-11,C00139,South,Marketplace,Home,Coffee Grinder,2,30.61,0.05,9.88
+O001641,2025-06-11,C00019,East,Retail Store,Beauty,Shampoo Set,2,24.62,0.05,6.84
+O000697,2025-06-11,C00357,South,Online,Sports,Bike Light,4,26.24,0.0,11.75
+O000225,2025-06-11,C00467,West,Online,Home,Coffee Grinder,4,50.24,0.0,15.71
+O000174,2025-06-12,C00154,East,Marketplace,Beauty,Shampoo Set,3,31.27,0.15,8.85
+O001119,2025-06-12,C00289,East,Online,Home,Desk Lamp,3,37.06,0.05,11.55
+O000681,2025-06-12,C00201,South,Online,Sports,Running Bottle,3,41.47,0.0,3.41
+O000461,2025-06-12,C00510,North,Online,Electronics,Bluetooth Speaker,4,57.12,0.05,2.53
+O000793,2025-06-12,C00496,East,Retail Store,Home,Storage Box,4,44.83,0.1,4.4
+O001137,2025-06-13,C00231,South,Online,Books,Data Science Book,2,19.97,0.0,11.14
+O002067,2025-06-14,C00136,South,Marketplace,Electronics,Bluetooth Speaker,1,64.75,0.15,11.92
+O000676,2025-06-14,C00395,East,Online,Beauty,Hand Cream,1,23.65,0.0,5.59
+O001598,2025-06-14,C00156,South,Online,Home,Desk Lamp,2,19.37,0.0,13.39
+O001670,2025-06-14,C00215,East,Marketplace,Electronics,Bluetooth Speaker,4,51.73,0.05,14.43
+O002018,2025-06-14,C00084,West,Online,Electronics,Wireless Mouse,2,80.43,0.0,3.46
+O001879,2025-06-15,C00052,South,Retail Store,Sports,Yoga Mat,4,27.95,0.0,4.52
+O000318,2025-06-15,C00367,South,Online,Books,Sketch Pad,2,13.98,0.15,8.42
+O000713,2025-06-15,C00327,North,Online,Books,Notebook,6,19.29,0.15,14.13
+O001785,2025-06-15,C00300,West,Retail Store,Electronics,Wireless Mouse,4,75.93,0.05,7.73
+O002268,2025-06-16,C00278,South,Retail Store,Home,Desk Lamp,4,50.05,0.1,14.19
+O000731,2025-06-16,C00309,North,Online,Sports,Running Bottle,4,24.25,0.0,9.26
+O000760,2025-06-17,C00331,North,Online,Sports,Resistance Band,6,18.69,0.0,11.15
+O000317,2025-06-17,C00444,North,Retail Store,Electronics,Wireless Mouse,2,65.81,0.0,11.38
+O001724,2025-06-18,C00425,South,Online,Beauty,Shampoo Set,4,29.02,0.1,11.04
+O001033,2025-06-18,C00117,South,Marketplace,Electronics,Webcam,5,40.49,0.0,10.09
+O000737,2025-06-18,C00453,South,Retail Store,Home,Desk Lamp,3,39.28,0.0,10.99
+O002087,2025-06-19,C00019,South,Marketplace,Sports,Running Bottle,4,40.38,0.05,14.37
+O001218,2025-06-19,C00247,East,Marketplace,Sports,Running Bottle,3,31.18,0.0,11.85
+O001232,2025-06-20,C00212,West,Retail Store,Beauty,Face Serum,4,23.08,0.0,6.99
+O001573,2025-06-20,C00179,East,Retail Store,Books,Planner,2,18.99,0.2,15.25
+O001714,2025-06-20,C00034,North,Online,Beauty,Face Serum,5,22.48,0.1,12.72
+O001009,2025-06-20,C00516,West,Online,Electronics,USB-C Hub,1,94.43,0.05,4.02
+O001860,2025-06-21,C00445,North,Online,Electronics,Bluetooth Speaker,1,75.56,0.05,2.65
+O000662,2025-06-21,C00195,East,Marketplace,Books,Planner,5,8.92,0.0,2.92
+O002057,2025-06-21,C00180,East,Retail Store,Electronics,USB-C Hub,2,55.35,0.05,15.83
+O000013,2025-06-21,C00057,North,Online,Sports,Resistance Band,6,27.15,0.0,9.61
+O002400,2025-06-21,C00214,East,Marketplace,Home,Coffee Grinder,3,52.91,0.05,13.78
+O001349,2025-06-21,C00044,South,Marketplace,Home,Desk Lamp,2,45.64,0.0,9.12
+O000886,2025-06-21,C00518,South,Marketplace,Electronics,Wireless Mouse,2,45.29,0.0,12.76
+O001591,2025-06-21,C00234,East,Marketplace,Beauty,Hand Cream,4,27.22,0.0,9.28
+O000631,2025-06-22,C00378,South,Online,Home,Desk Lamp,1,47.17,0.05,15.87
+O000557,2025-06-22,C00445,South,Retail Store,Electronics,Wireless Mouse,4,53.04,0.0,5.23
+O000215,2025-06-22,C00365,South,Online,Electronics,Wireless Mouse,4,74.99,0.05,5.14
+O000377,2025-06-22,C00056,East,Online,Beauty,Travel Mirror,6,24.44,0.05,8.86
+O001002,2025-06-22,C00349,South,Marketplace,Books,Data Science Book,3,14.06,0.0,8.16
+O002344,2025-06-23,C00198,South,Online,Electronics,USB-C Hub,3,89.24,0.1,4.58
+O000471,2025-06-23,C00245,West,Online,Home,Desk Lamp,3,42.49,0.0,4.31
+O001602,2025-06-23,C00519,South,Retail Store,Home,Coffee Grinder,3,29.88,0.0,8.15
+O000739,2025-06-23,C00163,South,Online,Electronics,Wireless Mouse,1,80.32,0.0,2.77
+O000757,2025-06-23,C00444,North,Online,Sports,Resistance Band,2,30.26,0.0,12.61
+O000805,2025-06-23,C00517,West,Online,Electronics,Webcam,2,96.02,0.0,15.57
+O002058,2025-06-23,C00439,West,Online,Home,Desk Lamp,3,31.46,0.05,14.58
+O000432,2025-06-24,C00126,East,Online,Books,Data Science Book,3,21.58,0.0,7.44
+O001281,2025-06-24,C00437,East,Online,Sports,Resistance Band,1,39.16,0.0,15.03
+O001449,2025-06-24,C00409,North,Online,Sports,Bike Light,4,27.01,0.0,4.19
+O000603,2025-06-24,C00514,East,Online,Electronics,Bluetooth Speaker,4,69.85,0.0,12.96
+O001282,2025-06-24,C00304,East,Online,Electronics,Webcam,2,63.91,0.2,14.68
+O001861,2025-06-24,C00030,South,Retail Store,Sports,Resistance Band,3,32.76,0.0,11.77
+O001966,2025-06-26,C00214,South,Online,Beauty,Travel Mirror,4,24.58,0.05,15.91
+O002115,2025-06-26,C00232,West,Online,Home,Desk Lamp,5,38.34,0.1,15.71
+O001394,2025-06-26,C00275,North,Online,Electronics,USB-C Hub,2,22.87,0.2,14.59
+O001036,2025-06-26,C00117,East,Online,Books,Sketch Pad,3,15.92,0.05,7.31
+O001722,2025-06-26,C00147,East,Marketplace,Electronics,USB-C Hub,2,42.55,0.0,13.3
+O001139,2025-06-27,C00262,West,Retail Store,Sports,Resistance Band,3,25.32,0.0,11.29
+O001845,2025-06-27,C00291,West,Online,Beauty,Travel Mirror,3,29.52,0.0,6.77
+O001513,2025-06-27,C00337,East,Online,Electronics,Webcam,2,57.59,0.1,10.39
+O001742,2025-06-27,C00502,South,Online,Electronics,Webcam,1,68.33,0.0,9.63
+O000059,2025-06-27,C00314,North,Online,Sports,Yoga Mat,1,26.11,0.0,9.91
+O000062,2025-06-28,C00323,East,Online,Home,Desk Lamp,5,41.18,0.0,10.38
+O002125,2025-06-28,C00009,South,Online,Sports,Running Bottle,4,35.64,0.05,7.18
+O000878,2025-06-28,C00227,East,Online,Electronics,USB-C Hub,4,43.17,0.0,14.48
+O002172,2025-06-28,C00057,West,Retail Store,Electronics,USB-C Hub,3,43.99,0.05,2.89
+O000378,2025-06-29,C00247,East,Online,Beauty,Shampoo Set,4,24.21,0.05,11.35
+O000391,2025-06-29,C00164,North,Retail Store,Electronics,Wireless Mouse,2,96.1,0.0,10.08
+O002325,2025-06-29,C00420,West,Retail Store,Sports,Running Bottle,4,16.76,0.0,14.84
+O002043,2025-06-29,C00393,South,Online,Books,Planner,2,20.07,0.1,12.0
+O000512,2025-06-29,C00469,East,Retail Store,Home,Desk Lamp,7,47.99,0.1,8.07
+O001899,2025-06-30,C00055,East,Online,Electronics,USB-C Hub,2,33.33,0.0,8.91
+O002044,2025-07-01,C00356,South,Online,Home,Coffee Grinder,4,17.67,0.05,15.23
+O002294,2025-07-01,C00409,East,Retail Store,Sports,Running Bottle,2,14.93,0.0,4.27
+O000895,2025-07-01,C00337,East,Marketplace,Books,Data Science Book,2,19.82,0.05,11.59
+O000463,2025-07-01,C00154,East,Online,Beauty,Shampoo Set,3,13.91,0.0,3.76
+O000360,2025-07-01,C00305,East,Retail Store,Books,Sketch Pad,4,14.29,0.1,10.3
+O002049,2025-07-02,C00304,South,Online,Books,Planner,1,22.13,0.0,11.86
+O001984,2025-07-02,C00299,South,Online,Electronics,USB-C Hub,1,60.7,0.05,5.37
+O002352,2025-07-02,C00006,South,Retail Store,Sports,Yoga Mat,2,25.16,0.0,15.9
+O001234,2025-07-02,C00356,South,Marketplace,Home,Storage Box,4,45.3,0.05,13.05
+O002362,2025-07-03,C00310,North,Marketplace,Sports,Running Bottle,2,42.13,0.0,6.56
+O002348,2025-07-03,C00009,North,Retail Store,Books,Data Science Book,4,20.28,0.2,10.03
+O001667,2025-07-03,C00234,West,Online,Home,Desk Lamp,2,48.74,0.0,8.26
+O002099,2025-07-03,C00085,North,Online,Home,Coffee Grinder,2,54.13,0.05,4.35
+O001378,2025-07-03,C00058,South,Retail Store,Books,Sketch Pad,3,22.96,0.05,5.73
+O000493,2025-07-04,C00287,North,Retail Store,Electronics,USB-C Hub,4,98.47,0.0,12.16
+O001790,2025-07-04,C00074,West,Marketplace,Sports,Running Bottle,3,29.74,0.2,4.66
+O001065,2025-07-04,C00445,East,Online,Sports,Yoga Mat,3,15.27,0.0,15.85
+O001995,2025-07-05,C00072,West,Online,Sports,Yoga Mat,7,27.04,0.05,3.25
+O001098,2025-07-06,C00435,East,Retail Store,Electronics,USB-C Hub,4,55.26,0.05,8.01
+O001073,2025-07-07,C00355,North,Online,Beauty,Face Serum,3,18.77,0.15,12.43
+O000247,2025-07-07,C00346,North,Online,Books,Notebook,2,24.73,0.1,2.52
+O001674,2025-07-08,C00057,East,Online,Electronics,Webcam,2,61.93,0.05,8.34
+O000234,2025-07-08,C00169,North,Marketplace,Electronics,Bluetooth Speaker,1,66.66,0.0,6.85
+O000042,2025-07-08,C00508,South,Online,Home,Storage Box,3,38.26,0.1,4.94
+O001301,2025-07-09,C00346,South,Retail Store,Electronics,USB-C Hub,3,61.64,0.1,14.7
+O002365,2025-07-09,C00451,North,Online,Books,Sketch Pad,3,20.57,0.1,8.68
+O000051,2025-07-09,C00230,West,Retail Store,Electronics,USB-C Hub,3,101.43,0.15,5.7
+O001868,2025-07-09,C00456,East,Retail Store,Electronics,USB-C Hub,2,49.45,0.05,15.6
+O001204,2025-07-10,C00184,East,Online,Books,Sketch Pad,6,24.99,0.0,4.24
+O000014,2025-07-10,C00484,South,Online,Home,Desk Lamp,3,45.79,0.05,12.39
+O002176,2025-07-11,C00083,North,Online,Home,Air Purifier,9,59.31,0.2,5.57
+O001671,2025-07-11,C00147,West,Retail Store,Sports,Yoga Mat,7,42.49,0.0,11.71
+O001134,2025-07-11,C00235,North,Online,Electronics,Wireless Mouse,1,58.29,0.0,7.07
+O001275,2025-07-11,C00012,South,Online,Home,Coffee Grinder,2,32.43,0.1,15.52
+O000742,2025-07-11,C00479,South,Online,Home,Coffee Grinder,2,41.58,0.05,12.22
+O002281,2025-07-11,C00428,East,Online,Home,Storage Box,3,39.69,0.15,11.11
+O000207,2025-07-12,C00369,East,Online,Books,Sketch Pad,3,17.23,0.0,14.37
+O002174,2025-07-12,C00363,South,Online,Electronics,USB-C Hub,2,65.19,0.05,3.54
+O000714,2025-07-12,C00096,West,Retail Store,Sports,Bike Light,3,32.35,0.1,14.33
+O000128,2025-07-13,C00407,East,Online,Sports,Resistance Band,2,27.54,0.1,6.37
+O002107,2025-07-13,C00044,East,Retail Store,Electronics,Bluetooth Speaker,3,41.36,0.0,7.75
+O000489,2025-07-13,C00346,West,Online,Sports,Yoga Mat,3,33.08,0.0,14.06
+O001822,2025-07-13,C00351,South,Online,Beauty,Hand Cream,2,28.55,0.05,8.36
+O000423,2025-07-14,C00272,East,Retail Store,Beauty,Travel Mirror,3,24.22,0.0,8.75
+O000657,2025-07-14,C00082,East,Retail Store,Electronics,Wireless Mouse,3,70.12,0.0,8.03
+O000089,2025-07-15,C00105,East,Online,Home,Air Purifier,4,44.1,0.15,6.91
+O000320,2025-07-15,C00080,North,Retail Store,Electronics,Wireless Mouse,4,60.13,0.15,13.05
+O001148,2025-07-15,C00516,West,Retail Store,Beauty,Shampoo Set,4,20.77,0.0,13.09
+O001775,2025-07-16,C00386,South,Retail Store,Sports,Yoga Mat,2,28.9,0.0,12.24
+O002121,2025-07-16,C00341,West,Online,Electronics,USB-C Hub,3,63.0,0.15,15.71
+O000645,2025-07-17,C00055,North,Online,Electronics,Wireless Mouse,2,97.87,0.05,4.75
+O000911,2025-07-17,C00052,South,Online,Sports,Running Bottle,4,34.54,0.0,3.87
+O001061,2025-07-17,C00516,South,Retail Store,Beauty,Hand Cream,3,27.5,0.1,15.62
+O001691,2025-07-18,C00375,East,Online,Electronics,Webcam,3,57.68,0.05,15.74
+O000864,2025-07-18,C00503,North,Online,Electronics,USB-C Hub,3,92.14,0.15,15.04
+O000173,2025-07-18,C00259,South,Online,Home,Storage Box,2,39.54,0.05,2.64
+O001870,2025-07-18,C00326,East,Marketplace,Home,Storage Box,3,30.6,0.05,9.89
+O000370,2025-07-18,C00296,East,Marketplace,Home,Storage Box,6,43.56,0.1,7.4
+O001825,2025-07-18,C00483,West,Retail Store,Home,Coffee Grinder,1,36.13,0.1,14.73
+O001058,2025-07-18,C00181,North,Online,Beauty,Travel Mirror,5,30.81,0.0,6.59
+O001558,2025-07-19,C00170,North,Retail Store,Beauty,Travel Mirror,2,20.82,0.0,10.73
+O000002,2025-07-19,C00118,West,Online,Sports,Running Bottle,2,23.65,0.05,15.57
+O001278,2025-07-19,C00004,West,Online,Electronics,Bluetooth Speaker,3,85.18,0.05,9.8
+O001339,2025-07-20,C00254,West,Online,Electronics,Wireless Mouse,7,63.44,0.0,5.14
+O002212,2025-07-20,C00468,South,Marketplace,Electronics,USB-C Hub,2,80.3,0.1,11.69
+O000734,2025-07-20,C00446,North,Online,Beauty,Shampoo Set,2,14.14,0.05,4.51
+O002320,2025-07-20,C00168,West,Retail Store,Beauty,Travel Mirror,2,18.66,0.05,6.52
+O000836,2025-07-21,C00426,South,Retail Store,Beauty,Shampoo Set,3,32.55,0.15,15.55
+O001611,2025-07-21,C00484,North,Retail Store,Electronics,Webcam,6,66.68,0.15,14.52
+O001914,2025-07-22,C00083,East,Online,Sports,Bike Light,3,24.33,0.0,11.56
+O000402,2025-07-22,C00038,West,Retail Store,Electronics,Wireless Mouse,4,61.41,0.0,5.78
+O000050,2025-07-22,C00015,East,Retail Store,Books,Planner,4,16.69,0.0,7.52
+O001469,2025-07-22,C00349,West,Retail Store,Sports,Yoga Mat,4,23.51,0.05,10.97
+O001242,2025-07-22,C00217,South,Retail Store,Electronics,Wireless Mouse,2,45.43,0.0,9.07
+O000815,2025-07-22,C00236,North,Retail Store,Home,Coffee Grinder,1,35.69,0.2,5.93
+O002096,2025-07-22,C00257,South,Marketplace,Books,Notebook,3,17.57,0.05,13.77
+O000598,2025-07-23,C00364,West,Retail Store,Home,Desk Lamp,3,62.74,0.0,14.89
+O001313,2025-07-23,C00412,South,Retail Store,Electronics,Webcam,2,49.3,0.0,13.35
+O000602,2025-07-23,C00312,South,Online,Sports,Yoga Mat,2,34.36,0.2,8.94
+O001731,2025-07-23,C00469,West,Online,Sports,Bike Light,5,20.98,0.0,11.67
+O000210,2025-07-23,C00517,North,Retail Store,Beauty,Face Serum,3,15.2,0.0,15.45
+O001441,2025-07-23,C00135,West,Online,Beauty,Hand Cream,4,29.67,0.0,11.49
+O000112,2025-07-24,C00088,East,Marketplace,Books,Notebook,6,17.57,0.0,12.33
+O000107,2025-07-24,C00104,East,Marketplace,Sports,Resistance Band,1,41.87,0.05,5.35
+O000766,2025-07-24,C00061,North,Retail Store,Electronics,Bluetooth Speaker,4,64.45,0.0,9.79
+O001498,2025-07-24,C00105,North,Retail Store,Electronics,Bluetooth Speaker,2,47.37,0.05,3.46
+O000025,2025-07-25,C00046,East,Online,Electronics,Bluetooth Speaker,4,71.86,0.1,10.45
+O001212,2025-07-25,C00485,East,Retail Store,Books,Sketch Pad,3,23.34,0.0,5.82
+O000806,2025-07-25,C00166,West,Marketplace,Books,Sketch Pad,4,14.83,0.2,4.99
+O001726,2025-07-26,C00011,South,Online,Sports,Running Bottle,3,26.26,0.05,9.57
+O000278,2025-07-26,C00368,West,Retail Store,Books,Sketch Pad,4,13.93,0.1,12.36
+O000690,2025-07-26,C00508,West,Marketplace,Home,Desk Lamp,4,45.22,0.0,4.98
+O001416,2025-07-26,C00409,South,Retail Store,Home,Air Purifier,4,33.15,0.15,5.6
+O000476,2025-07-27,C00310,North,Retail Store,Books,Notebook,4,20.23,0.1,13.24
+O000160,2025-07-27,C00327,East,Marketplace,Electronics,Wireless Mouse,5,48.7,0.0,6.9
+O000613,2025-07-27,C00382,North,Retail Store,Beauty,Face Serum,4,24.61,0.05,15.37
+O000918,2025-07-27,C00038,East,Marketplace,Electronics,USB-C Hub,2,59.59,0.1,10.58
+O000955,2025-07-28,C00373,East,Online,Sports,Running Bottle,2,31.12,0.1,15.87
+O000725,2025-07-28,C00158,East,Online,Electronics,Wireless Mouse,3,39.24,0.05,7.98
+O000016,2025-07-28,C00273,West,Online,Sports,Yoga Mat,3,27.34,0.0,13.1
+O002284,2025-07-29,C00275,West,Retail Store,Sports,Yoga Mat,1,30.1,0.0,14.01
+O000106,2025-07-29,C00385,West,Retail Store,Books,Data Science Book,3,18.05,0.0,4.57
+O000249,2025-07-29,C00339,South,Online,Sports,Resistance Band,2,32.79,0.0,11.36
+O001430,2025-07-29,C00014,South,Retail Store,Electronics,Wireless Mouse,3,61.52,0.0,6.46
+O002009,2025-07-29,C00138,West,Marketplace,Electronics,USB-C Hub,5,60.97,0.0,11.43
+O000990,2025-07-29,C00347,West,Retail Store,Books,Notebook,2,19.74,0.0,14.45
+O000213,2025-07-30,C00402,East,Online,Beauty,Hand Cream,3,18.87,0.0,12.04
+O001461,2025-07-31,C00076,East,Marketplace,Beauty,Travel Mirror,3,35.77,0.15,6.77
+O001414,2025-08-01,C00321,West,Retail Store,Beauty,Hand Cream,2,30.1,0.05,9.36
+O002236,2025-08-01,C00120,South,Online,Sports,Resistance Band,4,25.08,0.05,8.01
+O000639,2025-08-02,C00057,South,Marketplace,Beauty,Travel Mirror,1,28.17,0.05,4.15
+O000559,2025-08-02,C00223,East,Retail Store,Books,Sketch Pad,3,21.82,0.1,10.49
+O001617,2025-08-03,C00053,South,Retail Store,Home,Air Purifier,2,52.29,0.0,10.54
+O001133,2025-08-03,C00358,East,Online,Beauty,Hand Cream,4,28.63,0.1,3.57
+O000261,2025-08-03,C00151,South,Retail Store,Beauty,Hand Cream,3,22.41,0.15,10.91
+O001254,2025-08-03,C00393,South,Online,Beauty,Hand Cream,1,17.03,0.0,12.98
+O001986,2025-08-03,C00092,East,Retail Store,Electronics,Bluetooth Speaker,2,78.19,0.05,5.6
+O001980,2025-08-03,C00108,South,Online,Sports,Bike Light,1,45.11,0.0,12.4
+O000135,2025-08-04,C00158,East,Marketplace,Books,Data Science Book,3,26.46,0.15,13.9
+O000692,2025-08-04,C00275,East,Online,Beauty,Travel Mirror,5,20.26,0.0,4.12
+O000745,2025-08-04,C00142,East,Retail Store,Beauty,Travel Mirror,2,19.89,0.1,13.1
+O000071,2025-08-04,C00044,East,Online,Books,Data Science Book,3,20.27,0.0,12.38
+O001684,2025-08-04,C00033,East,Online,Home,Air Purifier,5,38.36,0.0,15.4
+O000484,2025-08-05,C00146,East,Online,Home,Storage Box,3,34.66,0.1,15.72
+O002206,2025-08-05,C00331,North,Online,Beauty,Shampoo Set,4,17.82,0.15,14.94
+O002257,2025-08-05,C00510,South,Online,Books,Notebook,1,17.13,0.05,15.95
+O000105,2025-08-05,C00442,North,Online,Beauty,Travel Mirror,2,16.09,0.0,11.33
+O001736,2025-08-06,C00429,West,Online,Home,Storage Box,2,40.5,0.15,9.6
+O002005,2025-08-06,C00392,East,Online,Books,Planner,3,21.69,0.0,10.89
+O000716,2025-08-07,C00104,South,Online,Electronics,Webcam,2,84.1,0.1,8.29
+O001578,2025-08-07,C00433,North,Online,Sports,Resistance Band,4,21.11,0.0,2.82
+O001012,2025-08-07,C00128,North,Online,Home,Desk Lamp,3,57.09,0.0,13.75
+O001087,2025-08-08,C00177,North,Online,Books,Notebook,1,17.53,0.05,11.09
+O000686,2025-08-08,C00140,East,Marketplace,Home,Desk Lamp,4,61.05,0.1,15.65
+O002296,2025-08-08,C00034,East,Online,Beauty,Hand Cream,3,27.19,0.05,8.62
+O000852,2025-08-08,C00309,South,Retail Store,Electronics,Webcam,4,67.7,0.1,14.39
+O001284,2025-08-08,C00259,South,Online,Home,Coffee Grinder,4,54.82,0.0,3.58
+O000591,2025-08-08,C00516,East,Marketplace,Beauty,Travel Mirror,3,20.28,0.1,13.32
+O000860,2025-08-08,C00290,East,Retail Store,Electronics,Webcam,3,71.03,0.0,15.17
+O001199,2025-08-09,C00444,East,Retail Store,Electronics,Webcam,3,83.4,0.0,6.12
+O001260,2025-08-09,C00295,West,Retail Store,Sports,Running Bottle,1,17.62,0.05,5.75
+O000596,2025-08-09,C00094,East,Online,Home,Air Purifier,5,37.06,0.05,10.06
+O000428,2025-08-10,C00004,North,Online,Electronics,Wireless Mouse,3,74.89,0.05,7.94
+O000551,2025-08-10,C00142,East,Online,Sports,Resistance Band,4,24.21,0.05,8.34
+O000472,2025-08-10,C00497,South,Online,Sports,Running Bottle,1,37.48,0.05,11.58
+O000092,2025-08-11,C00293,South,Marketplace,Sports,Bike Light,2,32.58,0.05,4.34
+O002093,2025-08-11,C00284,South,Online,Sports,Resistance Band,1,19.83,0.05,15.16
+O001749,2025-08-11,C00082,South,Retail Store,Books,Sketch Pad,2,13.93,0.0,14.16
+O000103,2025-08-11,C00066,East,Online,Beauty,Travel Mirror,1,24.41,0.0,14.47
+O000654,2025-08-11,C00150,West,Online,Beauty,Hand Cream,2,17.64,0.05,7.11
+O000837,2025-08-13,C00042,South,Online,Books,Sketch Pad,2,21.65,0.1,5.58
+O001001,2025-08-13,C00125,West,Retail Store,Electronics,USB-C Hub,5,58.83,0.05,13.05
+O001334,2025-08-13,C00260,South,Online,Electronics,USB-C Hub,4,49.09,0.1,10.33
+O000336,2025-08-13,C00162,West,Retail Store,Home,Air Purifier,2,36.64,0.0,6.97
+O000291,2025-08-13,C00081,South,Online,Electronics,Wireless Mouse,3,81.07,0.0,10.63
+O000227,2025-08-14,C00259,West,Online,Electronics,Bluetooth Speaker,4,56.66,0.0,6.17
+O002161,2025-08-14,C00404,West,Retail Store,Home,Storage Box,3,49.8,0.0,15.04
+O001219,2025-08-14,C00333,South,Retail Store,Electronics,Bluetooth Speaker,4,65.84,0.1,2.79
+O002159,2025-08-17,C00243,East,Online,Beauty,Travel Mirror,4,34.65,0.0,6.84
+O000885,2025-08-17,C00199,North,Online,Beauty,Hand Cream,3,32.05,0.05,14.92
+O001574,2025-08-17,C00329,East,Marketplace,Electronics,USB-C Hub,3,80.06,0.2,11.48
+O000166,2025-08-18,C00113,East,Online,Sports,Running Bottle,1,32.41,0.0,10.31
+O001426,2025-08-18,C00475,East,Marketplace,Home,Air Purifier,4,67.68,0.0,4.24
+O001535,2025-08-19,C00076,North,Retail Store,Electronics,Webcam,3,64.86,0.0,12.1
+O000514,2025-08-19,C00215,East,Online,Books,Sketch Pad,3,22.22,0.0,9.74
+O001843,2025-08-19,C00028,East,Marketplace,Beauty,Hand Cream,4,25.26,0.2,7.7
+O002196,2025-08-19,C00299,West,Retail Store,Books,Data Science Book,3,15.81,0.0,3.12
+O000741,2025-08-20,C00064,East,Retail Store,Electronics,Bluetooth Speaker,2,62.1,0.15,9.15
+O001965,2025-08-20,C00434,North,Online,Sports,Bike Light,3,22.5,0.0,8.83
+O001964,2025-08-21,C00351,South,Marketplace,Beauty,Travel Mirror,7,24.12,0.2,13.46
+O002338,2025-08-21,C00515,East,Marketplace,Sports,Yoga Mat,3,28.66,0.1,12.79
+O000849,2025-08-22,C00427,North,Online,Electronics,Bluetooth Speaker,2,53.31,0.05,7.11
+O000867,2025-08-22,C00130,West,Retail Store,Sports,Yoga Mat,5,30.36,0.05,8.32
+O001025,2025-08-23,C00226,East,Online,Books,Sketch Pad,1,22.56,0.1,9.37
+O002288,2025-08-23,C00519,North,Online,Beauty,Shampoo Set,3,30.52,0.05,14.57
+O000149,2025-08-23,C00442,West,Retail Store,Home,Coffee Grinder,2,28.19,0.0,3.61
+O001231,2025-08-23,C00437,South,Online,Beauty,Face Serum,3,27.45,0.0,6.25
+O002372,2025-08-24,C00405,West,Retail Store,Electronics,Webcam,3,96.93,0.0,6.56
+O000028,2025-08-24,C00176,West,Online,Home,Coffee Grinder,3,47.79,0.1,15.3
+O001587,2025-08-24,C00154,South,Online,Beauty,Face Serum,2,23.52,0.1,14.7
+O001264,2025-08-24,C00053,North,Marketplace,Sports,Yoga Mat,2,15.24,0.05,10.67
+O002326,2025-08-24,C00171,West,Online,Home,Coffee Grinder,3,25.41,0.1,15.36
+O002334,2025-08-24,C00479,North,Online,Electronics,Bluetooth Speaker,4,54.25,0.0,14.75
+O000524,2025-08-25,C00286,East,Online,Sports,Yoga Mat,2,26.36,0.05,5.1
+O000794,2025-08-26,C00370,West,Online,Electronics,Wireless Mouse,3,47.76,0.0,7.91
+O001923,2025-08-26,C00294,West,Marketplace,Home,Coffee Grinder,2,49.56,0.05,14.08
+O000433,2025-08-26,C00154,North,Retail Store,Sports,Bike Light,2,39.53,0.1,11.63
+O000605,2025-08-26,C00133,South,Retail Store,Beauty,Travel Mirror,2,18.33,0.1,5.21
+O001603,2025-08-26,C00047,North,Online,Electronics,Webcam,6,69.58,0.0,10.0
+O001040,2025-08-27,C00208,East,Retail Store,Sports,Running Bottle,4,33.58,0.2,15.87
+O000038,2025-08-27,C00004,West,Online,Home,Air Purifier,1,43.63,0.0,14.93
+O001987,2025-08-27,C00170,South,Retail Store,Beauty,Face Serum,3,23.32,0.0,13.85
+O000302,2025-08-27,C00223,East,Online,Books,Notebook,2,26.55,0.1,3.93
+O002081,2025-08-27,C00471,East,Online,Sports,Resistance Band,2,25.9,0.05,12.69
+O000553,2025-08-28,C00076,East,Online,Books,Notebook,4,15.18,0.1,3.22
+O001971,2025-08-28,C00457,South,Marketplace,Books,Planner,6,14.23,0.05,14.49
+O000482,2025-08-29,C00177,North,Retail Store,Beauty,Hand Cream,4,25.06,0.0,8.03
+O000334,2025-08-29,C00109,North,Online,Beauty,Hand Cream,3,21.48,0.0,4.78
+O000545,2025-08-30,C00175,East,Marketplace,Beauty,Face Serum,4,24.29,0.0,9.3
+O000388,2025-08-30,C00482,South,Retail Store,Sports,Yoga Mat,4,36.54,0.1,2.85
+O000084,2025-08-31,C00299,West,Online,Sports,Yoga Mat,6,30.58,0.05,6.74
+O002286,2025-08-31,C00439,West,Online,Beauty,Travel Mirror,2,16.55,0.0,12.45
+O002246,2025-08-31,C00182,West,Online,Home,Air Purifier,3,39.59,0.2,14.19
+O000090,2025-08-31,C00383,South,Retail Store,Sports,Yoga Mat,1,9.45,0.15,15.6
+O000101,2025-08-31,C00370,South,Marketplace,Electronics,Webcam,5,51.18,0.1,7.81
+O000582,2025-09-01,C00386,North,Online,Beauty,Face Serum,4,27.19,0.2,9.37
+O001933,2025-09-01,C00226,South,Marketplace,Electronics,Webcam,3,92.36,0.0,11.45
+O000611,2025-09-01,C00481,North,Marketplace,Electronics,Bluetooth Speaker,1,70.51,0.05,13.86
+O001097,2025-09-02,C00380,South,Online,Beauty,Travel Mirror,2,31.86,0.0,6.5
+O001865,2025-09-02,C00377,South,Retail Store,Home,Storage Box,3,41.68,0.0,12.88
+O001650,2025-09-03,C00405,North,Retail Store,Home,Storage Box,3,43.73,0.1,7.18
+O000589,2025-09-03,C00003,West,Marketplace,Books,Sketch Pad,2,21.93,0.15,6.04
+O000816,2025-09-03,C00515,East,Online,Sports,Yoga Mat,2,32.13,0.0,15.9
+O001080,2025-09-03,C00187,South,Retail Store,Sports,Bike Light,1,31.96,0.2,8.53
+O000868,2025-09-04,C00271,West,Retail Store,Books,Planner,4,13.48,0.1,12.71
+O001016,2025-09-04,C00216,South,Online,Electronics,Bluetooth Speaker,4,58.55,0.1,7.21
+O002208,2025-09-05,C00484,South,Retail Store,Electronics,USB-C Hub,3,81.15,0.0,6.71
+O000019,2025-09-05,C00116,South,Marketplace,Beauty,Shampoo Set,2,28.76,0.05,8.16
+O001961,2025-09-05,C00174,South,Online,Books,Planner,1,15.45,0.05,7.07
+O001086,2025-09-05,C00457,West,Marketplace,Electronics,Wireless Mouse,5,91.84,0.0,13.74
+O001659,2025-09-05,C00276,West,Marketplace,Beauty,Shampoo Set,2,22.53,0.1,9.04
+O001969,2025-09-05,C00389,South,Online,Electronics,Bluetooth Speaker,2,78.32,0.1,9.91
+O000459,2025-09-06,C00184,East,Retail Store,Home,Storage Box,2,40.09,0.0,14.4
+O001125,2025-09-06,C00271,East,Marketplace,Electronics,Bluetooth Speaker,4,49.37,0.05,4.42
+O000963,2025-09-06,C00012,South,Online,Home,Air Purifier,7,53.86,0.2,12.55
+O000513,2025-09-06,C00496,West,Marketplace,Books,Data Science Book,2,24.36,0.1,2.98
+O001500,2025-09-06,C00279,East,Retail Store,Books,Sketch Pad,2,21.81,0.0,6.77
+O001024,2025-09-07,C00037,South,Online,Electronics,Webcam,4,68.69,0.0,6.8
+O000093,2025-09-07,C00065,West,Online,Sports,Running Bottle,5,26.34,0.1,11.2
+O001126,2025-09-08,C00427,South,Marketplace,Books,Sketch Pad,3,17.33,0.05,14.62
+O002168,2025-09-08,C00248,South,Retail Store,Sports,Resistance Band,5,36.91,0.0,14.94
+O001093,2025-09-08,C00412,South,Retail Store,Sports,Yoga Mat,3,45.77,0.1,15.08
+O000590,2025-09-08,C00486,South,Online,Electronics,Webcam,1,83.01,0.0,5.81
+O001599,2025-09-09,C00457,North,Marketplace,Beauty,Travel Mirror,1,27.38,0.0,6.26
+O000723,2025-09-09,C00471,North,Retail Store,Home,Storage Box,4,44.48,0.05,11.48
+O001144,2025-09-09,C00023,North,Online,Home,Storage Box,1,47.33,0.05,3.11
+O001844,2025-09-10,C00484,West,Retail Store,Home,Air Purifier,4,53.54,0.05,4.12
+O002036,2025-09-10,C00148,South,Retail Store,Electronics,Bluetooth Speaker,2,69.06,0.05,9.67
+O000865,2025-09-10,C00321,East,Retail Store,Home,Coffee Grinder,3,60.0,0.05,7.83
+O000775,2025-09-10,C00276,North,Marketplace,Electronics,Wireless Mouse,2,34.84,0.05,7.08
+O000361,2025-09-10,C00110,West,Online,Books,Planner,4,19.69,0.15,11.42
+O001884,2025-09-10,C00012,North,Retail Store,Beauty,Face Serum,4,27.55,0.15,10.32
+O001657,2025-09-11,C00096,North,Online,Sports,Yoga Mat,2,36.79,0.1,3.83
+O001163,2025-09-11,C00370,West,Retail Store,Home,Coffee Grinder,4,57.11,0.0,11.84
+O001863,2025-09-11,C00266,West,Online,Electronics,Bluetooth Speaker,4,57.96,0.1,4.55
+O000477,2025-09-11,C00499,East,Online,Beauty,Travel Mirror,2,20.26,0.0,10.45
+O002149,2025-09-11,C00210,West,Retail Store,Beauty,Face Serum,2,22.58,0.0,2.79
+O000650,2025-09-12,C00032,North,Online,Beauty,Face Serum,6,26.39,0.0,12.46
+O000856,2025-09-12,C00323,East,Marketplace,Home,Storage Box,2,18.8,0.05,8.4
+O001548,2025-09-12,C00370,East,Marketplace,Electronics,Wireless Mouse,3,62.95,0.0,7.79
+O001007,2025-09-13,C00108,East,Retail Store,Beauty,Shampoo Set,3,27.6,0.05,5.31
+O001158,2025-09-13,C00120,North,Retail Store,Sports,Resistance Band,5,18.01,0.15,6.61
+O000297,2025-09-13,C00115,South,Online,Books,Sketch Pad,3,23.07,0.1,10.32
+O000780,2025-09-13,C00337,East,Marketplace,Electronics,Webcam,3,62.38,0.1,15.02
+O002319,2025-09-13,C00182,East,Retail Store,Sports,Bike Light,1,17.77,0.1,8.93
+O000560,2025-09-14,C00153,North,Online,Books,Data Science Book,2,14.86,0.0,7.71
+O001856,2025-09-14,C00338,West,Retail Store,Home,Storage Box,1,30.02,0.2,2.99
+O001465,2025-09-14,C00423,East,Retail Store,Home,Air Purifier,1,36.6,0.05,6.68
+O001150,2025-09-14,C00180,East,Marketplace,Electronics,Webcam,3,68.39,0.0,10.05
+O001896,2025-09-14,C00214,West,Online,Electronics,USB-C Hub,1,36.4,0.0,13.44
+O000882,2025-09-14,C00184,East,Marketplace,Electronics,USB-C Hub,7,43.49,0.0,3.91
+O000146,2025-09-15,C00512,West,Retail Store,Sports,Running Bottle,2,26.28,0.05,11.35
+O001314,2025-09-15,C00378,South,Online,Electronics,Wireless Mouse,2,41.11,0.0,10.93
+O001552,2025-09-15,C00105,West,Marketplace,Beauty,Face Serum,1,34.85,0.1,5.05
+O001310,2025-09-15,C00448,North,Online,Sports,Bike Light,1,34.46,0.0,8.63
+O002377,2025-09-16,C00027,East,Marketplace,Beauty,Shampoo Set,5,32.97,0.0,5.6
+O001401,2025-09-16,C00187,North,Online,Home,Coffee Grinder,1,45.8,0.0,14.78
+O001127,2025-09-16,C00076,East,Retail Store,Electronics,USB-C Hub,2,55.86,0.0,8.75
+O000835,2025-09-16,C00003,West,Retail Store,Electronics,Webcam,4,66.22,0.0,3.62
+O000643,2025-09-16,C00449,North,Marketplace,Electronics,Webcam,4,65.35,0.0,4.92
+O002150,2025-09-16,C00249,West,Marketplace,Home,Storage Box,4,44.16,0.0,9.65
+O001347,2025-09-17,C00456,North,Retail Store,Books,Planner,5,21.85,0.1,13.67
+O001560,2025-09-17,C00096,East,Retail Store,Sports,Yoga Mat,4,27.77,0.0,3.43
+O000151,2025-09-17,C00133,East,Online,Beauty,Travel Mirror,2,17.47,0.0,7.33
+O000125,2025-09-17,C00148,West,Online,Home,Air Purifier,1,62.76,0.0,5.75
+O000610,2025-09-18,C00322,South,Online,Electronics,USB-C Hub,5,50.42,0.1,5.5
+O002153,2025-09-18,C00414,South,Marketplace,Electronics,Wireless Mouse,3,71.49,0.1,8.3
+O000232,2025-09-18,C00176,East,Marketplace,Sports,Bike Light,3,20.38,0.0,4.22
+O001042,2025-09-18,C00371,North,Marketplace,Electronics,Webcam,2,116.67,0.05,6.8
+O001706,2025-09-19,C00438,West,Online,Sports,Resistance Band,1,17.46,0.05,7.3
+O000006,2025-09-19,C00476,West,Retail Store,Electronics,Bluetooth Speaker,5,40.62,0.0,15.84
+O000037,2025-09-19,C00465,East,Retail Store,Electronics,Webcam,2,69.67,0.05,6.1
+O001292,2025-09-19,C00425,East,Online,Home,Air Purifier,2,41.47,0.0,13.73
+O001247,2025-09-20,C00251,East,Online,Electronics,USB-C Hub,3,74.61,0.0,12.4
+O002098,2025-09-21,C00314,East,Retail Store,Home,Air Purifier,2,58.35,0.05,8.97
+O001735,2025-09-21,C00320,North,Marketplace,Sports,Running Bottle,5,37.52,0.1,13.36
+O002332,2025-09-21,C00126,East,Online,Electronics,USB-C Hub,1,58.61,0.1,15.67
+O000668,2025-09-21,C00487,North,Marketplace,Electronics,Wireless Mouse,5,64.52,0.15,6.95
+O001419,2025-09-21,C00092,South,Marketplace,Beauty,Face Serum,2,22.05,0.0,12.13
+O002198,2025-09-21,C00478,South,Retail Store,Electronics,Bluetooth Speaker,4,66.97,0.1,6.27
+O001486,2025-09-22,C00420,East,Retail Store,Beauty,Hand Cream,3,8.0,0.0,15.94
+O001589,2025-09-22,C00261,West,Retail Store,Books,Notebook,1,19.68,0.0,3.62
+O000829,2025-09-23,C00347,South,Retail Store,Sports,Running Bottle,4,30.82,0.0,7.73
+O000427,2025-09-23,C00237,North,Marketplace,Home,Desk Lamp,1,39.27,0.05,14.21
+O001521,2025-09-23,C00234,East,Online,Sports,Resistance Band,3,29.02,0.05,9.59
+O001509,2025-09-23,C00071,South,Retail Store,Electronics,USB-C Hub,5,62.21,0.15,13.14
+O001734,2025-09-24,C00148,North,Online,Books,Notebook,3,13.44,0.0,13.19
+O001280,2025-09-24,C00029,East,Retail Store,Books,Planner,2,11.69,0.15,8.66
+O001325,2025-09-25,C00189,North,Online,Books,Data Science Book,2,13.48,0.15,11.79
+O001214,2025-09-25,C00355,West,Marketplace,Sports,Yoga Mat,2,26.48,0.05,6.86
+O000492,2025-09-26,C00108,West,Online,Books,Planner,5,13.7,0.0,4.49
+O000504,2025-09-26,C00392,East,Retail Store,Sports,Running Bottle,6,29.6,0.0,5.7
+O001023,2025-09-26,C00102,North,Online,Home,Storage Box,2,31.55,0.15,11.84
+O002105,2025-09-28,C00514,South,Retail Store,Beauty,Shampoo Set,2,13.43,0.0,6.57
+O000921,2025-09-29,C00036,West,Online,Electronics,USB-C Hub,6,75.28,0.0,11.28
+O002390,2025-09-30,C00156,West,Online,Home,Air Purifier,2,52.09,0.0,11.5
+O001658,2025-09-30,C00059,South,Online,Home,Desk Lamp,1,42.32,0.0,11.18
+O002386,2025-10-01,C00487,East,Online,Beauty,Shampoo Set,1,11.02,0.15,14.11
+O000396,2025-10-01,C00146,West,Marketplace,Beauty,Travel Mirror,3,24.42,0.1,3.48
+O002142,2025-10-01,C00339,South,Marketplace,Beauty,Face Serum,1,30.35,0.15,10.91
+O001943,2025-10-01,C00443,North,Online,Books,Notebook,1,14.82,0.0,10.08
+O000558,2025-10-01,C00158,East,Online,Books,Notebook,2,17.16,0.0,12.42
+O001245,2025-10-01,C00517,South,Marketplace,Home,Storage Box,2,40.92,0.0,5.08
+O001898,2025-10-01,C00085,East,Online,Home,Storage Box,5,47.14,0.0,14.5
+O001408,2025-10-01,C00074,North,Marketplace,Electronics,USB-C Hub,1,53.86,0.0,11.47
+O001824,2025-10-02,C00204,North,Online,Sports,Resistance Band,3,34.82,0.0,3.61
+O002001,2025-10-03,C00379,East,Online,Beauty,Shampoo Set,2,15.7,0.1,2.92
+O000781,2025-10-03,C00390,North,Retail Store,Books,Sketch Pad,3,13.22,0.0,4.56
+O002227,2025-10-03,C00214,South,Marketplace,Electronics,USB-C Hub,4,65.86,0.1,15.51
+O001893,2025-10-04,C00400,East,Marketplace,Books,Planner,4,15.94,0.15,9.88
+O000812,2025-10-04,C00109,North,Marketplace,Home,Desk Lamp,2,36.28,0.0,15.0
+O001201,2025-10-04,C00492,North,Online,Sports,Resistance Band,5,27.64,0.0,13.46
+O001716,2025-10-04,C00048,North,Online,Electronics,Bluetooth Speaker,5,44.41,0.15,3.76
+O002304,2025-10-04,C00012,East,Marketplace,Sports,Resistance Band,1,30.82,0.0,15.05
+O001713,2025-10-05,C00030,South,Marketplace,Sports,Resistance Band,3,41.4,0.0,12.71
+O001371,2025-10-05,C00411,East,Online,Electronics,Webcam,2,45.55,0.0,14.05
+O001634,2025-10-05,C00486,South,Marketplace,Beauty,Hand Cream,2,35.69,0.05,3.99
+O001141,2025-10-06,C00369,West,Retail Store,Electronics,Webcam,2,67.38,0.15,7.22
+O001792,2025-10-06,C00324,West,Online,Beauty,Shampoo Set,2,17.98,0.0,13.08
+O000517,2025-10-06,C00142,West,Marketplace,Home,Storage Box,3,35.7,0.0,7.22
+O001815,2025-10-07,C00008,South,Online,Electronics,Webcam,3,64.34,0.0,15.81
+O002240,2025-10-08,C00486,East,Marketplace,Sports,Yoga Mat,3,18.04,0.05,15.18
+O000904,2025-10-08,C00469,South,Retail Store,Books,Planner,1,18.71,0.0,13.29
+O001004,2025-10-09,C00074,West,Online,Electronics,Bluetooth Speaker,5,36.82,0.15,11.28
+O000375,2025-10-09,C00495,North,Marketplace,Electronics,Bluetooth Speaker,3,60.57,0.0,10.96
+O001375,2025-10-10,C00178,West,Online,Sports,Bike Light,3,24.24,0.0,13.97
+O001324,2025-10-10,C00451,East,Marketplace,Sports,Bike Light,2,31.82,0.1,2.9
+O002091,2025-10-10,C00379,West,Marketplace,Home,Storage Box,2,42.31,0.1,11.19
+O001752,2025-10-10,C00239,West,Online,Beauty,Hand Cream,4,33.23,0.0,3.85
+O000035,2025-10-11,C00406,North,Retail Store,Electronics,USB-C Hub,3,79.11,0.0,15.25
+O001912,2025-10-11,C00188,East,Retail Store,Electronics,Bluetooth Speaker,3,84.74,0.1,11.69
+O000565,2025-10-11,C00206,East,Retail Store,Electronics,USB-C Hub,2,117.67,0.05,4.33
+O001606,2025-10-12,C00490,South,Marketplace,Electronics,Wireless Mouse,1,49.47,0.0,6.13
+O001692,2025-10-12,C00128,North,Retail Store,Books,Data Science Book,1,18.57,0.05,14.05
+O000362,2025-10-13,C00323,East,Marketplace,Sports,Yoga Mat,2,15.34,0.0,3.81
+O000389,2025-10-13,C00046,South,Online,Home,Desk Lamp,2,36.98,0.0,9.84
+O000358,2025-10-13,C00319,South,Online,Home,Coffee Grinder,3,30.2,0.15,14.94
+O001389,2025-10-13,C00366,South,Marketplace,Home,Storage Box,3,30.62,0.0,14.29
+O000048,2025-10-14,C00502,North,Online,Electronics,Webcam,3,59.69,0.1,15.13
+O002300,2025-10-14,C00394,North,Retail Store,Books,Notebook,4,15.48,0.1,3.7
+O002042,2025-10-14,C00501,East,Marketplace,Sports,Yoga Mat,2,18.22,0.1,11.92
+O000364,2025-10-15,C00149,South,Marketplace,Books,Sketch Pad,4,24.18,0.2,5.88
+O000579,2025-10-15,C00430,East,Retail Store,Home,Air Purifier,3,47.49,0.0,13.97
+O002061,2025-10-15,C00264,South,Online,Electronics,USB-C Hub,3,52.35,0.0,4.07
+O001304,2025-10-16,C00480,South,Online,Beauty,Face Serum,1,27.41,0.0,8.23
+O000828,2025-10-17,C00224,West,Retail Store,Home,Desk Lamp,4,46.47,0.05,8.11
+O001878,2025-10-17,C00448,West,Marketplace,Sports,Yoga Mat,4,26.84,0.0,5.11
+O000304,2025-10-17,C00002,West,Marketplace,Home,Storage Box,4,46.4,0.0,12.81
+O001384,2025-10-17,C00252,East,Online,Electronics,Wireless Mouse,2,70.75,0.1,7.48
+O001557,2025-10-17,C00105,West,Marketplace,Books,Planner,3,13.33,0.0,14.41
+O001632,2025-10-17,C00199,South,Online,Home,Coffee Grinder,3,47.78,0.0,11.44
+O000740,2025-10-18,C00112,East,Retail Store,Electronics,Wireless Mouse,4,45.51,0.05,8.67
+O001471,2025-10-18,C00072,North,Online,Sports,Resistance Band,5,19.74,0.0,13.45
+O000095,2025-10-18,C00456,North,Online,Home,Desk Lamp,4,33.07,0.15,6.07
+O000179,2025-10-20,C00082,North,Marketplace,Sports,Running Bottle,2,16.83,0.15,15.28
+O000220,2025-10-21,C00481,East,Retail Store,Books,Planner,1,18.32,0.0,5.37
+O001037,2025-10-21,C00426,North,Marketplace,Electronics,Webcam,3,81.84,0.1,15.54
+O000592,2025-10-21,C00041,South,Retail Store,Home,Storage Box,4,48.2,0.0,6.27
+O001826,2025-10-21,C00008,East,Online,Electronics,Webcam,3,66.75,0.0,5.13
+O001428,2025-10-21,C00359,East,Online,Home,Coffee Grinder,5,34.43,0.1,7.92
+O001315,2025-10-21,C00087,West,Retail Store,Electronics,Bluetooth Speaker,4,68.64,0.1,15.79
+O001206,2025-10-22,C00041,North,Online,Electronics,Wireless Mouse,5,97.09,0.15,9.26
+O001732,2025-10-22,C00097,North,Marketplace,Electronics,Wireless Mouse,4,59.88,0.0,8.35
+O000345,2025-10-23,C00118,North,Marketplace,Home,Air Purifier,2,40.73,0.0,10.89
+O000067,2025-10-23,C00176,East,Online,Electronics,Webcam,5,47.93,0.0,12.19
+O002287,2025-10-24,C00091,North,Retail Store,Beauty,Shampoo Set,3,38.38,0.05,3.04
+O001108,2025-10-25,C00335,West,Marketplace,Home,Air Purifier,2,56.43,0.1,7.3
+O001287,2025-10-25,C00290,East,Retail Store,Beauty,Shampoo Set,2,24.73,0.0,10.62
+O002068,2025-10-25,C00154,West,Online,Beauty,Shampoo Set,2,21.78,0.2,9.15
+O000202,2025-10-26,C00294,East,Marketplace,Electronics,Webcam,2,60.48,0.05,2.85
+O000843,2025-10-26,C00476,West,Retail Store,Sports,Bike Light,2,26.88,0.0,9.63
+O001569,2025-10-26,C00361,West,Online,Beauty,Face Serum,4,22.39,0.05,6.45
+O001154,2025-10-26,C00080,West,Retail Store,Sports,Resistance Band,4,14.15,0.0,4.98
+O001390,2025-10-26,C00343,East,Retail Store,Home,Coffee Grinder,2,28.01,0.0,5.46
+O002114,2025-10-27,C00087,West,Marketplace,Sports,Bike Light,4,41.45,0.15,5.75
+O000840,2025-10-27,C00483,South,Online,Beauty,Hand Cream,2,27.84,0.0,11.23
+O002101,2025-10-29,C00315,East,Online,Books,Notebook,2,12.81,0.0,12.5
+O000943,2025-10-29,C00435,West,Online,Beauty,Shampoo Set,3,21.09,0.0,3.77
+O002164,2025-10-29,C00196,North,Online,Sports,Yoga Mat,4,32.43,0.15,10.15
+O001708,2025-10-29,C00255,West,Marketplace,Electronics,Bluetooth Speaker,4,71.85,0.0,9.82
+O002113,2025-10-30,C00490,North,Online,Sports,Running Bottle,6,28.46,0.15,12.75
+O001507,2025-10-30,C00348,East,Online,Books,Planner,3,25.71,0.05,9.13
+O000529,2025-10-31,C00435,South,Online,Electronics,Wireless Mouse,2,71.17,0.0,8.07
+O000642,2025-10-31,C00403,East,Online,Sports,Yoga Mat,4,22.12,0.05,9.81
+O001354,2025-10-31,C00282,South,Marketplace,Books,Data Science Book,2,15.14,0.0,15.07
+O002305,2025-10-31,C00366,East,Online,Beauty,Face Serum,4,17.33,0.0,12.86
+O000324,2025-10-31,C00059,North,Online,Beauty,Shampoo Set,4,14.46,0.15,11.09
+O001951,2025-10-31,C00263,East,Marketplace,Electronics,Webcam,3,57.63,0.1,6.94
+O001170,2025-11-01,C00354,West,Retail Store,Sports,Bike Light,2,35.51,0.0,8.4
+O000153,2025-11-01,C00512,South,Online,Home,Air Purifier,3,25.05,0.05,11.06
+O001948,2025-11-01,C00503,North,Marketplace,Beauty,Shampoo Set,2,20.07,0.0,13.85
+O002383,2025-11-01,C00451,West,Online,Home,Coffee Grinder,6,58.58,0.1,13.15
+O000804,2025-11-02,C00151,South,Online,Sports,Running Bottle,3,33.57,0.15,9.23
+O001103,2025-11-02,C00490,South,Marketplace,Home,Air Purifier,6,41.41,0.1,13.63
+O000669,2025-11-02,C00519,South,Online,Sports,Resistance Band,3,24.05,0.1,7.81
+O001564,2025-11-02,C00435,North,Retail Store,Home,Air Purifier,2,55.18,0.15,3.84
+O001530,2025-11-02,C00140,West,Online,Books,Planner,4,23.46,0.15,5.52
+O001705,2025-11-03,C00195,West,Retail Store,Home,Storage Box,5,57.6,0.1,4.51
+O000715,2025-11-03,C00149,West,Online,Electronics,Wireless Mouse,7,72.11,0.1,8.92
+O001081,2025-11-03,C00502,West,Marketplace,Home,Storage Box,7,35.75,0.05,13.77
+O000969,2025-11-03,C00351,West,Retail Store,Home,Air Purifier,2,46.13,0.05,4.9
+O001972,2025-11-04,C00197,West,Online,Beauty,Travel Mirror,1,17.44,0.05,9.41
+O001006,2025-11-04,C00385,South,Online,Sports,Resistance Band,2,37.6,0.1,7.64
+O000733,2025-11-04,C00288,West,Online,Beauty,Shampoo Set,4,32.17,0.1,11.74
+O002014,2025-11-04,C00404,North,Online,Sports,Bike Light,2,20.39,0.05,7.39
+O000530,2025-11-04,C00296,East,Online,Home,Coffee Grinder,2,49.77,0.1,14.55
+O000061,2025-11-05,C00419,East,Online,Electronics,Wireless Mouse,2,63.3,0.0,15.59
+O000527,2025-11-05,C00396,North,Online,Home,Desk Lamp,4,37.86,0.05,15.61
+O001623,2025-11-06,C00313,North,Retail Store,Electronics,Bluetooth Speaker,2,81.1,0.1,15.17
+O002166,2025-11-06,C00070,East,Marketplace,Home,Coffee Grinder,2,14.05,0.0,6.94
+O001990,2025-11-06,C00189,North,Marketplace,Home,Desk Lamp,2,47.41,0.0,9.85
+O001262,2025-11-06,C00022,West,Online,Beauty,Travel Mirror,2,7.33,0.0,4.11
+O001679,2025-11-06,C00482,South,Online,Sports,Running Bottle,4,35.53,0.0,4.46
+O000264,2025-11-07,C00406,South,Marketplace,Home,Coffee Grinder,4,61.84,0.0,3.05
+O000452,2025-11-07,C00200,East,Online,Electronics,Bluetooth Speaker,4,42.78,0.15,4.67
+O000586,2025-11-07,C00070,East,Online,Beauty,Hand Cream,2,11.98,0.1,14.56
+O000577,2025-11-07,C00447,South,Retail Store,Beauty,Travel Mirror,3,15.08,0.05,12.08
+O001067,2025-11-07,C00503,West,Retail Store,Beauty,Face Serum,4,19.58,0.0,6.33
+O000499,2025-11-08,C00255,East,Retail Store,Books,Notebook,2,14.99,0.15,3.19
+O001182,2025-11-08,C00211,West,Online,Electronics,Wireless Mouse,2,72.84,0.1,6.06
+O000024,2025-11-08,C00339,South,Online,Sports,Running Bottle,4,32.03,0.0,6.15
+O000862,2025-11-09,C00328,West,Online,Electronics,Bluetooth Speaker,1,45.43,0.2,10.72
+O000421,2025-11-09,C00440,East,Online,Electronics,Webcam,3,81.94,0.0,7.56
+O000438,2025-11-09,C00430,South,Retail Store,Books,Planner,3,20.94,0.05,12.77
+O000722,2025-11-11,C00469,North,Retail Store,Home,Air Purifier,3,42.05,0.0,7.49
+O001516,2025-11-11,C00064,West,Online,Electronics,USB-C Hub,5,74.01,0.0,14.49
+O001273,2025-11-11,C00391,South,Online,Beauty,Shampoo Set,2,22.76,0.0,11.56
+O000693,2025-11-11,C00070,South,Marketplace,Sports,Running Bottle,1,28.53,0.0,14.29
+O001751,2025-11-11,C00045,East,Marketplace,Electronics,Wireless Mouse,4,61.7,0.0,15.37
+O001143,2025-11-11,C00183,West,Marketplace,Beauty,Face Serum,2,12.66,0.05,8.46
+O002228,2025-11-12,C00454,South,Retail Store,Books,Sketch Pad,4,28.48,0.2,2.58
+O001977,2025-11-12,C00319,East,Online,Books,Notebook,1,22.82,0.05,4.61
+O001533,2025-11-12,C00470,West,Retail Store,Sports,Running Bottle,4,33.33,0.0,5.57
+O000491,2025-11-13,C00370,South,Online,Beauty,Travel Mirror,1,21.41,0.0,10.14
+O000470,2025-11-13,C00164,North,Online,Books,Data Science Book,3,17.63,0.05,9.24
+O001443,2025-11-14,C00342,South,Online,Sports,Bike Light,4,26.0,0.05,12.21
+O001766,2025-11-14,C00322,North,Retail Store,Sports,Bike Light,5,27.94,0.0,14.05
+O000409,2025-11-14,C00346,North,Retail Store,Home,Air Purifier,4,45.2,0.0,11.26
+O000382,2025-11-15,C00069,South,Marketplace,Home,Desk Lamp,3,39.71,0.0,10.69
+O002169,2025-11-15,C00054,West,Marketplace,Electronics,Webcam,5,84.99,0.0,15.36
+O002289,2025-11-15,C00008,East,Retail Store,Electronics,Bluetooth Speaker,3,68.4,0.0,11.41
+O000754,2025-11-15,C00053,East,Online,Books,Notebook,3,14.96,0.05,11.12
+O002148,2025-11-15,C00041,West,Marketplace,Sports,Running Bottle,3,18.35,0.0,4.08
+O000680,2025-11-15,C00248,East,Retail Store,Sports,Yoga Mat,4,28.96,0.0,6.55
+O000764,2025-11-15,C00334,North,Online,Electronics,USB-C Hub,2,53.5,0.05,13.52
+O000348,2025-11-15,C00162,West,Online,Beauty,Travel Mirror,3,12.68,0.15,8.04
+O000286,2025-11-16,C00137,South,Online,Electronics,Webcam,3,46.97,0.05,13.34
+O001447,2025-11-16,C00266,North,Retail Store,Beauty,Hand Cream,1,31.72,0.1,13.56
+O000181,2025-11-16,C00467,West,Marketplace,Home,Storage Box,3,49.0,0.0,7.05
+O002097,2025-11-17,C00223,East,Marketplace,Beauty,Travel Mirror,3,16.59,0.05,15.19
+O002233,2025-11-17,C00272,East,Marketplace,Books,Sketch Pad,7,10.67,0.15,12.33
+O001689,2025-11-17,C00449,South,Online,Electronics,Bluetooth Speaker,4,75.15,0.0,11.89
+O000319,2025-11-17,C00342,South,Online,Electronics,Wireless Mouse,2,60.81,0.0,4.02
+O000936,2025-11-18,C00336,West,Retail Store,Sports,Resistance Band,3,27.28,0.15,14.8
+O001910,2025-11-18,C00037,North,Marketplace,Books,Data Science Book,2,25.73,0.0,10.41
+O001109,2025-11-18,C00119,East,Online,Sports,Resistance Band,2,35.89,0.1,13.78
+O000081,2025-11-18,C00069,South,Marketplace,Home,Storage Box,3,45.16,0.15,14.13
+O001837,2025-11-19,C00068,North,Marketplace,Sports,Resistance Band,4,30.9,0.0,12.94
+O001874,2025-11-19,C00200,South,Online,Beauty,Hand Cream,3,24.39,0.1,4.46
+O001681,2025-11-20,C00506,South,Retail Store,Electronics,USB-C Hub,4,60.8,0.0,2.69
+O002397,2025-11-22,C00405,East,Online,Books,Planner,3,13.89,0.15,15.52
+O000926,2025-11-22,C00361,North,Online,Home,Desk Lamp,2,43.06,0.1,11.65
+O002221,2025-11-22,C00443,East,Marketplace,Books,Data Science Book,2,14.7,0.0,10.67
+O000694,2025-11-22,C00496,West,Online,Electronics,Wireless Mouse,2,79.58,0.0,3.12
+O000949,2025-11-23,C00229,North,Marketplace,Beauty,Face Serum,3,12.02,0.05,3.82
+O000383,2025-11-23,C00445,South,Online,Home,Storage Box,3,38.9,0.0,7.93
+O002054,2025-11-23,C00249,West,Online,Home,Coffee Grinder,5,49.1,0.05,13.5
+O000763,2025-11-24,C00282,East,Online,Sports,Resistance Band,4,36.13,0.05,14.37
+O000571,2025-11-24,C00395,North,Retail Store,Sports,Yoga Mat,1,39.97,0.0,9.44
+O000640,2025-11-24,C00197,South,Online,Beauty,Shampoo Set,2,14.84,0.0,11.72
+O000965,2025-11-24,C00506,West,Online,Books,Data Science Book,1,11.18,0.15,14.19
+O002028,2025-11-25,C00006,South,Online,Electronics,USB-C Hub,2,89.37,0.0,13.79
+O001421,2025-11-25,C00333,North,Retail Store,Books,Notebook,2,15.48,0.15,11.33
+O001727,2025-11-25,C00404,West,Marketplace,Beauty,Face Serum,4,17.22,0.1,5.12
+O000776,2025-11-26,C00051,East,Online,Electronics,USB-C Hub,3,85.71,0.15,10.65
+O001295,2025-11-26,C00439,West,Online,Books,Data Science Book,3,16.22,0.0,5.41
+O001832,2025-11-27,C00489,East,Online,Electronics,USB-C Hub,3,62.76,0.0,7.45
+O002122,2025-11-27,C00345,South,Online,Home,Storage Box,4,48.42,0.05,6.94
+O001269,2025-11-27,C00324,West,Online,Sports,Resistance Band,2,12.09,0.05,15.86
+O001930,2025-11-27,C00371,South,Retail Store,Books,Notebook,4,13.13,0.05,5.17
+O001934,2025-11-27,C00037,North,Online,Electronics,Webcam,3,74.47,0.0,12.75
+O000340,2025-11-27,C00158,West,Online,Home,Storage Box,5,53.48,0.0,8.27
+O000671,2025-11-27,C00407,South,Online,Home,Desk Lamp,1,52.41,0.0,6.21
+O002387,2025-11-27,C00453,East,Online,Home,Coffee Grinder,3,41.1,0.15,6.79
+O002165,2025-11-28,C00217,North,Retail Store,Home,Air Purifier,3,38.86,0.0,11.26
+O000293,2025-11-28,C00184,East,Online,Sports,Yoga Mat,5,24.88,0.15,9.86
+O002389,2025-11-29,C00107,North,Retail Store,Beauty,Hand Cream,3,25.34,0.05,11.7
+O000448,2025-11-29,C00417,East,Retail Store,Beauty,Face Serum,3,24.49,0.0,4.34
+O001440,2025-11-29,C00375,East,Online,Electronics,USB-C Hub,3,81.28,0.0,13.42
+O001784,2025-11-29,C00274,South,Marketplace,Sports,Bike Light,2,19.35,0.1,10.89
+O000684,2025-12-01,C00169,West,Online,Beauty,Face Serum,4,35.97,0.0,14.55
+O001083,2025-12-01,C00085,South,Marketplace,Home,Desk Lamp,3,38.35,0.0,7.96
+O001054,2025-12-01,C00444,South,Online,Sports,Resistance Band,4,14.99,0.1,4.42
+O000274,2025-12-01,C00398,South,Online,Home,Air Purifier,2,63.68,0.1,8.47
+O001376,2025-12-02,C00431,West,Retail Store,Sports,Yoga Mat,3,20.64,0.0,9.4
+O000683,2025-12-02,C00386,West,Retail Store,Home,Coffee Grinder,4,45.06,0.0,5.36
+O000451,2025-12-02,C00256,West,Retail Store,Electronics,USB-C Hub,3,65.21,0.0,9.82
+O001810,2025-12-02,C00020,North,Retail Store,Beauty,Face Serum,2,21.48,0.0,5.45
+O000195,2025-12-02,C00478,East,Retail Store,Beauty,Hand Cream,4,29.62,0.0,15.92
+O000515,2025-12-02,C00093,East,Marketplace,Home,Desk Lamp,4,42.75,0.05,5.9
+O001448,2025-12-02,C00402,East,Retail Store,Beauty,Face Serum,4,22.74,0.0,11.16
+O001939,2025-12-02,C00140,South,Online,Beauty,Travel Mirror,3,23.16,0.2,5.91
+O002117,2025-12-03,C00205,North,Online,Beauty,Travel Mirror,5,14.61,0.15,9.56
+O000751,2025-12-03,C00203,West,Online,Books,Planner,5,13.11,0.15,3.73
+O001223,2025-12-03,C00461,East,Online,Beauty,Face Serum,5,34.31,0.0,14.44
+O001700,2025-12-03,C00510,North,Retail Store,Home,Desk Lamp,2,32.61,0.05,7.27
+O000649,2025-12-03,C00336,West,Online,Home,Desk Lamp,2,46.07,0.0,14.94
+O000999,2025-12-04,C00430,East,Marketplace,Electronics,Bluetooth Speaker,3,56.36,0.2,5.6
+O000503,2025-12-04,C00458,East,Marketplace,Home,Storage Box,9,30.69,0.0,9.85
+O000200,2025-12-04,C00130,West,Online,Home,Air Purifier,1,44.86,0.0,7.88
+O002363,2025-12-04,C00468,South,Online,Books,Planner,3,16.09,0.2,3.78
+O001377,2025-12-04,C00480,West,Retail Store,Beauty,Hand Cream,2,22.6,0.05,11.04
+O002143,2025-12-04,C00167,East,Marketplace,Electronics,USB-C Hub,2,69.44,0.0,12.12
+O001243,2025-12-05,C00187,West,Marketplace,Electronics,USB-C Hub,2,44.53,0.0,7.45
+O001210,2025-12-05,C00164,South,Marketplace,Books,Planner,2,25.68,0.0,6.17
+O000853,2025-12-05,C00090,East,Online,Home,Air Purifier,8,45.75,0.05,15.53
+O001369,2025-12-05,C00309,North,Online,Sports,Yoga Mat,1,22.87,0.0,6.12
+O000337,2025-12-05,C00252,West,Retail Store,Beauty,Face Serum,6,16.86,0.1,6.29
+O000466,2025-12-07,C00321,East,Online,Books,Data Science Book,3,14.58,0.0,10.82
+O000609,2025-12-07,C00128,North,Online,Home,Desk Lamp,2,47.04,0.0,9.85
+O001567,2025-12-08,C00037,West,Retail Store,Home,Desk Lamp,3,61.04,0.15,7.38
+O000064,2025-12-08,C00351,North,Online,Books,Sketch Pad,4,19.14,0.05,11.07
+O000861,2025-12-08,C00494,West,Retail Store,Books,Data Science Book,2,20.71,0.0,12.94
+O000797,2025-12-08,C00071,East,Retail Store,Home,Storage Box,4,51.31,0.0,4.86
+O000417,2025-12-09,C00492,South,Online,Electronics,Bluetooth Speaker,5,49.61,0.0,10.73
+O001226,2025-12-09,C00472,North,Online,Beauty,Shampoo Set,2,18.81,0.05,8.37
+O000208,2025-12-09,C00511,East,Retail Store,Electronics,Bluetooth Speaker,2,84.16,0.05,14.8
+O000355,2025-12-09,C00319,North,Online,Electronics,Bluetooth Speaker,3,76.59,0.05,15.3
+O001955,2025-12-10,C00511,West,Retail Store,Electronics,Webcam,3,59.77,0.1,10.74
+O000046,2025-12-10,C00102,East,Online,Electronics,USB-C Hub,5,47.81,0.05,3.36
+O001233,2025-12-10,C00163,South,Online,Sports,Yoga Mat,3,31.7,0.05,3.61
+O000404,2025-12-11,C00324,South,Retail Store,Beauty,Face Serum,2,31.83,0.0,15.5
+O000959,2025-12-11,C00401,East,Online,Home,Coffee Grinder,2,37.68,0.0,3.57
+O000441,2025-12-12,C00102,East,Marketplace,Beauty,Hand Cream,2,22.03,0.1,9.75
+O000947,2025-12-12,C00419,East,Marketplace,Electronics,Webcam,3,75.95,0.1,14.63
+O000325,2025-12-13,C00050,East,Retail Store,Beauty,Shampoo Set,4,14.09,0.1,6.76
+O002132,2025-12-14,C00515,East,Online,Electronics,USB-C Hub,1,47.54,0.05,3.91
+O001649,2025-12-14,C00311,West,Online,Beauty,Shampoo Set,4,32.64,0.0,8.02
+O002388,2025-12-14,C00085,South,Online,Home,Coffee Grinder,3,46.31,0.0,14.25
+O000012,2025-12-14,C00510,West,Online,Beauty,Face Serum,4,19.54,0.05,10.39
+O002270,2025-12-14,C00168,South,Retail Store,Books,Sketch Pad,3,26.33,0.0,14.56
+O001797,2025-12-14,C00348,North,Online,Sports,Yoga Mat,2,24.19,0.0,14.67
+O001250,2025-12-15,C00499,South,Marketplace,Sports,Yoga Mat,4,23.16,0.0,12.43
+O001475,2025-12-15,C00448,North,Marketplace,Sports,Bike Light,3,16.37,0.0,8.12
+O002170,2025-12-16,C00074,West,Retail Store,Home,Coffee Grinder,4,61.82,0.05,8.42
+O001746,2025-12-16,C00342,North,Retail Store,Home,Storage Box,3,30.1,0.1,4.16
+O000914,2025-12-17,C00375,East,Online,Sports,Running Bottle,2,30.24,0.0,14.15
+O002230,2025-12-17,C00151,West,Retail Store,Beauty,Hand Cream,6,20.44,0.0,2.51
+O000894,2025-12-17,C00026,South,Retail Store,Electronics,Wireless Mouse,4,63.66,0.0,5.31
+O001381,2025-12-17,C00425,North,Marketplace,Electronics,Wireless Mouse,3,67.53,0.0,12.21
+O000851,2025-12-17,C00253,South,Online,Books,Data Science Book,4,17.8,0.1,5.74
+O000594,2025-12-17,C00441,South,Retail Store,Beauty,Shampoo Set,3,12.92,0.0,2.76
+O001198,2025-12-18,C00440,West,Retail Store,Electronics,Wireless Mouse,5,83.82,0.1,15.14
+O001830,2025-12-19,C00239,West,Retail Store,Home,Desk Lamp,3,34.79,0.0,10.65
+O000141,2025-12-19,C00011,North,Marketplace,Electronics,Webcam,3,88.88,0.05,6.68
+O001676,2025-12-19,C00327,East,Online,Electronics,Wireless Mouse,2,76.93,0.05,9.86
+O001707,2025-12-19,C00450,South,Online,Books,Sketch Pad,2,15.58,0.05,8.19
+O001393,2025-12-20,C00252,West,Retail Store,Sports,Yoga Mat,6,28.56,0.0,6.4
+O000555,2025-12-20,C00248,North,Marketplace,Home,Desk Lamp,1,32.73,0.15,3.69
+O001828,2025-12-20,C00056,West,Retail Store,Books,Notebook,2,19.79,0.05,5.14
+O001570,2025-12-20,C00360,East,Online,Books,Sketch Pad,2,21.23,0.0,14.25
+O001228,2025-12-20,C00191,East,Retail Store,Beauty,Face Serum,3,32.2,0.15,11.35
+O001203,2025-12-20,C00017,East,Retail Store,Beauty,Face Serum,3,28.7,0.0,12.38
+O001457,2025-12-20,C00210,South,Marketplace,Home,Air Purifier,2,40.57,0.0,13.96
+O001246,2025-12-21,C00445,South,Marketplace,Sports,Running Bottle,2,34.27,0.1,10.59
+O002035,2025-12-21,C00238,East,Online,Electronics,USB-C Hub,2,57.89,0.05,12.59
+O000772,2025-12-22,C00254,East,Retail Store,Books,Notebook,9,13.37,0.0,12.91
+O001747,2025-12-23,C00141,South,Retail Store,Home,Desk Lamp,2,55.04,0.0,6.57
+O002039,2025-12-23,C00303,East,Retail Store,Home,Storage Box,3,57.92,0.1,14.19
+O001962,2025-12-23,C00257,North,Online,Books,Planner,2,13.3,0.0,6.79
+O002379,2025-12-23,C00100,North,Online,Beauty,Face Serum,1,30.37,0.0,11.9
+O000265,2025-12-24,C00484,South,Retail Store,Sports,Running Bottle,2,37.7,0.0,5.27
+O001088,2025-12-24,C00054,North,Online,Beauty,Shampoo Set,3,24.9,0.0,4.39
+O002376,2025-12-24,C00175,South,Online,Home,Storage Box,2,35.97,0.0,3.51
+O001082,2025-12-24,C00076,South,Retail Store,Electronics,USB-C Hub,5,96.32,0.0,13.94
+O000347,2025-12-25,C00497,West,Online,Electronics,Bluetooth Speaker,2,78.4,0.05,13.32
+O001620,2025-12-25,C00127,West,Online,Books,Notebook,3,14.77,0.05,4.62
+O000356,2025-12-26,C00087,West,Retail Store,Beauty,Face Serum,4,19.37,0.05,3.32
+O002260,2025-12-26,C00506,East,Online,Beauty,Shampoo Set,3,11.86,0.0,3.07
+O000145,2025-12-26,C00404,East,Retail Store,Books,Planner,4,15.96,0.0,4.02
+O002046,2025-12-26,C00482,West,Retail Store,Sports,Resistance Band,4,26.5,0.05,13.12
+O001626,2025-12-26,C00017,East,Online,Beauty,Hand Cream,3,21.92,0.05,13.85
+O001998,2025-12-27,C00466,South,Retail Store,Electronics,USB-C Hub,3,93.81,0.0,9.06
+O000511,2025-12-28,C00089,West,Retail Store,Beauty,Shampoo Set,2,25.97,0.0,11.96
+O001559,2025-12-28,C00103,West,Marketplace,Beauty,Face Serum,5,30.81,0.05,13.61
+O001056,2025-12-28,C00171,East,Marketplace,Sports,Running Bottle,1,32.63,0.05,7.1
+O001117,2025-12-28,C00314,South,Retail Store,Electronics,Bluetooth Speaker,5,52.4,0.0,14.5
+O001422,2025-12-28,C00127,South,Marketplace,Books,Planner,4,25.84,0.1,6.73
+O000810,2025-12-29,C00494,West,Marketplace,Beauty,Hand Cream,3,9.87,0.05,11.31
+O002173,2025-12-29,C00271,North,Marketplace,Books,Notebook,5,16.11,0.15,3.14
+O000691,2025-12-29,C00017,North,Online,Electronics,Wireless Mouse,4,63.93,0.05,13.75
+O000161,2025-12-29,C00073,East,Marketplace,Sports,Yoga Mat,1,17.25,0.0,7.12
+O001346,2025-12-30,C00354,East,Retail Store,Home,Coffee Grinder,1,35.24,0.0,10.09
+O002218,2025-12-30,C00234,East,Online,Beauty,Face Serum,5,15.24,0.0,4.57
+O000401,2025-12-30,C00296,North,Online,Books,Notebook,4,18.45,0.1,3.95
+O001169,2025-12-30,C00083,North,Online,Home,Air Purifier,5,52.6,0.0,7.59
+O001336,2025-12-31,C00397,South,Online,Sports,Bike Light,3,17.42,0.0,10.45
+O002262,2025-12-31,C00388,North,Online,Beauty,Shampoo Set,3,26.16,0.0,10.31
+O000820,2025-12-31,C00109,West,Online,Home,Storage Box,4,18.63,0.05,7.82

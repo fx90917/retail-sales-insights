@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retail-sales-insights"
+version = "0.1.0"
+description = "A reproducible retail sales analytics and forecasting project."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scikit-learn>=1.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+retail-insights = "retail_sales_insights.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
